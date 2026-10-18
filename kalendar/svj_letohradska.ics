@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SVJ Letohradska 367/5//Praha 7//CZ
+X-WR-CALNAME:SVJ Letohradská 367/5
+X-WR-TIMEZONE:Europe/Prague
+BEGIN:VEVENT
+SUMMARY:Shromáždění SVJ – Podzim 2026
+DTSTART;TZID=Europe/Prague:20261115T180000
+DTEND;TZID=Europe/Prague:20261115T200000
+DTSTAMP:20261018T102922Z
+UID:svj-shromazdeni-20261115@svj-letohradska.cz
+DESCRIPTION:Pravidelné shromáždění vlastníků jednotek. Program: sch
+ válení účetní závěrky\, plán oprav na rok 2027\, informace o fondu
+  oprav.
+LOCATION:Letohradská 367/5\, Praha 7 (společné prostory / suterén)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pravidelný odečet vodoměrů a měřičů tepla
+DTSTART;TZID=Europe/Prague:20261210T170000
+DTEND;TZID=Europe/Prague:20261210T193000
+DTSTAMP:20261018T102922Z
+UID:svj-odecty-20261210@svj-letohradska.cz
+DESCRIPTION:Přístup techniků do všech bytových jednotek za účelem r
+ očního odečtu stavu podružných měřičů teplé a studené vody a to
+ pení.
+LOCATION:Letohradská 367/5\, jednotlivé byty
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Roční kontrola spalinových cest (kominík)
+DTSTART;TZID=Europe/Prague:20261025T090000
+DTEND;TZID=Europe/Prague:20261025T130000
+DTSTAMP:20261018T102922Z
+UID:svj-revize-kominy-20261025@svj-letohradska.cz
+DESCRIPTION:Zákonná roční kontrola a čištění spalinových cest.
+LOCATION:Letohradská 367/5 (střecha\, společné komíny a byty s plynov
+ ými spotřebiči)
+END:VEVENT
+END:VCALENDAR

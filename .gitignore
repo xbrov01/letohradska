@@ -1,0 +1,25 @@
+# Environment variables and secrets
+.env
+*.local
+credentials.json
+service_account.json
+token.json
+client_secret*.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Scratch and temporary files
+scratch/

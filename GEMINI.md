@@ -1,0 +1,69 @@
+# Project Guidelines – SVJ Letohradská 367/5
+
+Tento projekt slouží jako inteligentní asistent pro správu agendy předsedy Společenství vlastníků jednotek domu **Letohradská 367/5, Praha 7**.
+
+---
+
+## 1. Customizations Scope (Skills, MCP Servers, and Agents)
+- Veškeré úpravy, konfigurace nebo doplňky týkající se **skillů**, **MCP serverů** a **agentů** musí být prováděny v rámci tohoto projektu (ve složce `.agents/` nebo v kořeni projektu), nikoliv globálně.
+  - **Skills**: Ukládat do `.agents/skills/<skill-name>/` se souborem `SKILL.md`.
+  - **MCP Servery**: Konfigurace na úrovni projektu v `.agents/` nebo v konfiguračních souborech projektu.
+  - **Rules / Agenti**: Zaznamenávat v `GEMINI.md` nebo v `.agents/`.
+
+---
+
+## 2. Git Workflow (GitHub Repozitář)
+- **Repozitář**: `git@github.com:xbrov01/letohradska.git` (větev `main`).
+- **Pravidlo commitů a pushování**: Po každé významnější změně, dokončení úkolu, aktualizaci agendy nebo vytvoření nových záznamů VŽDY provést popisný Git commit a okamžitě odeslat změny do vzdáleného repozitáře pomocí:
+  ```bash
+  git add .
+  git commit -m "Popis provedených změn"
+  git push origin main
+  ```
+- **Ochrana citlivých údajů**: Do repozitáře se NIKDY nesmí commitovat tajné klíče a přístupové údaje (`.env`, `service_account.json`, `credentials.json`, `token.json` apod.). Tyto soubory jsou striktně vedeny v `.gitignore`.
+
+---
+
+## 3. Pravidla pro ukládání dat (Markdown)
+- **Výhradní formát Markdown (`.md`)**: Veškerá data, evidence, dokumenty a záznamy agendy předsedy SVJ se ukládají a spravují výhradně v souborech formátu Markdown.
+- **Struktura agendy v projektu**:
+  - `agenda/jednotky.md` – evidence bytových a nebytových jednotek, vlastníků, spoluvlastnických podílů a kontaktů.
+  - `agenda/revize.md` – přehled a termíny pravidelných zákonných revizí (plyn, elektro, hromosvody, komíny, požární ochrana, hydranty, hasicí přístroje atd.), lhůty a historie.
+  - `agenda/udalosti.md` – kalendářní události, plánovaná shromáždění SVJ, odečty měřidel, schůzky s dodavateli a správcovskou firmou.
+  - `agenda/ukoly.md` – seznam otevřených, probíhajících a vyřešených úkolů předsedy SVJ.
+  - `agenda/zapisy/` – zápisy ze shromáždění vlastníků, jednání výboru/předsedy a korespondence.
+  - `kalendar/` – generovaný iCalendar (`svj_letohradska.ics`) a související kalendářní exporty.
+- **Přehlednost a struktura**: V souborech markdownu používat tabulky, kontrolní seznamy (checkboxy `- [ ]`), tučné zvýraznění klíčových údajů (termíny, částky, kontakty) a standardní hlavičky pro snadné strojové i lidské čtení.
+
+---
+
+## 4. Pravidla pro přístup a synchronizaci s Google Kalendářem
+- **Identifikace kalendáře**: ID Google Kalendáře pro SVJ je uloženo v souboru `.env` pod proměnnou `GOOGLE_CALENDAR_ID`.
+- **Autentizace**:
+  - Primárně přes Google **Service Account** uložený v souboru `service_account.json` (cesta definována v `.env` jako `GOOGLE_SERVICE_ACCOUNT_FILE=service_account.json`).
+  - Podporována je také autentizace přes OAuth 2.0 (`token.json` / `credentials.json`).
+- **Pravidlo synchronizace**:
+  - Asistent VŽDY udržuje Google Kalendář synchronizovaný se všemi termíny zapsanými v agendě (zejména `agenda/udalosti.md` a `agenda/revize.md`).
+  - Synchronizace probíhá pomocí skriptu `python scripts/sync_calendar.py`, který:
+    1. Načte termíny a události z Markdown souborů agendy.
+    2. Vygeneruje standardní iCalendar soubor `kalendar/svj_letohradska.ics`.
+    3. Pokud je dostupný `service_account.json` (či OAuth token) a nastaveno `GOOGLE_CALENDAR_ID`, provede přímou synchronizaci do Google Kalendáře přes Google Calendar API v3.
+- **Kdy synchronizovat**:
+  - Kdykoliv je vytvořen, upraven nebo potvrzen nový termín (shromáždění, revize, odečet měřidel, schůzka).
+  - Při týdenním/pravidelném přehledu a při volbě z interaktivního menu.
+
+---
+
+## 5. Spouštění skriptů, PowerShellu a příkazové řádky
+- **Automatické spouštění příkazů a skriptů**: Asistent má v tomto projektu plné oprávnění spouštět python skripty (`python scripts/...`, `python ...`), veškeré běžné příkazy PowerShellu (všechny cmdlety `Get-*`, `Set-*`, `New-*`, `Remove-*`, `Test-*`, `Select-*` atd.), aliasy a nástroje příkazové řádky (`git`, `dir`, `ls`, `cd`, `cat`, `type`, `echo`, `findstr`, `tree`, `whoami`, `curl` apod.) přímo a autonomně bez vyžadování zbytečného potvrzování.
+
+---
+
+## 6. Zahájení nové konverzace (Interaktivní menu)
+- **Automatická nabídka hlavních akcí**: Při zahájení nové konverzace v tomto projektu (při prvním vstupu uživatele, obecném pozdravu typu „Ahoj“, stisku Enteru apod., pokud uživatel nezadá přímo jiný konkrétní specifický úkol) asistent VŽDY okamžitě zobrazí interaktivní výběrová tlačítka (`ask_question`) s hlavními akcemi pro správu SVJ Letohradská 367/5:
+  1. `(Doporučeno) Zobrazit přehled nadcházejících termínů, revizí a událostí`
+  2. `Zkontrolovat stav otevřených úkolů a závad v domě`
+  3. `Synchronizovat agendu a termíny s Google Kalendářem`
+  4. `Otevřít evidenci jednotek a kontaktů na vlastníky`
+  5. `Zaznamenat nový zápis, úkol nebo termín revize`
+- Po volbě uživatele asistent ihned provede požadovanou akci nebo zobrazí strukturovaný přehled.
