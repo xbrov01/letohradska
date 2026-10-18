@@ -109,8 +109,10 @@ Zastoupená jednateli: Ing. arch. Danem Mertou / MgA. Danielem Baudisem
    *(Pozn.: Alternativně lze sjednat na dobu určitou, např. na 1 rok od 1. 1. 2027 do 31. 12. 2027 s možností prolongace).*
 2. Nájemní vztah může zaniknout:
    * a) Písemnou dohodou smluvních stran.
-   * b) Písemnou výpovědí kterékoliv ze smluvních stran bez uvedení důvodu s **výpovědní lhůtou 6 měsíců**, která počíná běžet prvním dnem kalendářního měsíce následujícího po doručení výpovědi druhé smluvní straně.
-   * c) Písemnou výpovědí pronajímatele s výpovědní lhůtou 30 dnů v případě podstatného porušení smlouvy nájemcem (zejména prodlení s platbou delší než 30 dnů, užívání v rozporu s účelem, poškozování domu či neoprávněný podnájem), pokud nájemce nezjedná nápravu ani v přiměřené lhůtě po písemné výzvě.
+   * b) Písemnou výpovědí kterékoliv ze smluvních stran bez uvedení důvodu s **výpovědní lhůtou 6 měsíců** v souladu s § 2312 občanského zákoníku, která počíná běžet prvním dnem kalendářního měsíce následujícího po doručení výpovědi druhé smluvní straně. Má-li strana k výpovědi vážný důvod, činí výpovědní doba 3 měsíce.
+   * c) Písemnou výpovědí pronajímatele bez výpovědní doby v případě podstatného porušení smlouvy nájemcem (zejména prodlení s platbou nájemného či záloh delší než 30 dnů po splatnosti, neoprávněný podnájem nebo užívání prostoru v rozporu se sjednaným účelem), pokud nájemce nezjedná nápravu ani v přiměřené lhůtě po písemné výzvě.
+3. Vypovídaná strana má právo vznášet písemné námitky proti výpovědi v souladu s § 2314 občanského zákoníku do 1 měsíce od doručení výpovědi.
+4. Smluvní strany se výslovně dohodly na **vyloučení aplikace ustanovení § 2315 občanského zákoníku**; nájemce nemá při skončení nájmu právo na náhradu za případné převzetí zákaznické základny.
 
 ---
 

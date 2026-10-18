@@ -72,7 +72,7 @@ Bytem v ČR: Letohradská 367/5, Holešovice, 170 00 Praha 7
 ### Čl. 3 – Práva a povinnosti smluvních stran
 1. **Nájemce je povinen zejména:**
    * a) Užívat byt řádně a v souladu s dobrými mravy, dodržovat domovní řád a nerušit ostatní uživatele bytů v domě.
-   * b) Hradit běžnou údržbu a drobné opravy v bytě v souladu s nařízením vlády č. 308/2015 Sb.
+   * b) Hradit běžnou údržbu a drobné opravy v bytě v souladu s nařízením vlády č. 308/2015 Sb., ve znění nařízení vlády č. 493/2025 Sb. (s limitem do 1 500 Kč na jednotlivou opravu a ročním limitem 150 Kč/m² podlahové plochy bytu).
    * c) Neprovádět žádné stavební úpravy ani podstatné změny v bytě bez předchozího písemného souhlasu pronajímatele.
    * d) Písemně oznámit pronajímateli změnu v počtu osob žijících v bytě nejpozději do 2 měsíců od okamžiku, kdy změna nastala (pro správné stanovení záloh na služby).
    * e) Nepřenechat byt ani jeho část do podnájmu třetí osobě bez předchozího písemného souhlasu pronajímatele.
@@ -89,17 +89,17 @@ Bytem v ČR: Letohradská 367/5, Holešovice, 170 00 Praha 7
 ### Čl. 4 – Nájemné a úhrada za plnění spojená s užíváním bytu (služby)
 1. **Výše nájemného:** Nájemné se sjednává dohodou smluvních stran a činí **8 500,- Kč měsíčně** (slovy: osm tisíc pět set korun českých).  
    *(Pozn.: Lze upravit dle uvážení uživatele, např. na 7 500 Kč).*
-2. **Zálohy na služby:** Společně s nájemným se nájemce zavazuje hradit měsíční zálohy na nezbytné služby (vodné a stočné, úklid společných prostor, osvětlení společných prostor, odvoz komunálního odpadu). Výše záloh je stanovena platným Výpočtovým listem a k datu podpisu činí **2 150,- Kč měsíčně** (pro hlášený počet osob v bytě). Zálohy podléhají ročnímu vyúčtování vždy do 30. dubna následujícího roku.
+2. **Zálohy na služby:** Společně s nájemným se nájemce zavazuje hradit měsíční zálohy na nezbytné služby (vodné a stočné, úklid společných prostor, osvětlení společných prostor, odvoz komunálního odpadu). Výše záloh je stanovena platným Výpočtovým listem a k datu podpisu činí **2 150,- Kč měsíčně** (pro hlášený počet osob v bytě). Zálohy podléhají ročnímu vyúčtování vždy do 30. dubna následujícího roku v souladu se zákonem č. 67/2013 Sb.
 3. **Závazek výhradně bezhotovostní platby na bankovní účet:**
    * Celková měsíční platba (nájemné + zálohy na služby) ve výši **10 650,- Kč** je splatná **výhradně bezhotovostním převodem na bankovní účet č. 2844175379/0800**, vedený u České spořitelny a.s.
    * Platba je splatná měsíčně dopředu, **nejpozději do 15. dne příslušného kalendářního měsíce**.
    * Variabilní symbol platby: **3673**. Platby v hotovosti nejsou přípustné.
-4. **Prodlení:** V případě prodlení s úhradou nájemného nebo záloh se sjednává smluvní pokuta ve výši 0,1 % z dlužné částky za každý den prodlení.
+4. **Prodlení a smluvní pokuta:** V případě prodlení s úhradou nájemného nebo záloh na služby se sjednává smluvní pokuta ve výši 0,1 % z dlužné částky za každý den prodlení. V souladu s ustanovením § 2254 odst. 1 občanského zákoníku nesmí peněžitá jistota a právo pronajímatele na zaplacení smluvní pokuty v souhrnu přesáhnout trojnásobek měsíčního nájemného.
 
 ---
 
 ### Čl. 5 – Inflační doložka
-1. Smluvní strany sjednávají inflační doložku. Pronajímatel je oprávněn jednostranně zvýšit sjednané nájemné jednou ročně o míru inflace vyjádřenou přírůstkem průměrného ročního indexu spotřebitelských cen za uplynulý kalendářní rok, vyhlašovaným Českým statistickým úřadem.
+1. Smluvní strany sjednávají v souladu s § 2248 občanského zákoníku inflační doložku. Pronajímatel je oprávněn jednostranně zvýšit sjednané nájemné jednou ročně o míru inflace vyjádřenou přírůstkem průměrného ročního indexu spotřebitelských cen za uplynulý kalendářní rok, vyhlašovaným Českým statistickým úřadem.
 2. Zvýšení nájemného je pronajímatel oprávněn uplatnit písemným oznámením zaslaným nájemci, přičemž upravené nájemné je nájemce povinen platit počínaje měsícem následujícím po doručení tohoto oznámení (zpravidla k 1. říjnu kalendářního roku).
 
 ---
@@ -108,14 +108,15 @@ Bytem v ČR: Letohradská 367/5, Holešovice, 170 00 Praha 7
 1. Tato smlouva se uzavírá na **dobu neurčitou** s účinností ode dne **1. 1. 2027**.
 2. Nájem bytu zaniká:
    * a) Písemnou dohodou smluvních stran.
-   * b) Písemnou výpovědí pronajímatele nebo nájemce ze zákonných důvodů v souladu s občanským zákoníkem; výpovědní lhůta činí **3 měsíce** (resp. **6 měsíců** dle dohody) a počíná běžet prvním dnem kalendářního měsíce následujícího po doručení výpovědi.
-   * c) Písemnou výpovědí pronajímatele bez výpovědní doby v případě zvlášť závažného porušení povinností nájemcem (např. nezaplacení nájemného a záloh za dobu alespoň 3 měsíců, poškozování domu závažným způsobem).
+   * b) Písemnou výpovědí nájemce z jakéhokoliv důvodu nebo bez uvedení důvodu s tříměsíční výpovědní dobou, která počíná běžet prvním dnem kalendářního měsíce následujícího po doručení výpovědi pronajímateli.
+   * c) Písemnou výpovědí pronajímatele výhradně ze zákonných důvodů taxativně vymezených v § 2288 občanského zákoníku s tříměsíční (resp. šestiměsíční) výpovědní dobou. Výpověď pronajímatele musí být písemná, musí obsahovat konkrétní zákonný výpovědní důvod a v souladu s § 2286 odst. 2 občanského zákoníku poučení nájemce o jeho právu vznést proti výpovědi písemné námitky a navrhnout přezkoumání oprávněnosti výpovědi soudem do 2 měsíců ode dne, kdy mu výpověď došla.
+   * d) Písemnou výpovědí pronajímatele bez výpovědní doby v případě, že nájemce poruší svou povinnost zvlášť závažným způsobem ve smyslu § 2291 občanského zákoníku (zejména nezaplatí-li nájemné a zálohy za dobu alespoň tří měsíců či poškozuje dům závažným způsobem), přičemž výpovědi musí předcházet písemná výzva k nápravě v přiměřené lhůtě.
 
 ---
 
 ### Čl. 7 – Jistina (kauce)
-1. Nájemce složil na účet pronajímatele jistinu ve výši **10 000,- Kč** (slovy: deset tisíc korun českých).
-2. Jistina slouží k zajištění úhrady nájemného, záloh na služby, nedoplatků z vyúčtování služeb a případné náhrady škody. Jistina bude nájemci vyúčtována a vrácena do 15 dnů po protokolárním vyklizení a předání bytu při skončení nájmu.
+1. Nájemce složil na účet pronajímatele peněžitou jistinu ve výši **10 000,- Kč** (slovy: deset tisíc korun českých).
+2. Jistina slouží k zajištění úhrady nájemného, záloh na služby, nedoplatků z vyúčtování služeb a případné náhrady škody. Jistina bude nájemci vyúčtována a vrácena do 15 dnů po protokolárním vyklizení a předání bytu při skončení nájmu, spolu se zákonným úrokem v souladu s § 2254 odst. 2 občanského zákoníku. Pronajímatel je oprávněn si před vrácením jistiny započíst veškeré splatné pohledávky z nájmu.
 
 ---
 
