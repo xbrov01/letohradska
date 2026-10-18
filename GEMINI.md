@@ -31,6 +31,7 @@ Tento projekt slouží jako inteligentní asistent pro správu agendy předsedy 
   - `agenda/revize.md` – přehled a termíny pravidelných zákonných revizí (plyn, elektro, hromosvody, komíny, požární ochrana, hydranty, hasicí přístroje atd.), lhůty a historie.
   - `agenda/udalosti.md` – kalendářní události, plánovaná shromáždění SVJ, odečty měřidel, schůzky s dodavateli a správcovskou firmou.
   - `agenda/ukoly.md` – seznam otevřených, probíhajících a vyřešených úkolů předsedy SVJ.
+  - `agenda/koncepty/` – připravené koncepty emailů a korespondence k ručnímu odeslání.
   - `agenda/zapisy/` – zápisy ze shromáždění vlastníků, jednání výboru/předsedy a korespondence.
   - `kalendar/` – generovaný iCalendar (`svj_letohradska.ics`) a související kalendářní exporty.
 - **Přehlednost a struktura**: V souborech markdownu používat tabulky, kontrolní seznamy (checkboxy `- [ ]`), tučné zvýraznění klíčových údajů (termíny, částky, kontakty) a standardní hlavičky pro snadné strojové i lidské čtení.
@@ -67,3 +68,11 @@ Tento projekt slouží jako inteligentní asistent pro správu agendy předsedy 
   4. `Otevřít evidenci jednotek a kontaktů na vlastníky`
   5. `Zaznamenat nový zápis, úkol nebo termín revize`
 - Po volbě uživatele asistent ihned provede požadovanou akci nebo zobrazí strukturovaný přehled.
+
+---
+
+## 7. Zobrazování úkolů a práce s emaily
+- **Přehled úkolů**: Při dotazu na seznam úkolů vytvořit VŽDY **krátký a přehledný souhrn seřazený podle priorit a urgence** (urgentní termíny nejblíže, bezodkladné právní/zákonné lhůty, následně strategické a provozní úkoly).
+- **Striktní zákaz samostatného odesílání emailů (pouze koncepty)**:
+  - Pokud je třeba poslat jakýkoliv email, asistent ho **NIKDY neodesílá samostatně ani automaticky**.
+  - Asistent VŽDY vytvoří pouze **koncept emailu** (příjemce, předmět, text těla) a uloží jej do složky `agenda/koncepty/` ve formátu Markdown (s metadaty a jasnou výzvou ke schválení/odeslání uživatelem).
