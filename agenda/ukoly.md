@@ -63,7 +63,7 @@
 - [ ] **Projednání a podpis nových smluv s nájemci k 1. 1. 2027**:
   - DDAANN s.r.o. (návrh zvýšení z 10 000 na 14 500 Kč/měs.).
   - Tetsu Onari (návrh zvýšení z 5 700 na 8 500 Kč/měs., příp. 7 500 Kč).
-  - Ivo Boschofsky (návrh zvýšení z 8 000 na 11 000 Kč/měs., příp. 10 000 Kč; přepis PRE).
+  - Ivo Boschofsky (dosud reálně 10 000 Kč; návrh zvýšení na 12 000 Kč/měs., příp. ponechání 10 000 Kč s formálním zakotvením; přepis PRE).
 - [ ] **Uplatnění inflační doložky k 1. říjnu u pana Kopeckého**:
   - Byt č. 2 (6 180 Kč) a nebyt č. 102 (10 000 Kč) – ověřit index ČSÚ a případně uplatnit valorizaci.
 

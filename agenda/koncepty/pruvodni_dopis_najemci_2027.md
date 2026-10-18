@@ -57,11 +57,11 @@ Dovolte mi proto shrnout hlavní důvody a změny, které nová nájemní smlouv
   * *Variabilní symbol pro platby:* `3673`
 
 * **Pro pana Ivo Boschofského (Byt č. 367/1, 71,5 m²):**
-  * *Původní čisté nájemné:* 8 000 Kč / měsíc (cca 112 Kč/m²)
-  * *Nově navržené čisté nájemné od 1. 1. 2027:* **11 000 Kč / měsíc** *(příp. 10 000 Kč)* (zohledňuje absenci standardní koupelny)
+  * *Dosavadní čisté nájemné:* 10 000 Kč / měsíc (cca 140 Kč/m²)
+  * *Nově navržené čisté nájemné od 1. 1. 2027:* **12 000 Kč / měsíc** (cca 168 Kč/m²) *(případně ponechání 10 000 Kč s formálním zakotvením ve smlouvě)*
   * *Zálohy na služby (SVJ):* dle výpočtového listu pro 1 osobu cca **559 Kč / měsíc**
   * *Energie:* povinný přepis elektroměru PRE přímo na nájemce nejpozději do 31. 1. 2027.
-  * *Platební styk:* povinné zřízení měsíčního trvalého příkazu na účet domu pod VS `3671`.
+  * *Platební styk:* povinné zřízení měsíčního trvalého příkazu na účet domu pod VS `3671`. Platby v hotovosti se ruší.
 
 ---
 

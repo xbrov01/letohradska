@@ -87,11 +87,11 @@ Bytem: Letohradská 367/5, Holešovice, 170 00 Praha 7
 ---
 
 ### Čl. 4 – Nájemné a úhrada za služby
-1. **Výše nájemného:** Nájemné se sjednává dohodou smluvních stran a činí **11 000,- Kč měsíčně** (slovy: jedenáct tisíc korun českých).  
-   *(Pozn.: Lze upravit např. na 10 000 Kč dle uvážení uživatele).*
+1. **Výše nájemného:** Nájemné se sjednává dohodou smluvních stran a činí **12 000,- Kč měsíčně** (slovy: dvanáct tisíc korun českých).  
+   *(Pozn.: Lze upravit dle uvážení – dosud nájemce reálně hradil 10 000,- Kč měsíčně, lze tedy ponechat stávajících 10 000,- Kč a formálně je písemně zakotvit, anebo navýšit na 12 000,- Kč).*
 2. **Zálohy na služby:** Společně s nájemným se nájemce zavazuje hradit měsíční zálohy na služby (vodné a stočné dle sníženého směrného čísla pro byt bez koupelny, úklid společných prostor, osvětlení domu, svoz odpadu). Výše záloh je stanovena platným Výpočtovým listem a k datu podpisu činí **559,- Kč měsíčně** (pro 1 osobu). Zálohy podléhají ročnímu zúčtování.
 3. **Závazek výhradně bezhotovostní platby na bankovní účet:**
-   * Celková měsíční platba (nájemné + zálohy na služby) ve výši **11 559,- Kč** je splatná **výhradně bezhotovostním převodem na bankovní účet č. 2844175379/0800**, vedený u České spořitelny a.s.
+   * Celková měsíční platba (nájemné + zálohy na služby) ve výši **12 559,- Kč** *(při nájmu 10 000 Kč pak 10 559,- Kč)* je splatná **výhradně bezhotovostním převodem na bankovní účet č. 2844175379/0800**, vedený u České spořitelny a.s.
    * Platba je splatná měsíčně dopředu, **vždy nejpozději do 15. dne příslušného kalendářního měsíce**.
    * Nájemce se zavazuje zřídit u své banky trvalý platební příkaz a jako variabilní symbol uvádět: **3671**.
    * **Platby v hotovosti nejsou přípustné.**
