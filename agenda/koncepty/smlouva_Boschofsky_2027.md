@@ -10,7 +10,7 @@ uzavřená podle ustanovení § 2235 a násl. zákona č. 89/2012 Sb., občansk�
 **1. Podíloví spoluvlastníci bytové jednotky č. 367/1:**
 * Barbora Andělová, bytem Voděradská 390/11, Strašnice, 100 00 Praha 10
 * Gianluca Bertuzzi, bytem Pplk. Sochora 694/24, Holešovice, 170 00 Praha 7
-* SJM Ing. Vojtěch Brož a Ing. Veronika Brožová, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
+* SJM Ing. Vojtěch Brož a Veronika Brožová, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
 * SJM Ing. Vladimír Bukač a Svatava Bukačová, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
 * Ing. Kateřina Hábová, bytem Chopinova 1521/26, Vinohrady, 120 00 Praha 2
 * Radek Horák, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
@@ -36,7 +36,7 @@ uzavřená podle ustanovení § 2235 a násl. zákona č. 89/2012 Sb., občansk�
 * Jitka Zímová, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
 
 Na základě udělené plné moci spoluvlastníky zastupuje správce nemovitosti:  
-**Ing. Veronika Brožová**, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7.  
+**Veronika Brožová**, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7.  
 Prostředky spojené se správou a užíváním bytu spravuje na svém účtu:  
 **Společenství vlastníků Letohradská 367, Praha 7**, se sídlem Letohradská 5/367, 170 00 Praha 7, IČ: 24239178, č. ú. **2844175379/0800**, vedený u České spořitelny a.s.  
 *(dále jen „pronajímatel“ na straně jedné)*
@@ -133,6 +133,6 @@ V Praze dne .............................. 2026
 
 
 ....................................................................                    ....................................................................  
-**Ing. Veronika Brožová**                                                **Ivo Boschofsky**  
+**Veronika Brožová**                                                **Ivo Boschofsky**  
 v zastoupení podílových spoluvlastníků                                    *(nájemce)*  
 *(pronajímatel)*

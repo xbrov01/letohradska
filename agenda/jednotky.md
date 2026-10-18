@@ -5,7 +5,7 @@ Katastrální území: Holešovice [730122], LV č. budovy: 367, Číslo popisn�
 > [!IMPORTANT]
 > **Právní vymezení jednotek a správy:**
 > 1. **Jednotky ve výlučném vlastnictví jednotlivých vlastníků:** Tvoří Společenství vlastníků jednotek (SVJ Letohradská 367, IČ: 24239178). Předseda výboru spravuje společné části domu.
-> 2. **Jednotky v podílovém spoluvlastnictví (cca 32 spoluvlastníků):** Byty č. 367/1, 2, 3, 9 a nebytové prostory č. 367/101, 102. Tyto jednotky **nevlastní SVJ**. Jejich správu vykonává Ing. Veronika Brožová **výhradně na základě plné moci od jednotlivých spoluvlastníků**.
+> 2. **Jednotky v podílovém spoluvlastnictví (cca 32 spoluvlastníků):** Byty č. 367/1, 2, 3, 9 a nebytové prostory č. 367/101, 102. Tyto jednotky **nevlastní SVJ**. Jejich správu vykonává Veronika Brožová **výhradně na základě plné moci od jednotlivých spoluvlastníků**.
 
 ---
 
@@ -39,6 +39,6 @@ U některých bytů v domě došlo k oddělení vlastnictví bytu v SVJ a ideál
 ---
 
 ## 🏛️ Vedení a orgány SVJ Letohradská 367/5
-- **Předsedkyně výboru SVJ:** Ing. Veronika Brožová (byt č. 367/5)
+- **Předsedkyně výboru SVJ:** Veronika Brožová (byt č. 367/5)
 - **Místopředseda výboru SVJ:** Milan Trefný (byt č. 367/21)
 - **Členka výboru SVJ:** Ing. arch. Lenka Holubová Mikolášová (byt č. 367/6, podána rezignace k datu podzimního shromáždění 2026)

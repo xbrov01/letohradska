@@ -1,7 +1,7 @@
 # Průvodní dopis k návrhu nové nájemní smlouvy
 
 **Odesílatel:**  
-Ing. Veronika Brožová  
+Veronika Brožová  
 správce nemovitosti zastupující podílové spoluvlastníky domu na základě plné moci  
 Letohradská 367/5, 170 00 Praha 7 – Holešovice  
 Tel.: [Telefonní číslo] | E-mail: nikabrozova@gmail.com  
@@ -76,5 +76,5 @@ S přátelským pozdravem,
 
 
 
-**Ing. Veronika Brožová**  
+**Veronika Brožová**  
 zástupce podílových spoluvlastníků jednotek domu Letohradská 367/5 na základě plné moci

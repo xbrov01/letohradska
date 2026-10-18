@@ -24,7 +24,7 @@ Moc Vám předem děkuji za spolupráci.
 
 S pozdravem,
 
-**Ing. Veronika Brožová**  
+**Veronika Brožová**  
 Předsedkyně výboru SVJ Letohradská 367/5, Praha 7  
 Tel.: +420 603 527 274  
 Email: nikabrozova@gmail.com
