@@ -258,7 +258,7 @@ def get_google_calendar_service(config):
 
     return None
 
-def sync_events_via_api(service, calendar_id, events):
+def sync_events_via_api(service, calendar_id, events, prune=False):
     """Synchronizuje události přímo do Google Kalendáře přes API v3."""
     print(f"\n📡 Připojuji ke Google Calendar API (Kalendář ID: {calendar_id})...")
 
@@ -301,7 +301,6 @@ def sync_events_via_api(service, calendar_id, events):
         existing = existing_by_summary.get(ev['summary'])
 
         if existing:
-            # Kontrola zda došlo ke změně
             changed = False
             if (existing.get('location') or '').strip() != (ev.get('location') or '').strip():
                 changed = True
@@ -325,13 +324,28 @@ def sync_events_via_api(service, calendar_id, events):
             except Exception as e:
                 print(f"  ❌ Chyba při vkládání '{ev['summary']}': {e}")
 
-    print(f"\n✨ Synchronizace dokončena: {synced_count} přidáno, {updated_count} upraveno.")
+    # Odstranění položek, které již v agendě nejsou
+    deleted_count = 0
+    if prune:
+        current_summaries = {ev['summary'] for ev in events}
+        for item in existing_items:
+            sum_title = item.get('summary')
+            if sum_title and sum_title not in current_summaries:
+                try:
+                    service.events().delete(calendarId=calendar_id, eventId=item['id']).execute()
+                    print(f"  🗑️ Odstraněno z kalendáře: {sum_title}")
+                    deleted_count += 1
+                except Exception as e:
+                    print(f"  ❌ Nelze smazat '{sum_title}': {e}")
+
+    print(f"\n✨ Synchronizace dokončena: {synced_count} přidáno, {updated_count} upraveno, {deleted_count} smazáno.")
     return True
 
 def main():
     parser = argparse.ArgumentParser(description="Synchronizace kalendáře SVJ Letohradská 367/5")
     parser.add_argument("--ics-only", action="store_true", help="Pouze vygenerovat .ics soubor")
     parser.add_argument("--list", action="store_true", help="Vypsat nalezené události ze souborů agendy")
+    parser.add_argument("--prune", action="store_true", help="Smazat z kalendáře položky, které již nejsou v souboru udalosti.md")
     args = parser.parse_args()
 
     config = load_env()
@@ -378,7 +392,7 @@ def main():
         print("   GOOGLE_CALENDAR_ID=xxxxxxxxxxxx@group.calendar.google.com")
         return
 
-    sync_events_via_api(service, calendar_id, events)
+    sync_events_via_api(service, calendar_id, events, prune=args.prune)
 
 if __name__ == "__main__":
     main()
