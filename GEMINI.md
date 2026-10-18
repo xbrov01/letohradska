@@ -76,3 +76,13 @@ Tento projekt slouží jako inteligentní asistent pro správu agendy předsedy 
 - **Striktní zákaz samostatného odesílání emailů (pouze koncepty)**:
   - Pokud je třeba poslat jakýkoliv email, asistent ho **NIKDY neodesílá samostatně ani automaticky**.
   - Asistent VŽDY vytvoří pouze **koncept emailu** (příjemce, předmět, text těla) a uloží jej do složky `agenda/koncepty/` ve formátu Markdown (s metadaty a jasnou výzvou ke schválení/odeslání uživatelem).
+
+---
+
+## 8. Striktní oddělení agendy SVJ a správy spoluvlastněných jednotek
+- **Právní základ správy spoluvlastněných jednotek**: Správu jednotek v podílovém spoluvlastnictví (byty č. 367/1, 367/2, 367/3, 367/9 a nebytové prostory č. 367/101 a 367/102) vykonáváte **výhradně na základě plné moci udělené jednotlivými spoluvlastníky** (cca 32 spoluvlastníků, bývalých družstevníků), nikoliv z titulu funkce předsedkyně výboru SVJ Letohradská 367/5. Tyto jednotky nevlastní SVJ jako právnická osoba.
+- **Pravidlo striktního oddělení ve výstupech**:
+  - Ve všech přehledech, úkolech, zápisech, souborech a výstupech tuto skutečnost VŽDY výslovně zdůraznit.
+  - Informace, akce, události, smluvní vztahy a finance obou agend VŽDY striktně oddělovat do samostatných celků:
+    1. **Agenda SVJ** (správa společných částí budovy a pozemku, revize domu, výtah, pojištění budovy, shromáždění vlastníků SVJ, volené orgány, Rejstřík SVJ u Městského soudu v Praze, datová schránka SVJ).
+    2. **Agenda správy spoluvlastněných jednotek na základě plné moci** (nájemní smlouvy a nájemci bytů 1, 2, 3 a nebytů 101, 102, inflační doložky, hospodaření a vyúčtování výnosů podílovým spoluvlastníkům, řešení bytu č. 9 a sporů s Davidem Večeřou, samostatná zasedání spoluvlastníků jednotek).
