@@ -93,3 +93,10 @@ Tento projekt slouží jako inteligentní asistent pro správu agendy předsedy 
 - Notifikace z datové schránky SVJ (`g8z5iva`) jsou zasílány na email `nikabrozova@gmail.com` z adres `notifikace@datovka.gov.cz` a `notifikace@mojedatovaschranka.cz`.
 - Asistent při každé analýze a přípravě seznamu úkolů automaticky prověřuje tyto emailové notifikace.
 - Pokud je doručena nová datová zpráva, asistent ji **VŽDY zařadí na nejvyšší úroveň urgence v rámci agendy SVJ** s uvedením odesílatele, předmětu zprávy, data doručení a zbývající lhůty do fikce doručení (10 kalendářních dnů od dodání).
+
+---
+
+## 10. Zpracování bankovních výpisů (Excel)
+- Bankovní výpisy účtu domu u České spořitelny za rok 2026 jsou uloženy v Excelových tabulkách ve složce `C:\Users\nikan\Documents\Společenství\Výpisy\` (zejména souhrnný soubor `Vypisy_2026_Komplet.xlsx` a jednotlivé měsíční výpisy `vypis01.xlsx` až `vypis09.xlsx`).
+- Tyto Excelové tabulky slouží jako **primární a autoritativní zdroj pro veškeré finanční analýzy**, sledování plateb záloh vlastníků, kontrolu dlužníků, inkaso nájemného a výplaty podílů na výnosech podílovým spoluvlastníkům.
+- Není nutné zpracovávat původní naskenované PDF soubory výpisů.
