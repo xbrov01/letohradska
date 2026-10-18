@@ -105,13 +105,23 @@ Bytem: Letohradská 367/5, Holešovice, 170 00 Praha 7
 
 ---
 
-### Čl. 6 – Doba nájmu a skončení nájmu
-1. Tato smlouva se uzavírá na **dobu neurčitou** s účinností ode dne **1. 1. 2027**.
-2. Nájem bytu zaniká:
+### Čl. 6 – Doba nájmu, automatická prolongace a skončení nájmu
+1. **Doba nájmu:** Tato smlouva se uzavírá na **dobu určitou v trvání jednoho (1) roku**, počínaje dnem **1. 1. 2027** a konče dnem **31. 12. 2027**.
+2. **Automatická prolongace:**
+   * Neoznámí-li kterákoliv ze smluvních stran písemně druhé smluvní straně nejpozději **dva (2) měsíce před uplynutím sjednané doby nájmu** (tj. nejpozději do 31. října příslušného kalendářního roku), že trvá na ukončení nájmu nebo že si jeho prodloužení nepřeje, **prodlužuje se doba nájmu automaticky o dalších dvanáct (12) měsíců** (vždy o jeden kalendářní rok), a to i opakovaně.
+3. **Výhrada neplnění (vyloučení prolongace):**
+   * K automatickému prodloužení nájmu dle odstavce 2 tohoto článku **v žádném případě nedojde** a nájem skončí uplynutím doby k 31. prosinci daného roku, pokud:
+     * a) nájemce k 31. říjnu nebo k 31. prosinci příslušného roku eviduje vůči pronajímateli **jakýkoliv splatný dluh** na nájemném, zálohách na služby či nedoplatku z ročního vyúčtování služeb, nebo
+     * b) nájemce porušuje povinnost hradit platby bezhotovostním převodem na bankovní účet domu dle Čl. 4 odst. 3 této smlouvy, nebo
+     * c) nájemce v průběhu roku závažně nebo opakovaně porušil povinnosti vyplývající z této smlouvy či domovního řádu a byl pronajímatelem písemně vyzván k nápravě, nebo
+     * d) nájemce řádně nepřevedl elektroměr na své jméno u Pražské energetiky, a.s. (PRE) v souladu s Čl. 3 odst. 2 této smlouvy.
+   * Nastane-li některá z výše uvedených skutečností, nájem končí bez dalšího uplynutím sjednané doby a nájemce je povinen byt k 31. prosinci vyklidit a protokolárně předat pronajímateli.
+4. **Vyloučení konkludentního prodloužení:** Smluvní strany výslovně vylučují aplikaci ustanovení § 2285 občanského zákoníku. Užívá-li nájemce byt i po skončení nájmu, nájemní smlouva se v žádném případě neprodlužuje.
+5. **Skončení nájmu v průběhu sjednané doby:**
    * a) Písemnou dohodou smluvních stran.
-   * b) Písemnou výpovědí nájemce z jakéhokoliv důvodu nebo bez uvedení důvodu s tříměsíční výpovědní dobou, která počíná běžet prvním dnem kalendářního měsíce následujícího po doručení výpovědi pronajímateli.
-   * c) Písemnou výpovědí pronajímatele výhradně ze zákonných důvodů taxativně vymezených v § 2288 občanského zákoníku s tříměsíční (resp. šestiměsíční) výpovědní dobou. Výpověď pronajímatele musí být písemná, musí obsahovat konkrétní zákonný výpovědní důvod a v souladu s § 2286 odst. 2 občanského zákoníku poučení nájemce o jeho právu vznést proti výpovědi písemné námitky a navrhnout přezkoumání oprávněnosti výpovědi soudem do 2 měsíců ode dne, kdy mu výpověď došla.
-   * d) Písemnou výpovědí pronajímatele bez výpovědní doby v případě, že nájemce poruší svou povinnost zvlášť závažným způsobem ve smyslu § 2291 občanského zákoníku (zejména nezaplatí-li nájemné a zálohy za dobu alespoň tří měsíců či poškozuje dům závažným způsobem), přičemž výpovědi musí předcházet písemná výzva k nápravě v přiměřené lhůtě.
+   * b) Písemnou výpovědí nájemce podle § 2287 občanského zákoníku, změní-li se okolnosti, z nichž strany při vzniku nájmu vycházely, do té míry, že po nájemci nelze rozumně požadovat setrvání v nájmu; výpovědní doba činí 3 měsíce.
+   * c) Písemnou výpovědí pronajímatele ze zákonných důvodů dle § 2288 odst. 1 občanského zákoníku (zejména hrubé porušení povinností nájemcem) s tříměsíční výpovědní dobou a zákonným poučením o právu podat námitky a obrátit se na soud (§ 2286 odst. 2 OZ).
+   * d) Písemnou výpovědí pronajímatele bez výpovědní doby pro zvlášť závažné porušení povinností nájemcem ve smyslu § 2291 občanského zákoníku (zejména dluh na nájemném a službách za dobu alespoň 3 měsíců či devastace bytu/domu) po předchozí marné písemné výzvě k nápravě.
 
 ---
 
