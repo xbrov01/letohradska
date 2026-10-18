@@ -22,9 +22,23 @@ Katastrální území: Holešovice [730122], LV č. budovy: 367, Číslo popisn�
 
 ---
 
-## 🏛️ Ostatní jednotky v domě (výluční vlastníci – členové SVJ)
-*(Byty č. 367/4, 367/5, 367/6, 367/7, 367/8 a další jednotky ve vlastnictví konkrétních vlastníků).*
+### ⚠️ Důležité odchylky: Vlastnictví podílů na společných jednotkách vs. byty v SVJ
+U některých bytů v domě došlo k oddělení vlastnictví bytu v SVJ a ideálního podílu na pronajímaných jednotkách:
+1. **Byt č. 367/4 (Robert Rus):**
+   - Pan Rus vlastní pouze byt v SVJ, ale **nemá podíly na jednotkách**.
+   - Původní vlastník (pan Vaníček) tyto podíly prodal panu **Vlastimilu Jalovému** (který tak drží podíly za byt 4 i svůj vlastní podíl).
+2. **Byt č. 367/6 (manželé Holubovi):**
+   - Manželé Holubovi (včetně Ing. arch. Lenky Holubové Mikolášové) **nemají podíly na jednotkách**.
+   - Podíly si při prodeji bytu ponechala původní vlastnice **Mgr. Lucie Pavlíčková** (které jsou výnosy řádně vypláceny).
+3. **Byt č. 367/7 (Rostislav / Radek Horák):**
+   - Pan Radek Horák vlastní byt č. 7 a zároveň **zdědil podíly po své zemřelé babičce paní Boženě Spurné**. Výplata výnosů za oba podíly odchází panu Horákovi.
+4. **Byt č. 367/24 (Altmannovi):**
+   - Noví majitelé (Altmannovi) **nemají podíly na jednotkách**.
+   - Podíly si ponechaly původní vlastnice **Barbora Andělová** a **Ing. Kateřina Hábová** (paní Andělová má podíly vyplaceny, paní Hábová zůstává nevyplacena).
 
+---
+
+## 🏛️ Vedení a orgány SVJ Letohradská 367/5
 - **Předsedkyně výboru SVJ:** Ing. Veronika Brožová (byt č. 367/5)
-- **Místopředseda výboru SVJ:** Milan Trefný / Karel Trefný
-- **Členka výboru SVJ:** Ing. arch. Lenka Holubová Mikolášová (rezignace k termínu podzimního shromáždění 2026)
+- **Místopředseda výboru SVJ:** Milan Trefný (byt č. 367/21)
+- **Členka výboru SVJ:** Ing. arch. Lenka Holubová Mikolášová (byt č. 367/6, podána rezignace k datu podzimního shromáždění 2026)
