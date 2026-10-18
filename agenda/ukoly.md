@@ -56,15 +56,16 @@
   - V případě neplacení měsíčních plateb za jeho byt započítávat dluh proti jeho podílu na výnosech z pronájmů.
 
 ### 🟡 Priorita 2: Optimalizace nájemného a smluvních vztahů
+- [x] **Příprava nových nájemních smluv a průvodního dopisu (DDAANN, Onari, Boschofsky)**:
+  - Zpracovány koncepty smluv podle vzoru Kopecký (s inflační doložkou, výhradně bezhotovostní platbou na účet č. 2844175379/0800 a převodem energií na nájemce).
+  - Připraven souhrnný průvodní dopis se zdůvodněním úprav a sjednocením účinnosti k 1. 1. 2027.
+  - Uloženo v: `agenda/koncepty/pruvodni_dopis_najemci_2027.md`, `agenda/koncepty/smlouva_DDAANN_2027.md`, `agenda/koncepty/smlouva_Onari_2027.md`, `agenda/koncepty/smlouva_Boschofsky_2027.md`.
+- [ ] **Projednání a podpis nových smluv s nájemci k 1. 1. 2027**:
+  - DDAANN s.r.o. (návrh zvýšení z 10 000 na 14 500 Kč/měs.).
+  - Tetsu Onari (návrh zvýšení z 5 700 na 8 500 Kč/měs., příp. 7 500 Kč).
+  - Ivo Boschofsky (návrh zvýšení z 8 000 na 11 000 Kč/měs., příp. 10 000 Kč; přepis PRE).
 - [ ] **Uplatnění inflační doložky k 1. říjnu u pana Kopeckého**:
   - Byt č. 2 (6 180 Kč) a nebyt č. 102 (10 000 Kč) – ověřit index ČSÚ a případně uplatnit valorizaci.
-- [ ] **Doplnění inflační doložky a nová smlouva pro DDAANN s.r.o. (ateliér č. 101)**:
-  - Smlouva na dobu určitou skončila 31. 12. 2023 (10 000 Kč/měs.).
-  - Předložit novou smlouvu s tržním nájemným a standardní inflační doložkou.
-- [ ] **Navýšení nájemného u bytu č. 3 (pan Onari, 50,4 m²)**:
-  - Čisté nájemné je neměnné od roku 2014 (5 700 Kč). Uplatnit § 2249 NOZ o 20 % nebo dohodnout novou nájemní smlouvu s inflační doložkou.
-- [ ] **Aktualizace smluvních podmínek u bytu č. 1 (pan Boschofsky, 71,5 m²)**:
-  - Uzavřít novou písemnou smlouvu s inflační doložkou nebo uplatnit navýšení dle § 2249 NOZ.
 
 ---
 
