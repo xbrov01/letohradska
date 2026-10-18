@@ -9,7 +9,11 @@
 
 ## 🏛️ ČÁST I: Agenda předsedy a výboru SVJ (společné části domu)
 
-### 🔴 Priorita 1: Příprava podzimního shromáždění SVJ (plánovaný termín 24. 11. 2026)
+### 🔴 Priorita 1: Urgentní úkoly a příprava podzimního shromáždění SVJ
+- [ ] **Stáhnout a vyřídit novou datovou zprávu v datovce SVJ (`g8z5iva`) ze dne 15. 10. 2026**:
+  - *Odesílatel:* **Pražské služby, a.s.** (schránka `eb5ry32`).
+  - *Předmět:* **Oznámení o změně obchodních podmínek a cen za poskytování nadstandardních služeb** (číslo zprávy: 1781872900).
+  - *Lhůta fikce doručení:* Doručeno 15. 10. 2026 12:30, lhůta 10 dní vyprší v neděli **25. 10. 2026**.
 - [ ] **Zařadit do programu volbu 3. člena výboru**:
   - Důvod: Lenka Holubová Mikolášová podala 28. 05. 2026 rezignaci s dohodou o setrvání do podzimního shromáždění.
   - Je nutné předem oslovit vhodné kandidáty z řad vlastníků.

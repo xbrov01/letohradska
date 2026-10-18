@@ -86,3 +86,10 @@ Tento projekt slouží jako inteligentní asistent pro správu agendy předsedy 
   - Informace, akce, události, smluvní vztahy a finance obou agend VŽDY striktně oddělovat do samostatných celků:
     1. **Agenda SVJ** (správa společných částí budovy a pozemku, revize domu, výtah, pojištění budovy, shromáždění vlastníků SVJ, volené orgány, Rejstřík SVJ u Městského soudu v Praze, datová schránka SVJ).
     2. **Agenda správy spoluvlastněných jednotek na základě plné moci** (nájemní smlouvy a nájemci bytů 1, 2, 3 a nebytů 101, 102, inflační doložky, hospodaření a vyúčtování výnosů podílovým spoluvlastníkům, řešení bytu č. 9 a sporů s Davidem Večeřou, samostatná zasedání spoluvlastníků jednotek).
+
+---
+
+## 9. Automatická kontrola notifikací datové schránky z emailu
+- Notifikace z datové schránky SVJ (`g8z5iva`) jsou zasílány na email `nikabrozova@gmail.com` z adres `notifikace@datovka.gov.cz` a `notifikace@mojedatovaschranka.cz`.
+- Asistent při každé analýze a přípravě seznamu úkolů automaticky prověřuje tyto emailové notifikace.
+- Pokud je doručena nová datová zpráva, asistent ji **VŽDY zařadí na nejvyšší úroveň urgence v rámci agendy SVJ** s uvedením odesílatele, předmětu zprávy, data doručení a zbývající lhůty do fikce doručení (10 kalendářních dnů od dodání).
