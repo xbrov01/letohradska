@@ -106,62 +106,43 @@ def add_paragraph_styled(doc, text, bold_prefix=None, space_after=4, bullet=Fals
         r_text.font.size = Pt(10)
     return p
 
-def add_co_owners_table(doc, unit_label):
-    add_paragraph_styled(doc, f"1. Podíloví spoluvlastníci {unit_label}:", bold_prefix=None, space_after=2)
+def add_landlord_block_docx(doc, unit_label, lv_number):
+    p = doc.add_paragraph()
+    p.paragraph_format.space_before = Pt(4)
+    p.paragraph_format.space_after = Pt(6)
+    p.paragraph_format.line_spacing = 1.15
     
-    table = doc.add_table(rows=0, cols=2)
-    table.alignment = WD_TABLE_ALIGNMENT.CENTER
-    table.autofit = True
+    r1 = p.add_run(f"1. Pronajímatel: Podíloví spoluvlastníci {unit_label}\n")
+    r1.font.bold = True
+    r1.font.size = Pt(10)
     
-    half = (len(CO_OWNERS) + 1) // 2
-    for i in range(half):
-        row = table.add_row()
-        name1, addr1 = CO_OWNERS[i]
-        c1 = row.cells[0]
-        p1 = c1.paragraphs[0]
-        p1.paragraph_format.space_after = Pt(1)
-        p1.paragraph_format.line_spacing = 1.05
-        r1 = p1.add_run(f"• {name1}, ")
-        r1.font.size = Pt(8.5)
-        r1.font.bold = True
-        r1_addr = p1.add_run(addr1)
-        r1_addr.font.size = Pt(8.5)
-        
-        c2 = row.cells[1]
-        p2 = c2.paragraphs[0]
-        p2.paragraph_format.space_after = Pt(1)
-        p2.paragraph_format.line_spacing = 1.05
-        if i + half < len(CO_OWNERS):
-            name2, addr2 = CO_OWNERS[i + half]
-            r2 = p2.add_run(f"• {name2}, ")
-            r2.font.size = Pt(8.5)
-            r2.font.bold = True
-            r2_addr = p2.add_run(addr2)
-            r2_addr.font.size = Pt(8.5)
-            
-    p_rep = doc.add_paragraph()
-    p_rep.paragraph_format.space_before = Pt(4)
-    p_rep.paragraph_format.space_after = Pt(4)
-    p_rep.paragraph_format.line_spacing = 1.15
-    r = p_rep.add_run("na základě plné moci zastoupeni správcem nemovitosti:\n")
-    r.font.size = Pt(9.5)
-    r2 = p_rep.add_run("Veronika Brožová")
-    r2.font.size = Pt(9.5)
-    r2.font.bold = True
-    r3 = p_rep.add_run(", bytem Letohradská 367/5, Holešovice, 170 00 Praha 7\n")
-    r3.font.size = Pt(9.5)
-    r4 = p_rep.add_run("Prostředky spojené se správou a užíváním prostoru spravuje na svém účtu:\n")
-    r4.font.size = Pt(9.5)
-    r5 = p_rep.add_run("Společenství vlastníků Letohradská 367, Praha 7")
-    r5.font.size = Pt(9.5)
-    r5.font.bold = True
-    r6 = p_rep.add_run(", se sídlem Letohradská 5/367, 170 00 Praha 7, IČ: 24239178, č. ú. ")
-    r6.font.size = Pt(9.5)
-    r7 = p_rep.add_run("2844175379/0800")
-    r7.font.size = Pt(9.5)
-    r7.font.bold = True
-    r8 = p_rep.add_run(", vedený u České spořitelny a.s.\n(dále jen „pronajímatel“ na straně jedné)")
-    r8.font.size = Pt(9.5)
+    r2 = p.add_run(f"nacházející se v budově čp. 367, Letohradská 5, postavené na pozemku parc. č. 770, k. ú. Holešovice [730122], obec Praha, zapsaní na LV č. {lv_number} v katastru nemovitostí vedeném Katastrálním úřadem pro hlavní město Prahu, Katastrální pracoviště Praha,\n\n"
+                   f"na základě udělené plné moci zastoupeni správcem nemovitosti:\n")
+    r2.font.size = Pt(10)
+    
+    r3 = p.add_run("Veronika Brožová")
+    r3.font.bold = True
+    r3.font.size = Pt(10)
+    
+    r4 = p.add_run(", bytem Letohradská 367/5, Holešovice, 170 00 Praha 7.\n\n")
+    r4.font.size = Pt(10)
+    
+    r5 = p.add_run("Prostředky spojené se správou a užíváním prostoru spravuje na svém účtu:\n")
+    r5.font.size = Pt(10)
+    
+    r6 = p.add_run("Společenství vlastníků Letohradská 367, Praha 7")
+    r6.font.bold = True
+    r6.font.size = Pt(10)
+    
+    r7 = p.add_run(", se sídlem Letohradská 5/367, 170 00 Praha 7, IČ: 24239178,\nčíslo bankovního účtu: ")
+    r7.font.size = Pt(10)
+    
+    r8 = p.add_run("2844175379/0800")
+    r8.font.bold = True
+    r8.font.size = Pt(10)
+    
+    r9 = p.add_run(", vedený u České spořitelny a.s.\n(dále jen „pronajímatel“ na straně jedné)\n")
+    r9.font.size = Pt(10)
 
 def add_signature_block(doc, left_title, left_name, right_title, right_name):
     p_space = doc.add_paragraph()
@@ -224,7 +205,7 @@ def build_docx_ddaann_contract():
     add_paragraph_styled(doc, "uzavřená níže uvedeného dne, měsíce a roku podle ustanovení § 2302 a násl. zákona č. 89/2012 Sb., občanský zákoník, v platném znění (dále jen „občanský zákoník“), mezi smluvními stranami:")
     
     add_article_heading(doc, "Smluvní strany:")
-    add_co_owners_table(doc, "nebytové jednotky č. 367/101")
+    add_landlord_block_docx(doc, "nebytového prostoru č. 367/101", "9941")
     
     add_paragraph_styled(doc, "a", bold_prefix=None, space_after=2)
     add_paragraph_styled(doc, "DDAANN s.r.o.", bold_prefix="2. Nájemce: ")
@@ -361,7 +342,7 @@ def build_docx_boschofsky_contract():
     add_paragraph_styled(doc, "uzavřená podle ustanovení § 2235 a násl. zákona č. 89/2012 Sb., občanský zákoník, v platném znění (dále jen „občanský zákoník“), mezi smluvními stranami:")
     
     add_article_heading(doc, "Smluvní strany:")
-    add_co_owners_table(doc, "bytové jednotky č. 367/1")
+    add_landlord_block_docx(doc, "bytové jednotky č. 367/1", "11224")
     
     add_paragraph_styled(doc, "a", bold_prefix=None, space_after=2)
     add_paragraph_styled(doc, "Ivo Boschofsky", bold_prefix="2. Nájemce: Pan ")
@@ -496,7 +477,7 @@ def build_docx_onari_contract():
     add_paragraph_styled(doc, "uzavřená podle ustanovení § 2235 a násl. zákona č. 89/2012 Sb., občanský zákoník, v platném znění (dále jen „občanský zákoník“), mezi smluvními stranami:")
     
     add_article_heading(doc, "Smluvní strany:")
-    add_co_owners_table(doc, "bytové jednotky č. 367/3")
+    add_landlord_block_docx(doc, "bytové jednotky č. 367/3", "11224")
     
     add_paragraph_styled(doc, "a", bold_prefix=None, space_after=2)
     add_paragraph_styled(doc, "Tetsu Onari", bold_prefix="2. Nájemce: Pan ")
@@ -623,16 +604,17 @@ def build_docx_onari_letter():
 # ==============================================================================
 # 7. MARKDOWN BUILDERS
 # ==============================================================================
-def get_co_owners_md(unit_label):
-    lines = [f"**1. Podíloví spoluvlastníci {unit_label}:**"]
-    for name, addr in CO_OWNERS:
-        lines.append(f"* {name}, bytem {addr}")
-    lines.append("\nNa základě udělené plné moci spoluvlastníky zastupuje správce nemovitosti:  ")
-    lines.append("**Veronika Brožová**, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7.  ")
-    lines.append("Prostředky spojené se správou a užíváním prostoru spravuje na svém účtu:  ")
-    lines.append("**Společenství vlastníků Letohradská 367, Praha 7**, se sídlem Letohradská 5/367, 170 00 Praha 7, IČ: 24239178, č. ú. **2844175379/0800**, vedený u České spořitelny a.s.  ")
-    lines.append("*(dále jen „pronajímatel“ na straně jedné)*\n")
-    return "\n".join(lines)
+def get_landlord_md(unit_label, lv_number):
+    return f"""**1. Pronajímatel:**  
+**Podíloví spoluvlastníci {unit_label}** nacházející se v budově čp. 367, Letohradská 5, postavené na pozemku parc. č. 770, k. ú. Holešovice [730122], obec Praha, zapsaní na **LV č. {lv_number}** v katastru nemovitostí vedeném Katastrálním úřadem pro hlavní město Prahu, Katastrální pracoviště Praha,  
+
+na základě udělené plné moci zastoupeni správcem nemovitosti:  
+**Veronika Brožová**, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7.  
+
+Prostředky spojené se správou a užíváním prostoru spravuje na svém účtu:  
+**Společenství vlastníků Letohradská 367, Praha 7**, se sídlem Letohradská 5/367, 170 00 Praha 7, IČ: 24239178, č. ú. **2844175379/0800**, vedený u České spořitelny a.s.  
+*(dále jen „pronajímatel“ na straně jedné)*
+"""
 
 
 def build_md_ddaann_contract():
@@ -645,7 +627,7 @@ uzavřená níže uvedeného dne, měsíce a roku podle ustanovení § 2302 a n�
 
 ### Smluvní strany:
 
-{get_co_owners_md("nebytové jednotky č. 367/101")}
+{get_landlord_md("nebytového prostoru č. 367/101", "9941")}
 a
 
 **2. Nájemce:**  
@@ -803,7 +785,7 @@ uzavřená podle ustanovení § 2235 a násl. zákona č. 89/2012 Sb., občansk�
 
 ### Smluvní strany:
 
-{get_co_owners_md("bytové jednotky č. 367/1")}
+{get_landlord_md("bytové jednotky č. 367/1", "11224")}
 a
 
 **2. Nájemce:**  
@@ -964,7 +946,7 @@ uzavřená podle ustanovení § 2235 a násl. zákona č. 89/2012 Sb., občansk�
 
 ### Smluvní strany:
 
-{get_co_owners_md("bytové jednotky č. 367/3")}
+{get_landlord_md("bytové jednotky č. 367/3", "11224")}
 a
 
 **2. Nájemce:**  

@@ -7,36 +7,12 @@ uzavřená níže uvedeného dne, měsíce a roku podle ustanovení § 2302 a n�
 
 ### Smluvní strany:
 
-**1. Podíloví spoluvlastníci nebytové jednotky č. 367/101:**
-* Barbora Andělová, bytem Voděradská 390/11, Strašnice, 100 00 Praha 10
-* Gianluca Bertuzzi, bytem Pplk. Sochora 694/24, Holešovice, 170 00 Praha 7
-* SJM Ing. Vojtěch Brož a Veronika Brožová, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
-* SJM Ing. Vladimír Bukač a Svatava Bukačová, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
-* Ing. Kateřina Hábová, bytem Chopinova 1521/26, Vinohrady, 120 00 Praha 2
-* Vlastimil Jalový, bytem Bubenská 1158/17, Holešovice, 170 00 Praha 7
-* Jiří Kaifosz, akademický sochař, bytem Dobrovského 872/28, Holešovice, 170 00 Praha 7
-* MUDr. Eva Kitzlerová, bytem Ovenecká 363/30, Bubeneč, 170 00 Praha 7
-* MgA. Iva Kopecká, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
-* Božena Mandelíková, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
-* Jaroslav Ouředníček, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
-* Mgr. Lucie Pavlíčková, bytem Nad Turbovou 1191/15, Košíře, 150 00 Praha 5
-* Mgr. Aleš Pořízka, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
-* Mgr. Hana Pořízková, bytem Kamenická 654/52, Holešovice, 170 00 Praha 7
-* Karel Procházka, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
-* Roman Procházka, bytem Babákova 2161/24, Chodov, 148 00 Praha 4
-* Libuše Procházková, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
-* SJM Stanislav Rumler a Ivana Rumlerová, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
-* Ing. Ivo Sebera, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
-* Radovan Soldát, bytem Pod altánem 89/93, Strašnice, 100 00 Praha 10
-* Martin Soppé, bytem č. p. 130, 783 44 Drahanovice
-* Božena Spurná, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
-* SJM Ing. Zbyněk Šole a Monika Šoleová, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
-* SJM Milan Trefný a Milena Trefná, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
-* David Večeřa, bytem Ovenecká 1072/17, Holešovice, 170 00 Praha 7
-* Jitka Zímová, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
+**1. Pronajímatel:**  
+**Podíloví spoluvlastníci nebytového prostoru č. 367/101** nacházející se v budově čp. 367, Letohradská 5, postavené na pozemku parc. č. 770, k. ú. Holešovice [730122], obec Praha, zapsaní na **LV č. 9941** v katastru nemovitostí vedeném Katastrálním úřadem pro hlavní město Prahu, Katastrální pracoviště Praha,  
 
-Na základě udělené plné moci spoluvlastníky zastupuje správce nemovitosti:  
+na základě udělené plné moci zastoupeni správcem nemovitosti:  
 **Veronika Brožová**, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7.  
+
 Prostředky spojené se správou a užíváním prostoru spravuje na svém účtu:  
 **Společenství vlastníků Letohradská 367, Praha 7**, se sídlem Letohradská 5/367, 170 00 Praha 7, IČ: 24239178, č. ú. **2844175379/0800**, vedený u České spořitelny a.s.  
 *(dále jen „pronajímatel“ na straně jedné)*
