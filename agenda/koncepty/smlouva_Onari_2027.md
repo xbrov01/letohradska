@@ -13,16 +13,15 @@ uzavřená podle ustanovení § 2235 a násl. zákona č. 89/2012 Sb., občansk�
 * SJM Ing. Vojtěch Brož a Veronika Brožová, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
 * SJM Ing. Vladimír Bukač a Svatava Bukačová, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
 * Ing. Kateřina Hábová, bytem Chopinova 1521/26, Vinohrady, 120 00 Praha 2
-* Radek Horák, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
-* Ing. Vlastimil Jalový, bytem Bubenská 1158/17, Holešovice, 170 00 Praha 7
+* Vlastimil Jalový, bytem Bubenská 1158/17, Holešovice, 170 00 Praha 7
 * Jiří Kaifosz, akademický sochař, bytem Dobrovského 872/28, Holešovice, 170 00 Praha 7
 * MUDr. Eva Kitzlerová, bytem Ovenecká 363/30, Bubeneč, 170 00 Praha 7
 * MgA. Iva Kopecká, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
-* Dědicové po Boženě Mandelíkové, Letohradská 367/5, Holešovice, 170 00 Praha 7
-* Ing. Iva Měsíčková, bytem Nerudova 234/45, Malá Strana, 118 00 Praha 1
+* Božena Mandelíková, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
 * Jaroslav Ouředníček, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
 * Mgr. Lucie Pavlíčková, bytem Nad Turbovou 1191/15, Košíře, 150 00 Praha 5
-* SJM Mgr. Aleš Pořízka a Mgr. Hana Pořízková, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
+* Mgr. Aleš Pořízka, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
+* Mgr. Hana Pořízková, bytem Kamenická 654/52, Holešovice, 170 00 Praha 7
 * Karel Procházka, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
 * Roman Procházka, bytem Babákova 2161/24, Chodov, 148 00 Praha 4
 * Libuše Procházková, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
@@ -30,6 +29,7 @@ uzavřená podle ustanovení § 2235 a násl. zákona č. 89/2012 Sb., občansk�
 * Ing. Ivo Sebera, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
 * Radovan Soldát, bytem Pod altánem 89/93, Strašnice, 100 00 Praha 10
 * Martin Soppé, bytem č. p. 130, 783 44 Drahanovice
+* Božena Spurná, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
 * SJM Ing. Zbyněk Šole a Monika Šoleová, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
 * SJM Milan Trefný a Milena Trefná, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
 * David Večeřa, bytem Ovenecká 1072/17, Holešovice, 170 00 Praha 7
@@ -37,7 +37,7 @@ uzavřená podle ustanovení § 2235 a násl. zákona č. 89/2012 Sb., občansk�
 
 Na základě udělené plné moci spoluvlastníky zastupuje správce nemovitosti:  
 **Veronika Brožová**, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7.  
-Prostředky spojené se správou a užíváním bytu spravuje na svém účtu:  
+Prostředky spojené se správou a užíváním prostoru spravuje na svém účtu:  
 **Společenství vlastníků Letohradská 367, Praha 7**, se sídlem Letohradská 5/367, 170 00 Praha 7, IČ: 24239178, č. ú. **2844175379/0800**, vedený u České spořitelny a.s.  
 *(dále jen „pronajímatel“ na straně jedné)*
 
@@ -87,11 +87,10 @@ Bytem v ČR: Letohradská 367/5, Holešovice, 170 00 Praha 7
 ---
 
 ### Čl. 4 – Nájemné a úhrada za plnění spojená s užíváním bytu (služby)
-1. **Výše nájemného:** Nájemné se sjednává dohodou smluvních stran a činí **8 500,- Kč měsíčně** (slovy: osm tisíc pět set korun českých).  
-   *(Pozn.: Lze upravit dle uvážení uživatele, např. na 7 500 Kč).*
+1. **Výše nájemného:** Nájemné se sjednává dohodou smluvních stran a činí **7 700,- Kč měsíčně** (slovy: sedm tisíc sedm set korun českých).
 2. **Zálohy na služby:** Společně s nájemným se nájemce zavazuje hradit měsíční zálohy na nezbytné služby (vodné a stočné, úklid společných prostor, osvětlení společných prostor, odvoz komunálního odpadu). Výše záloh je stanovena platným Výpočtovým listem a k datu podpisu činí **2 150,- Kč měsíčně** (pro hlášený počet osob v bytě). Zálohy podléhají ročnímu vyúčtování vždy do 30. dubna následujícího roku v souladu se zákonem č. 67/2013 Sb.
 3. **Závazek výhradně bezhotovostní platby na bankovní účet:**
-   * Celková měsíční platba (nájemné + zálohy na služby) ve výši **10 650,- Kč** je splatná **výhradně bezhotovostním převodem na bankovní účet č. 2844175379/0800**, vedený u České spořitelny a.s.
+   * Celková měsíční platba (nájemné + zálohy na služby) ve výši **9 850,- Kč** je splatná **výhradně bezhotovostním převodem na bankovní účet č. 2844175379/0800**, vedený u České spořitelny a.s.
    * Platba je splatná měsíčně dopředu, **nejpozději do 15. dne příslušného kalendářního měsíce**.
    * Variabilní symbol platby: **3673**. Platby v hotovosti nejsou přípustné.
 4. **Prodlení a smluvní pokuta:** V případě prodlení s úhradou nájemného nebo záloh na služby se sjednává smluvní pokuta ve výši 0,1 % z dlužné částky za každý den prodlení. V souladu s ustanovením § 2254 odst. 1 občanského zákoníku nesmí peněžitá jistota a právo pronajímatele na zaplacení smluvní pokuty v souhrnu přesáhnout trojnásobek měsíčního nájemného.
@@ -99,7 +98,7 @@ Bytem v ČR: Letohradská 367/5, Holešovice, 170 00 Praha 7
 ---
 
 ### Čl. 5 – Inflační doložka
-1. Smluvní strany sjednávají v souladu s § 2248 občanského zákoníku inflační doložku. Pronajímatel je oprávněn jednostranně zvýšit sjednané nájemné jednou ročně o míru inflace vyjádřenou přírůstkem průměrného ročního indexu spotřebitelských cen za uplynulý kalendářní rok, vyhlašovaným Českým statistickým úřadem.
+1. Smluvní strany sjednávají v souladu s § 2248 občanského zákoníku inflační doložku. Pronajímatel je oprávněn jednostranně zvýšit sjednané nájemné jednou ročně o míru inflace vyjádřenou přírůstkem průměrného ročního indexu spotřebitelských cen za uplynulý kalendářní rok, vyhlašovaným Českým statistickým úřadem, a to poprvé od roku 2028.
 2. Zvýšení nájemného je pronajímatel oprávněn uplatnit písemným oznámením zaslaným nájemci, přičemž upravené nájemné je nájemce povinen platit počínaje měsícem následujícím po doručení tohoto oznámení (zpravidla k 1. říjnu kalendářního roku).
 
 ---

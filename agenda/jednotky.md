@@ -13,11 +13,11 @@ Katastrální území: Holešovice [730122], LV č. budovy: 367, Číslo popisn�
 
 | Jednotka | Dispozice / Výměra | Typ | Aktuální uživatel / Nájemce | Nájemné / Stav | Poznámka |
 | :---: | :---: | :---: | :--- | :--- | :--- |
-| **367/1** | 71,5 m² | Byt | **Karel Boschofsky** | 10 000 Kč / měs. | Historický nájem bez písemné inflační doložky |
+| **367/1** | 71,5 m² | Byt | **Ivo Boschofsky** | 10 000 Kč -> nově **12 000 Kč** | Smlouva 2027 na 1 rok s aut. prolongací a výhradou neplnění, bezhotovostně, PRE |
 | **367/2** | Byt | Byt | **Kopecký** | 6 180 Kč / měs. | Smlouva od 10/2024 na dobu neurčitou, **má inflační doložku** |
-| **367/3** | 50,4 m² | Byt | **Onari** | 5 700 Kč / měs. | Smlouva od 2014, prolongace po 3 měsících, bez inflační doložky |
+| **367/3** | 50,4 m² | Byt | **Tetsu Onari** | 5 700 Kč -> nově **7 700 Kč** | Smlouva 2027 na 1 rok s aut. prolongací a výhradou neplnění (od 2014 beze změny) |
 | **367/9** | Půdní byt | Byt | *Neobsazeno* | 0 Kč / měs. | Blokováno p. Večeřou; roční náklad ~14 000 Kč; příprava soudní žaloby |
-| **367/101** | 65,0 m² | Nebyt (ateliér) | **DDAANN s.r.o.** | 10 000 Kč / měs. | Smlouva do 31. 12. 2023, bez inflační doložky |
+| **367/101** | 65,0 m² | Nebyt (ateliér) | **DDAANN s.r.o.** | 10 000 Kč -> nově **13 000 Kč** | Smlouva 2027 na dobu neurčitou, výpověď 6 měs., inflační doložka |
 | **367/102** | Nebytový prostor | Nebyt | **Kopecký** | 10 000 Kč / měs. | Smlouva od 10/2024 na dobu neurčitou, **má inflační doložku** |
 
 ---

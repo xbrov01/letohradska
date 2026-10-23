@@ -13,16 +13,15 @@ uzavřená níže uvedeného dne, měsíce a roku podle ustanovení § 2302 a n�
 * SJM Ing. Vojtěch Brož a Veronika Brožová, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
 * SJM Ing. Vladimír Bukač a Svatava Bukačová, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
 * Ing. Kateřina Hábová, bytem Chopinova 1521/26, Vinohrady, 120 00 Praha 2
-* Radek Horák, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
-* Ing. Vlastimil Jalový, bytem Bubenská 1158/17, Holešovice, 170 00 Praha 7
+* Vlastimil Jalový, bytem Bubenská 1158/17, Holešovice, 170 00 Praha 7
 * Jiří Kaifosz, akademický sochař, bytem Dobrovského 872/28, Holešovice, 170 00 Praha 7
 * MUDr. Eva Kitzlerová, bytem Ovenecká 363/30, Bubeneč, 170 00 Praha 7
 * MgA. Iva Kopecká, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
-* Dědicové po Boženě Mandelíkové, Letohradská 367/5, Holešovice, 170 00 Praha 7
-* Ing. Iva Měsíčková, bytem Nerudova 234/45, Malá Strana, 118 00 Praha 1
+* Božena Mandelíková, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
 * Jaroslav Ouředníček, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
 * Mgr. Lucie Pavlíčková, bytem Nad Turbovou 1191/15, Košíře, 150 00 Praha 5
-* SJM Mgr. Aleš Pořízka a Mgr. Hana Pořízková, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
+* Mgr. Aleš Pořízka, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
+* Mgr. Hana Pořízková, bytem Kamenická 654/52, Holešovice, 170 00 Praha 7
 * Karel Procházka, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
 * Roman Procházka, bytem Babákova 2161/24, Chodov, 148 00 Praha 4
 * Libuše Procházková, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
@@ -30,6 +29,7 @@ uzavřená níže uvedeného dne, měsíce a roku podle ustanovení § 2302 a n�
 * Ing. Ivo Sebera, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
 * Radovan Soldát, bytem Pod altánem 89/93, Strašnice, 100 00 Praha 10
 * Martin Soppé, bytem č. p. 130, 783 44 Drahanovice
+* Božena Spurná, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
 * SJM Ing. Zbyněk Šole a Monika Šoleová, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
 * SJM Milan Trefný a Milena Trefná, bytem Letohradská 367/5, Holešovice, 170 00 Praha 7
 * David Večeřa, bytem Ovenecká 1072/17, Holešovice, 170 00 Praha 7
@@ -88,25 +88,24 @@ Zastoupená jednateli: Ing. arch. Danem Mertou / MgA. Danielem Baudisem
 ---
 
 ### Čl. 4 – Nájemné a úhrada za služby
-1. **Výše nájemného:** Nájemné se sjednává dohodou smluvních stran a činí **14 500,- Kč měsíčně** (slovy: čtrnáct tisíc pět set korun českých).
+1. **Výše nájemného:** Nájemné se sjednává dohodou smluvních stran a činí **13 000,- Kč měsíčně** (slovy: třináct tisíc korun českých).
 2. **Zálohy na služby:** Společně s nájemným se nájemce zavazuje hradit měsíční zálohy na služby poskytované v souvislosti s užíváním prostoru (vodné a stočné, úklid a osvětlení společných prostor). Výše záloh je stanovena platným Výpočtovým listem a k datu podpisu smlouvy činí **876,- Kč měsíčně**. Pronajímatel je oprávněn výši záloh upravit v návaznosti na změny cen dodavatelů služeb nebo změnu počtu osob. Zálohy podléhají ročnímu vyúčtování.
 3. **Závazek bezhotovostní platby na účet:**
-   * Celková měsíční platba (nájemné + zálohy na služby) ve výši **15 376,- Kč** je splatná **výhradně bezhotovostním převodem na bankovní účet č. 2844175379/0800**, vedený u České spořitelny a.s.
+   * Celková měsíční platba (nájemné + zálohy na služby) ve výši **13 876,- Kč** je splatná **výhradně bezhotovostním převodem na bankovní účet č. 2844175379/0800**, vedený u České spořitelny a.s.
    * Platba je splatná měsíčně dopředu, **vždy nejpozději do 15. dne příslušného kalendářního měsíce**, za který se hradí.
    * Jako variabilní symbol je nájemce povinen uvádět: **367101**. Platby v hotovosti nejsou přípustné.
-4. **Prodlení a smluvní pokuta:** V případě prodlení s úhradou nájemného nebo záloh na služby se sjednává smluvní pokuta ve výši 0,1 % z dlužné částky za každý den prodlení po dobu prvních tří měsíců prodlení; po uplynutí tří měsíců se smluvní pokuta zvyšuje na 0,5 % z dlužné částky za každý den prodlení. Přesáhne-li prodlení 30 kalendářních dnů, je pronajímatel oprávněn smlouvu jednostranně vypovědět.
+4. **Prodlení a smluvní pokuta:** V případě prodlení s úhradou nájemného nebo záloh na služby se sjednává smluvní pokuta ve výši 0,1 % z dlužné částky za každý den prodlení. Přesáhne-li prodlení 30 kalendářních dnů, je pronajímatel oprávněn smlouvu jednostranně vypovědět.
 
 ---
 
 ### Čl. 5 – Inflační doložka
-1. Smluvní strany se dohodly, že pronajímatel je oprávněn jednostranně zvýšit nájemné jednou ročně o míru inflace vyjádřenou přírůstkem průměrného ročního indexu spotřebitelských cen, vyhlašovaným Českým statistickým úřadem za předchozí kalendářní rok.
+1. Smluvní strany se dohodly, že pronajímatel je oprávněn jednostranně zvýšit nájemné jednou ročně o míru inflace vyjádřenou přírůstkem průměrného ročního indexu spotřebitelských cen, vyhlašovaným Českým statistickým úřadem za předchozí kalendářní rok, a to poprvé od roku 2028.
 2. Překročí-li míra inflace 3 %, je pronajímatel oprávněn upravit nájemné k 1. říjnu kalendářního roku (nebo od měsíce následujícího po doručení písemného oznámení pronajímatele o zvýšení nájemného).
 
 ---
 
 ### Čl. 6 – Doba nájmu a skončení nájmu
-1. Tato smlouva se uzavírá na **dobu neurčitou** s účinností ode dne **1. 1. 2027**.  
-   *(Pozn.: Alternativně lze sjednat na dobu určitou, např. na 1 rok od 1. 1. 2027 do 31. 12. 2027 s možností prolongace).*
+1. Tato smlouva se uzavírá na **dobu neurčitou** s účinností ode dne **1. 1. 2027**.
 2. Nájemní vztah může zaniknout:
    * a) Písemnou dohodou smluvních stran.
    * b) Písemnou výpovědí kterékoliv ze smluvních stran bez uvedení důvodu s **výpovědní lhůtou 6 měsíců** v souladu s § 2312 občanského zákoníku, která počíná běžet prvním dnem kalendářního měsíce následujícího po doručení výpovědi druhé smluvní straně. Má-li strana k výpovědi vážný důvod, činí výpovědní doba 3 měsíce.
