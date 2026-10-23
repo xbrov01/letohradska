@@ -61,10 +61,10 @@
   - Generováno ve formátech `.docx` i `.md` přímo do: `C:\Users\nikan\Documents\Společenství\Smlouvy\Nájemné` a `C:\Users\nikan\Documents\Společenství\Smlouvy\`, kopie v `agenda/koncepty/`.
   - **DDAANN s.r.o.**: doba neurčitá, výpovědní lhůta 6 měsíců (§ 2312 OZ), inflační doložka, zvýšení nájmu o 3 000 Kč na **13 000 Kč/měs.** (+ služby 876 Kč = 13 876 Kč, VS `367101`), formální vysvětlující dopis.
   - **Pan Ivo Boschofsky**: doba určitá 1 rok (1. 1. 2027 – 31. 12. 2027) s automatickou prolongací a výhradou neplnění, inflační doložka, přepis PRE do 31. 1. 2027, zvýšení nájmu o 2 000 Kč na **12 000 Kč/měs.** (+ služby 559 Kč = 12 559 Kč, VS `3671`), důraz na bezhotovostní platby na účet, neformální přátelský dopis s tykáním bez právničiny („Ahoj Ivo“).
-  - **Pan Tetsu Onari**: doba určitá 1 rok s automatickou prolongací a výhradou neplnění, inflační doložka, zvýšení nájmu o 2 000 Kč na **7 700 Kč/měs.** (+ služby 2 150 Kč = 9 850 Kč, VS `3673`), neformální přátelský dopis s tykáním vysvětlující 12leté zmrazení nájmu od roku 2014 („Ahoj Tetsu“).
+  - **Pan Tetsu Onari**: doba určitá 1 rok s automatickou prolongací a výhradou neplnění, inflační doložka, zvýšení nájmu na **8 000 Kč/měs.** (+ služby 2 150 Kč = 10 150 Kč, VS `3673`), dopis s tykáním vysvětlující neudržitelnost 12 let nízkého nájmu od roku 2014 („Ahoj Tetsu“).
 - [ ] **Předání, projednání a podpis nových smluv s nájemci k 1. 1. 2027**:
   - DDAANN s.r.o. (nový nájem 13 000 Kč + služby 876 Kč).
-  - Tetsu Onari (nový nájem 7 700 Kč + služby 2 150 Kč).
+  - Tetsu Onari (nový nájem 8 000 Kč + služby 2 150 Kč).
   - Ivo Boschofsky (nový nájem 12 000 Kč + služby 559 Kč, podpis žádosti o přepis PRE a zřízení trvalého příkazu).
 - [ ] **Uplatnění inflační doložky k 1. říjnu u pana Kopeckého**:
   - Byt č. 2 (6 180 Kč) a nebyt č. 102 (10 000 Kč) – ověřit index ČSÚ a případně uplatnit valorizaci.

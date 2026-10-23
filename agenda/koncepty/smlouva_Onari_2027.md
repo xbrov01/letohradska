@@ -87,10 +87,10 @@ Bytem v ČR: Letohradská 367/5, Holešovice, 170 00 Praha 7
 ---
 
 ### Čl. 4 – Nájemné a úhrada za plnění spojená s užíváním bytu (služby)
-1. **Výše nájemného:** Nájemné se sjednává dohodou smluvních stran a činí **7 700,- Kč měsíčně** (slovy: sedm tisíc sedm set korun českých).
+1. **Výše nájemného:** Nájemné se sjednává dohodou smluvních stran a činí **8 000,- Kč měsíčně** (slovy: osm tisíc korun českých).
 2. **Zálohy na služby:** Společně s nájemným se nájemce zavazuje hradit měsíční zálohy na nezbytné služby (vodné a stočné, úklid společných prostor, osvětlení společných prostor, odvoz komunálního odpadu). Výše záloh je stanovena platným Výpočtovým listem a k datu podpisu činí **2 150,- Kč měsíčně** (pro hlášený počet osob v bytě). Zálohy podléhají ročnímu vyúčtování vždy do 30. dubna následujícího roku v souladu se zákonem č. 67/2013 Sb.
 3. **Závazek výhradně bezhotovostní platby na bankovní účet:**
-   * Celková měsíční platba (nájemné + zálohy na služby) ve výši **9 850,- Kč** je splatná **výhradně bezhotovostním převodem na bankovní účet č. 2844175379/0800**, vedený u České spořitelny a.s.
+   * Celková měsíční platba (nájemné + zálohy na služby) ve výši **10 150,- Kč** je splatná **výhradně bezhotovostním převodem na bankovní účet č. 2844175379/0800**, vedený u České spořitelny a.s.
    * Platba je splatná měsíčně dopředu, **nejpozději do 15. dne příslušného kalendářního měsíce**.
    * Variabilní symbol platby: **3673**. Platby v hotovosti nejsou přípustné.
 4. **Prodlení a smluvní pokuta:** V případě prodlení s úhradou nájemného nebo záloh na služby se sjednává smluvní pokuta ve výši 0,1 % z dlužné částky za každý den prodlení. V souladu s ustanovením § 2254 odst. 1 občanského zákoníku nesmí peněžitá jistota a právo pronajímatele na zaplacení smluvní pokuty v souhrnu přesáhnout trojnásobek měsíčního nájemného.

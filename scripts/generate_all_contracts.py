@@ -462,7 +462,7 @@ def build_docx_boschofsky_letter():
     
     add_article_heading(doc, "Co je potřeba upravit a na čem se domluvit:")
     
-    add_paragraph_styled(doc, "Tohle je pro mě úplně zásadní bod. Účetní z hotovostních plateb šílí a spoluvlastníci potřebují mít ve výpisech z banky naprosto čisté, doložitelné a transparentní položky kvůli ročnímu zúčtování a daňovým přiznáním. Od 1. ledna 2027 už proto v žádném případě nesmím ani nemůžu přebírat nájem v hotovosti. Prosím tě, nastav si v bance trvalý příkaz na účet domu: 2844175379/0800, variabilní symbol 3671, se splatností vždy k 15. dni v měsíci. Tím budeme mít oba jistotu a klid.", bold_prefix="1. Konec hotovosti a povinný trvalý příkaz na účet: ")
+    add_paragraph_styled(doc, "Tohle je pro mě úplně zásadní věc. Hromadí se mi tu hotovost, pak s těmi penězi musím běhat do banky a vkládat je na účet, musím tě pořád hlídat a upomínat. Navíc účetní z plateb v hotovosti šílí a spoluvlastníci potřebují mít ve výpisech z účtu naprosto čisté, doložitelné a transparentní položky kvůli ročnímu zúčtování a daním. Když si v bance nastavíš trvalej příkaz na účet domu: 2844175379/0800, variabilní symbol 3671, se splatností vždy k 15. dni v měsíci, bude to pro nás pro všechny mnohem jednodušší a ušetří to čas i starosti. Od 1. ledna už proto v hotovosti platby přebírat nebudu.", bold_prefix="1. Konec hotovosti a trvalý příkaz na účet: ")
     
     add_paragraph_styled(doc, "Do konce ledna 2027 je potřeba formálně přepsat elektroměr na tebe přímo u Pražské energetiky (PRE), abys měl spotřebu elektřiny plně ve svých rukách. Nemusíš se bát žádného složitého běhání – já ti připravím veškeré formuláře i plné moci, ty to jen podepíšeš a buď to u PRE vyřídím já, nebo tam skočíme společně. Je to jen administrativní formalita, ale musí být hotová.", bold_prefix="2. Přepis elektřiny u PRE na tvoje jméno: ")
     
@@ -532,9 +532,9 @@ def build_docx_onari_contract():
     add_paragraph_styled(doc, "Pronajímatel je povinen udržovat dům a jeho společné části ve stavu způsobilém k řádnému užívání a zajistit nájemci plný a nerušený výkon práv spojených s nájmem bytu.", bold_prefix="3. Povinnosti pronajímatele: ")
 
     add_article_heading(doc, "Čl. 4 – Nájemné a úhrada za plnění spojená s užíváním bytu (služby)")
-    add_paragraph_styled(doc, "Nájemné se sjednává dohodou smluvních stran a činí 7 700,- Kč měsíčně (slovy: sedm tisíc sedm set korun českých).", bold_prefix="1. Výše nájemného: ")
+    add_paragraph_styled(doc, "Nájemné se sjednává dohodou smluvních stran a činí 8 000,- Kč měsíčně (slovy: osm tisíc korun českých).", bold_prefix="1. Výše nájemného: ")
     add_paragraph_styled(doc, "Společně s nájemným se nájemce zavazuje hradit měsíční zálohy na nezbytné služby (vodné a stočné, úklid společných prostor, osvětlení společných prostor, odvoz komunálního odpadu). Výše záloh je stanovena platným Výpočtovým listem a k datu podpisu činí 2 150,- Kč měsíčně (pro hlášený počet osob v bytě). Zálohy podléhají ročnímu vyúčtování vždy do 30. dubna následujícího roku v souladu se zákonem č. 67/2013 Sb.", bold_prefix="2. Zálohy na služby: ")
-    add_paragraph_styled(doc, "Celková měsíční platba (nájemné + zálohy na služby) ve výši 9 850,- Kč je splatná výhradně bezhotovostním převodem na bankovní účet č. 2844175379/0800, vedený u České spořitelny a.s. Platba je splatná měsíčně dopředu, nejpozději do 15. dne příslušného kalendářního měsíce. Variabilní symbol platby: 3673. Platby v hotovosti nejsou přípustné.", bold_prefix="3. Závazek výhradně bezhotovostní platby na bankovní účet: ")
+    add_paragraph_styled(doc, "Celková měsíční platba (nájemné + zálohy na služby) ve výši 10 150,- Kč je splatná výhradně bezhotovostním převodem na bankovní účet č. 2844175379/0800, vedený u České spořitelny a.s. Platba je splatná měsíčně dopředu, nejpozději do 15. dne příslušného kalendářního měsíce. Variabilní symbol platby: 3673. Platby v hotovosti nejsou přípustné.", bold_prefix="3. Závazek výhradně bezhotovostní platby na bankovní účet: ")
     add_paragraph_styled(doc, "V případě prodlení s úhradou nájemného nebo záloh na služby se sjednává smluvní pokuta ve výši 0,1 % z dlužné částky za každý den prodlení. V souladu s ustanovením § 2254 odst. 1 občanského zákoníku nesmí peněžitá jistota a právo pronajímatele na zaplacení smluvní pokuty v souhrnu přesáhnout trojnásobek měsíčního nájemného.", bold_prefix="4. Prodlení a smluvní pokuta: ")
 
     add_article_heading(doc, "Čl. 5 – Inflační doložka")
@@ -593,23 +593,22 @@ def build_docx_onari_letter():
     add_header_title(doc, "Nová nájemní smlouva od 1. 1. 2027 a úprava podmínek nájmu", None)
     
     add_paragraph_styled(doc, "Ahoj Tetsu,")
-    add_paragraph_styled(doc, "obracím se na tebe ohledně tvého bytu č. 367/3 v přízemí našeho domu. Předně ti chci moc poděkovat za dlouholeté, skvělé a naprosto bezproblémové sousedství – moc si vážím toho, jak spolu v domě vycházíme.")
-    add_paragraph_styled(doc, "Jak víš, dům má 32 podílových spoluvlastníků a já pro ně pronajímané byty spravuji na základě plné moci. Potřebujeme dát do pořádku a zmodernizovat veškeré smlouvy v domě tak, aby odpovídaly dnešní legislativě a byly pro všechny majitele přehledné a sjednocené od 1. ledna 2027.")
+    add_paragraph_styled(doc, "obracím se na tebe ohledně tvého bytu č. 367/3 v přízemí domu Letohradská 5. Jak víš, dům má 32 podílových spoluvlastníků a já pro ně pronajímané byty spravuji na základě udělené plné moci. Od 1. ledna 2027 přistupujeme ke sjednocení a aktualizaci všech nájemních smluv v domě tak, aby odpovídaly platným zákonům i ekonomické realitě.")
     
     add_article_heading(doc, "Důvody nové smlouvy a úpravy nájemného:")
     
-    add_paragraph_styled(doc, "Tvoje stávající nájemní smlouva pochází už z roku 2014, kde bylo čisté nájemné nastaveno na 5 700 Kč měsíčně. Za celých dlouhých 12 let jsme ti nájem ani jednou nezvedli, přestože v Česku za tu dobu proběhla obrovská inflace a náklady na provoz, údržbu a pojištění domu výrazně vzrostly.", bold_prefix="1. Nájemné beze změny celých 12 let (od roku 2014): ")
+    add_paragraph_styled(doc, "Tvoje stávající nájemní smlouva byla uzavřena v roce 2014 s čistým nájemným 5 700 Kč měsíčně. Za celých dlouhých 12 let se nájemné vůbec nezměnilo. Držet dál po 12 letech takto nízký nájem je z pohledu správy domu i všech 32 spoluvlastníků naprosto neudržitelné. Veškeré náklady na provoz domu, údržbu, opravy, pojištění i služby za tu dobu zásadně vzrostly a kumulovaná inflace v ČR byla enormní.", bold_prefix="1. Dvanáct let takto nízkého nájemného je již neudržitelných: ")
     
-    add_paragraph_styled(doc, "Čisté nájemné zvyšujeme o 2 000 Kč na 7 700 Kč měsíčně. K tomu jsou zálohy na služby spojené s užíváním domu (voda, odvoz odpadu, osvětlení a úklid společných prostor pro nahlášený počet osob v rodině) ve výši 2 150 Kč měsíčně. Celková měsíční platba tedy bude 9 850 Kč. Jsem přesvědčena, že i po tomto zvýšení je 7 700 Kč za padesátimetrový byt na Letné naprosto mimořádná a vstřícná přátelská sousedská cena, která je hluboko pod jakýmkoliv tržním nájmem v Praze 7.", bold_prefix="2. Citlivé navýšení nájmu o 2 000 Kč: ")
+    add_paragraph_styled(doc, "Čisté nájemné se od 1. 1. 2027 upravuje na 8 000 Kč měsíčně. K tomu jsou měsíční zálohy na služby spojené s užíváním bytu (vodné a stočné, odvoz odpadu, osvětlení a úklid společných prostor pro nahlášený počet osob v rodině) ve výši 2 150 Kč měsíčně. Celková měsíční platba činí 10 150 Kč. I po této úpravě zůstává částka 8 000 Kč za byt o ploše 50,4 m² na Letné hluboko pod běžnou tržní hladinou.", bold_prefix="2. Nová výše nájemného na 8 000 Kč měsíčně: ")
     
-    add_paragraph_styled(doc, "Abychom tě nezatěžovali zbytečným papírováním každý rok, smlouva se uzavírá na 1 rok (do 31. 12. 2027) s mechanismem automatického prodlužování o dalších 12 měsíců. Pokud je všechno v pořádku a nájem řádně platíš, smlouva běží dál sama a nemusíme každý rok sepisovat nové dodatky.", bold_prefix="3. Smlouva na 1 rok s automatickým prodlužováním: ")
+    add_paragraph_styled(doc, "Smlouva se uzavírá na dobu určitou 1 rok (do 31. 12. 2027) s mechanismem automatického prodlužování o dalších 12 měsíců. Pokud je nájem řádně a včas hrazen na bankovní účet domu a plněny povinnosti, smlouva se automaticky prodlužuje bez nutnosti každoročního sepisování nových dodatků.", bold_prefix="3. Smlouva na 1 rok s automatickým prodlužováním: ")
     
-    add_paragraph_styled(doc, "Do smlouvy jsme vložili běžnou inflační doložku vázanou na index Českého statistického úřadu, která se poprvé může uplatnit až od roku 2028. Tím předejdeme tomu, aby se po dalších deseti letech musel nájem zvedat skokově.", bold_prefix="4. Inflační doložka od roku 2028: ")
+    add_paragraph_styled(doc, "Do smlouvy je vložena standardní inflační doložka vázaná na oficiální index Českého statistického úřadu, která se poprvé může uplatnit od roku 2028. Tím se předejde tomu, aby se nájemné po dalších letech muselo upravovat skokově.", bold_prefix="4. Inflační doložka od roku 2028: ")
     
-    add_paragraph_styled(doc, "Prosím o zasílání celkové platby 9 850 Kč měsíčně trvalým příkazem na účet domu: 2844175379/0800, variabilní symbol 3673, se splatností vždy do 15. dne v měsíci.", bold_prefix="5. Platby na účet: ")
+    add_paragraph_styled(doc, "Celková platba 10 150 Kč měsíčně je splatná výhradně bezhotovostním převodem (trvalým příkazem) na účet domu: 2844175379/0800, variabilní symbol 3673, se splatností vždy nejpozději do 15. dne v měsíci.", bold_prefix="5. Platby bezhotovostně na účet: ")
     
-    add_paragraph_styled(doc, "V příloze ti předávám návrh nové nájemní smlouvy ve dvou vyhotoveních. V klidu si ji prosím projdi, jedno vyhotovení podepiš a vrať mi ho do konce listopadu 2026. Kdyby ti bylo cokoliv nejasné nebo ses chtěl na cokoliv zeptat, stav se u mě doma v bytě č. 5 nebo mi napiš.")
-    add_paragraph_styled(doc, "Díky moc za pochopení a těším se na další roky společného sousedství!")
+    add_paragraph_styled(doc, "V příloze ti předávám návrh nové nájemní smlouvy ve dvou vyhotoveních. V klidu si ji prosím projdi, jedno vyhotovení podepiš a vrať mi ho do konce listopadu 2026. Kdyby ses chtěl na cokoliv zeptat, stav se u mě doma v bytě č. 5 nebo mi napiš.")
+    add_paragraph_styled(doc, "Díky za pochopení.")
     
     p_sign = doc.add_paragraph()
     p_sign.paragraph_format.space_before = Pt(16)
@@ -931,8 +930,8 @@ Jak víš, dům má 32 podílových spoluvlastníků, za které mám plnou moc a
 
 #### Co je potřeba upravit a na čem se domluvit:
 
-1. **Konec hotovosti a povinný trvalý příkaz na účet:**  
-   Tohle je pro mě úplně zásadní bod. Účetní z hotovostních plateb šílí a spoluvlastníci potřebují mít ve výpisech z banky naprosto čisté, doložitelné a transparentní položky kvůli ročnímu zúčtování a daňovým přiznáním. Od 1. ledna 2027 už proto v žádném případě nesmím ani nemůžu přebírat nájem v hotovosti. Prosím tě, nastav si v bance trvalý příkaz na účet domu: **2844175379/0800**, variabilní symbol **3671**, se splatností vždy k **15. dni v měsíci**. Tím budeme mít oba jistotu a klid.
+1. **Konec plateb v hotovosti a trvalý příkaz na účet:**  
+   Tohle je pro mě úplně zásadní věc. Hromadí se mi tu hotovost, pak s těmi penězi musím běhat do banky a vkládat je na účet, musím tě pořád hlídat a upomínat. Navíc účetní z plateb v hotovosti šílí a spoluvlastníci potřebují mít ve výpisech z účtu naprosto čisté, doložitelné a transparentní položky kvůli ročnímu zúčtování a daním. Když si v bance nastavíš trvalej příkaz na účet domu: **2844175379/0800**, variabilní symbol **3671**, se splatností vždy k **15. dni v měsíci**, bude to pro nás pro všechny mnohem jednodušší a ušetří to čas i starosti nám oběma. Od 1. ledna už proto v hotovosti platby přebírat nebudu.
 
 2. **Přepis elektřiny u PRE na tvoje jméno:**  
    Do konce ledna 2027 je potřeba formálně přepsat elektroměr na tebe přímo u Pražské energetiky (PRE), abys měl spotřebu elektřiny plně ve svých rukách. Nemusíš se bát žádného složitého běhání – já ti připravím veškeré formuláře i plné moci, ty to jen podepíšeš a buď to u PRE vyřídím já, nebo tam skočíme společně. Je to jen administrativní formalita, ale musí být hotová.
@@ -1012,10 +1011,10 @@ Bytem v ČR: Letohradská 367/5, Holešovice, 170 00 Praha 7
 ---
 
 ### Čl. 4 – Nájemné a úhrada za plnění spojená s užíváním bytu (služby)
-1. **Výše nájemného:** Nájemné se sjednává dohodou smluvních stran a činí **7 700,- Kč měsíčně** (slovy: sedm tisíc sedm set korun českých).
+1. **Výše nájemného:** Nájemné se sjednává dohodou smluvních stran a činí **8 000,- Kč měsíčně** (slovy: osm tisíc korun českých).
 2. **Zálohy na služby:** Společně s nájemným se nájemce zavazuje hradit měsíční zálohy na nezbytné služby (vodné a stočné, úklid společných prostor, osvětlení společných prostor, odvoz komunálního odpadu). Výše záloh je stanovena platným Výpočtovým listem a k datu podpisu činí **2 150,- Kč měsíčně** (pro hlášený počet osob v bytě). Zálohy podléhají ročnímu vyúčtování vždy do 30. dubna následujícího roku v souladu se zákonem č. 67/2013 Sb.
 3. **Závazek výhradně bezhotovostní platby na bankovní účet:**
-   * Celková měsíční platba (nájemné + zálohy na služby) ve výši **9 850,- Kč** je splatná **výhradně bezhotovostním převodem na bankovní účet č. 2844175379/0800**, vedený u České spořitelny a.s.
+   * Celková měsíční platba (nájemné + zálohy na služby) ve výši **10 150,- Kč** je splatná **výhradně bezhotovostním převodem na bankovní účet č. 2844175379/0800**, vedený u České spořitelny a.s.
    * Platba je splatná měsíčně dopředu, **nejpozději do 15. dne příslušného kalendářního měsíce**.
    * Variabilní symbol platby: **3673**. Platby v hotovosti nejsou přípustné.
 4. **Prodlení a smluvní pokuta:** V případě prodlení s úhradou nájemného nebo záloh na služby se sjednává smluvní pokuta ve výši 0,1 % z dlužné částky za každý den prodlení. V souladu s ustanovením § 2254 odst. 1 občanského zákoníku nesmí peněžitá jistota a právo pronajímatele na zaplacení smluvní pokuty v souhrnu přesáhnout trojnásobek měsíčního nájemného.
@@ -1084,30 +1083,28 @@ def build_md_onari_letter():
 
 Ahoj Tetsu,
 
-obracím se na tebe ohledně tvého bytu č. 367/3 v přízemí našeho domu. Předně ti chci moc poděkovat za dlouholeté, skvělé a naprosto bezproblémové sousedství – moc si vážím toho, jak spolu v domě vycházíme.
-
-Jak víš, dům má 32 podílových spoluvlastníků a já pro ně pronajímané byty spravuji na základě plné moci. Potřebujeme dát do pořádku a zmodernizovat veškeré smlouvy v domě tak, aby odpovídaly dnešní legislativě a byly pro všechny majitele přehledné a sjednocené od 1. ledna 2027.
+obracím se na tebe ohledně tvého bytu č. 367/3 v přízemí domu Letohradská 5. Jak víš, dům má 32 podílových spoluvlastníků a já pro ně pronajímané byty spravuji na základě udělené plné moci. Od 1. ledna 2027 přistupujeme ke sjednocení a aktualizaci všech nájemních smluv v domě tak, aby odpovídaly platným zákonům i ekonomické realitě.
 
 #### Důvody nové smlouvy a úpravy nájemného:
 
-1. **Nájemné beze změny celých 12 let (od roku 2014):**  
-   Tvoje stávající nájemní smlouva pochází už z roku 2014, kde bylo čisté nájemné nastaveno na 5 700 Kč měsíčně. Za celých dlouhých 12 let jsme ti nájem ani jednou nezvedli, přestože v Česku za tu dobu proběhla obrovská inflace a náklady na provoz, údržbu a pojištění domu výrazně vzrostly.
+1. **Dvanáct let takto nízkého nájemného je již neudržitelných:**  
+   Tvoje stávající nájemní smlouva byla uzavřena v roce 2014 s čistým nájemným 5 700 Kč měsíčně. Za celých dlouhých 12 let se nájemné vůbec nezměnilo. Držet dál po 12 letech takto nízký nájem je z pohledu správy domu i všech 32 spoluvlastníků naprosto neudržitelné. Veškeré náklady na provoz domu, údržbu, opravy, pojištění i služby za tu dobu zásadně vzrostly a kumulovaná inflace v ČR byla enormní.
 
-2. **Citlivé navýšení nájmu o 2 000 Kč:**  
-   Čisté nájemné zvyšujeme o 2 000 Kč na **7 700 Kč měsíčně**. K tomu jsou zálohy na služby spojené s užíváním domu (voda, odvoz odpadu, osvětlení a úklid společných prostor pro nahlášený počet osob v rodině) ve výši **2 150 Kč měsíčně**. Celková měsíční platba tedy bude **9 850 Kč**. Jsem přesvědčena, že i po tomto zvýšení je 7 700 Kč za padesátimetrový byt na Letné naprosto mimořádná a vstřícná přátelská sousedská cena, která je hluboko pod jakýmkoliv tržním nájmem v Praze 7.
+2. **Nová výše nájemného na 8 000 Kč měsíčně:**  
+   Čisté nájemné se od 1. 1. 2027 upravuje na **8 000 Kč měsíčně**. K tomu jsou měsíční zálohy na služby spojené s užíváním bytu (vodné a stočné, odvoz odpadu, osvětlení a úklid společných prostor pro nahlášený počet osob v rodině) ve výši **2 150 Kč měsíčně**. Celková měsíční platba činí **10 150 Kč**. I po této úpravě zůstává částka 8 000 Kč za byt o ploše 50,4 m² na Letné hluboko pod běžnou tržní hladinou.
 
 3. **Smlouva na 1 rok s automatickým prodlužováním:**  
-   Abychom tě nezatěžovali zbytečným papírováním každý rok, smlouva se uzavírá na 1 rok (do 31. 12. 2027) s mechanismem **automatického prodlužování** o dalších 12 měsíců. Pokud je všechno v pořádku a nájem řádně platíš, smlouva běží dál sama a nemusíme každý rok sepisovat nové dodatky.
+   Smlouva se uzavírá na dobu určitou 1 rok (do 31. 12. 2027) s mechanismem **automatického prodlužování** o dalších 12 měsíců. Pokud je nájem řádně a včas hrazen na bankovní účet domu a plněny povinnosti, smlouva se automaticky prodlužuje bez nutnosti každoročního sepisování nových dodatků.
 
 4. **Inflační doložka od roku 2028:**  
-   Do smlouvy jsme vložili běžnou inflační doložku vázanou na index Českého statistického úřadu, která se poprvé může uplatnit až od roku 2028. Tím předejdeme tomu, aby se po dalších deseti letech musel nájem zvedat skokově.
+   Do smlouvy je vložena standardní inflační doložka vázaná na oficiální index Českého statistického úřadu, která se poprvé může uplatnit od roku 2028. Tím se předejde tomu, aby se nájemné po dalších letech muselo upravovat skokově.
 
-5. **Platby na účet:**  
-   Prosím o zasílání celkové platby **9 850 Kč měsíčně** trvalým příkazem na účet domu: **2844175379/0800**, variabilní symbol **3673**, se splatností vždy do **15. dne v měsíci**.
+5. **Platby bezhotovostně na účet:**  
+   Celková platba **10 150 Kč měsíčně** je splatná výhradně bezhotovostním převodem (trvalým příkazem) na účet domu: **2844175379/0800**, variabilní symbol **3673**, se splatností vždy nejpozději do **15. dne v měsíci**.
 
-V příloze ti předávám návrh nové nájemní smlouvy ve dvou vyhotoveních. V klidu si ji prosím projdi, jedno vyhotovení podepiš a vrať mi ho do konce listopadu 2026. Kdyby ti bylo cokoliv nejasné nebo ses chtěl na cokoliv zeptat, stav se u mě doma v bytě č. 5 nebo mi napiš.
+V příloze ti předávám návrh nové nájemní smlouvy ve dvou vyhotoveních. V klidu si ji prosím projdi, jedno vyhotovení podepiš a vrať mi ho do konce listopadu 2026. Kdyby ses chtěl na cokoliv zeptat, stav se u mě doma v bytě č. 5 nebo mi napiš.
 
-Díky moc za pochopení a těším se na další roky společného sousedství!
+Díky za pochopení.
 
 Měj se hezky,
 
