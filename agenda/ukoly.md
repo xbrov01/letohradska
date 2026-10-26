@@ -22,6 +22,11 @@
   - Přehled případných nedoplatků vlastníků jednotek.
   - Návrh rozpočtu na rok 2027.
   - *(Koncept emailu připraven v `agenda/koncepty/2026-10-18_vyzva_ucetni_podklady_shromazdeni.md`)*
+- [ ] **Zařadit do programu shromáždění schválení zadání projektu jižní fasády domu**:
+  - Dodavatel projekce: PORSENNA STAVEBNÍ s.r.o. (Ing. Daniel Machander, kontakt Zdeněk Křivský).
+  - Rozsah: Průvodní list, souhrnná technická zpráva, situační výkresy, architektonicko-stavební řešení, PBŘS.
+  - Cena: 65 000 Kč bez DPH, předpokládaná realizace projekce leden–únor 2027.
+  - *(Koncept odpovědi pro Z. Křivského připraven v `agenda/koncepty/2026-10-26_odpoved_zdenek_krivsky_projekt_fasada.md`)*
 - [ ] **Sestavit a rozeslat pozvánku na shromáždění**:
   - Zákonná lhůta (min. 15 dní předem): **nejpozději do 09. 11. 2026**.
 
