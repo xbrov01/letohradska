@@ -76,6 +76,7 @@ Tento projekt slouží jako inteligentní asistent pro správu agendy předsedy 
 - **Striktní zákaz samostatného odesílání emailů (pouze koncepty)**:
   - Pokud je třeba poslat jakýkoliv email, asistent ho **NIKDY neodesílá samostatně ani automaticky**.
   - Asistent VŽDY vytvoří pouze **koncept emailu** (příjemce, předmět, text těla) a uloží jej do složky `agenda/koncepty/` ve formátu Markdown (s metadaty a jasnou výzvou ke schválení/odeslání uživatelem).
+  - **Přímé vytváření konceptů v Gmailu s napojením na vlákno**: Asistent vytvoří koncept emailu ROVNOU PŘÍMO DO GMAILU (do složky Koncepty / `[Google Mail]/Koncepty` přes IMAP skript `scripts/create_draft.py`) a napojí odpověď na poslední vyměněný email v daném vlákně (pomocí hlaviček `In-Reply-To` a `References`). Uživatel tak má koncept rovnou připravený ve své schránce (web, mobil či aplikace) a může jej zkontrolovat a pouhým kliknutím odeslat.
 
 ---
 
