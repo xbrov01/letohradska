@@ -16,7 +16,7 @@
   - *Lhůta fikce doručení:* Doručeno 15. 10. 2026 12:30, lhůta 10 dní vyprší v neděli **25. 10. 2026**.
 - [ ] **Zařadit do programu volbu 3. člena výboru**:
   - Důvod: Lenka Holubová Mikolášová podala 28. 05. 2026 rezignaci s dohodou o setrvání do podzimního shromáždění.
-  - Je nutné předem oslovit vhodné kandidáty z řad vlastníků.
+  - Ověřit u Lenky HM, zda netrvá na rezignaci *(koncept dotazu připraven v `agenda/koncepty/2026-10-26_dotaz_lenka_mikolasova_rezignace_vybor.md`)*, případně předem oslovit vhodné kandidáty z řad vlastníků.
 - [ ] **Vyžádat podklady od paní účetní Martiny Bursové** (`bursova@mybox.cz`):
   - Čerpání fondu oprav a zpráva o hospodaření za rok 2025/2026.
   - Přehled případných nedoplatků vlastníků jednotek.
