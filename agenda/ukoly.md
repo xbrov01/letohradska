@@ -34,13 +34,12 @@
   - Zákonná lhůta (min. 15 dní předem): **nejpozději do 09. 11. 2026**.
 
 ### 🟡 Priorita 2: Právní a rejstříkové povinnosti SVJ
-- [ ] **Podat návrh na zápis členů výboru a kontrolní komise do Rejstříku SVJ (Městský soud v Praze, sp. zn. S 14107)**:
-  - *Podklady máme 100% kompletní a v PDF:*
-    1. Originál zápisu ze 14. shromáždění (18. 11. 2025) s prezenční listinou: `agenda/zapisy/2025-11-18_zapis_14_shromazdeni_komplet.pdf`
-    2. Originál podepsaného zápisu ze schůze výboru o rozdělení funkcí: `agenda/zapisy/2025-11-18_zapis_schuze_vyboru_funkce.pdf`
-  - Není nutné čekat na další shromáždění – návrh lze podat elektronicky přes datovou schránku SVJ (`g8z5iva`) s platností funkčního období od 18. 11. 2025 na 5 let.
-  - Zvolení členové výboru: Veronika Brožová (předsedkyně), Milan Trefný (místopředseda), Ing. arch. Lenka Holubová Mikolášová (členka).
-  - Zvolení členové kontrolní komise: Ivana Rumlerová, David Večeřa, Ing. Lubor Bukač.
+- [ ] **Odeslat návrh na zápis výboru do Rejstříku SVJ přes datovou schránku (Městský soud v Praze, sp. zn. S 14107)**:
+  - *Všechny 3 PDF dokumenty jsou hotové k přiložení v datovce:*
+    1. Samotný návrh na zápis: `agenda/zapisy/2026-10-27_navrh_na_zapis_do_rejstriku_svj.pdf`
+    2. Originál podepsaného zápisu ze 14. shromáždění (18. 11. 2025) s prezenční listinou: `agenda/zapisy/2025-11-18_zapis_14_shromazdeni_komplet.pdf`
+    3. Originál podepsaného zápisu ze schůze výboru o rozdělení funkcí: `agenda/zapisy/2025-11-18_zapis_schuze_vyboru_funkce.pdf`
+  - Příjemce v datové schránce: Městský soud v Praze (`snkabbm`), poplatek: 0 Kč.
 - [ ] **Založení schválených účetních závěrek do Sbírky listin rejstříkového soudu**:
   - Účetní závěrka za rok 2024 byla schválena na 14. shromáždění (bod 8 zápisu). Založit do Sbírky listin přes datovou schránku spolu s návrhem na zápis.
 - [ ] **Pravidelná kontrola datové schránky SVJ (`g8z5iva`)**:
