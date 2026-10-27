@@ -13,11 +13,11 @@ Termíny vycházejí z reálné historie kontrol a revizí domu Letohradská 367
 - **Místo**: Letohradská 367/5 (výtah č. H4456)
 - **Popis**: Pravidelná čtvrtletní odborná servisní prohlídka výtahu OTIS (kontrakt H4048). Poslední prohlídka proběhla 10. 08. 2026 (výkaz 260801092). Kontakt: Michal Bodlák (michal.bodlak@otis.com), OTISLINE: 800 107 525.
 
-### Shromáždění vlastníků SVJ – Podzim 2026
-- **ID**: `svj-shromazdeni-20261124`
-- **Datum a čas**: `2026-11-24 18:00 - 20:00`
-- **Místo**: Letohradská 367/5, Praha 7 (společné prostory domu)
-- **Popis**: Výroční shromáždění vlastníků jednotek SVJ Letohradská 367/5 (loňské se konalo 18. 11. 2025). Program: hospodaření, stav fondu oprav, schválení závěrky, plán údržby. Pozvánku nutno odeslat min. 15 dní předem (do 09. 11. 2026).
+### 15. Shromáždění vlastníků SVJ – Podzim 2026
+- **ID**: `svj-shromazdeni-20261130`
+- **Datum a čas**: `2026-11-30 18:30 - 20:30`
+- **Místo**: Letohradská 367/5, Praha 7 (byt č. 367/9 / společné prostory)
+- **Popis**: 15. shromáždění vlastníků jednotek SVJ Letohradská 367/5. Hlavní body: hospodaření, schválení závěrky 2025, úprava příspěvků do fondu oprav, schválení zadání projektové dokumentace na rekonstrukci jižní (dvorní) fasády (PORSENNA, 65 tis. Kč bez DPH), plán oprav na rok 2027. Pozvánku nutno odeslat min. 15 dní předem (nejpozději do 15. 11. 2026).
 
 ### Roční odečet stavu vodoměrů pro vyúčtování služeb
 - **ID**: `svj-odecty-voda-20270415`

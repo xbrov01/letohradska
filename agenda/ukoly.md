@@ -25,13 +25,13 @@
   - Přehled případných nedoplatků vlastníků jednotek.
   - Návrh rozpočtu na rok 2027.
   - *(Koncept emailu připraven v `agenda/koncepty/2026-10-18_vyzva_ucetni_podklady_shromazdeni.md`)*
-- [ ] **Zařadit do programu shromáždění schválení zadání projektu jižní fasády domu**:
-  - Dodavatel projekce: PORSENNA STAVEBNÍ s.r.o. (Ing. Daniel Machander, kontakt Zdeněk Křivský).
-  - Rozsah: Průvodní list, souhrnná technická zpráva, situační výkresy, architektonicko-stavební řešení, PBŘS.
-  - Cena: 65 000 Kč bez DPH, předpokládaná realizace projekce leden–únor 2027.
-  - *(Koncept odpovědi pro Z. Křivského připraven v `agenda/koncepty/2026-10-26_odpoved_zdenek_krivsky_projekt_fasada.md`)*
-- [ ] **Sestavit a rozeslat pozvánku na shromáždění**:
-  - Zákonná lhůta (min. 15 dní předem): **nejpozději do 09. 11. 2026**.
+- [x] ~~**Zařadit do programu shromáždění schválení zadání projektu jižní fasády domu**~~:
+  - *Podklad i návrh usnesení připraven (27. 10. 2026):* viz zpráva pro vlastníky v `agenda/zapisy/2026-11-30_podklad_zprava_vlastnikum_fasada.md`.
+  - Dodavatel projekce: PORSENNA STAVEBNÍ s.r.o. (Ing. Daniel Machander, 65 000 Kč bez DPH, termín 3 měsíce).
+- [x] ~~**Sestavit pozvánku a program na 15. shromáždění SVJ (30. 11. 2026)**~~:
+  - *Pozvánka připravena (27. 10. 2026):* viz `agenda/zapisy/2026-11-30_pozvanka_15_shromazdeni.md`.
+- [ ] **Rozeslat pozvánku a podklady vlastníkům jednotek**:
+  - Zákonná lhůta (min. 15 dní předem před 30. 11. 2026): **nejpozději do neděle 15. 11. 2026**.
 
 ### 🟡 Priorita 2: Právní a rejstříkové povinnosti SVJ
 - [x] ~~**Odeslat návrh na zápis výboru do Rejstříku SVJ přes datovou schránku (Městský soud v Praze, sp. zn. S 14107)**~~:

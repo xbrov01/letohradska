@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:Pravidelná servisní prohlídka výtahu OTIS
 DTSTART;TZID=Europe/Prague:20261110T090000
 DTEND;TZID=Europe/Prague:20261110T110000
-DTSTAMP:20261018T104227Z
+DTSTAMP:20261027T203659Z
 UID:svj-vytah-servis-20261110@svj-letohradska.cz
 DESCRIPTION:Pravidelná čtvrtletní odborná servisní prohlídka výtahu
   OTIS (kontrakt H4048). Poslední prohlídka proběhla 10. 08. 2026 (výka
@@ -16,22 +16,25 @@ DESCRIPTION:Pravidelná čtvrtletní odborná servisní prohlídka výtahu
 LOCATION:Letohradská 367/5 (výtah č. H4456)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shromáždění vlastníků SVJ – Podzim 2026
-DTSTART;TZID=Europe/Prague:20261124T180000
-DTEND;TZID=Europe/Prague:20261124T200000
-DTSTAMP:20261018T104227Z
-UID:svj-shromazdeni-20261124@svj-letohradska.cz
-DESCRIPTION:Výroční shromáždění vlastníků jednotek SVJ Letohradsk
- á 367/5 (loňské se konalo 18. 11. 2025). Program: hospodaření\, stav 
- fondu oprav\, schválení závěrky\, plán údržby. Pozvánku nutno odes
- lat min. 15 dní předem (do 09. 11. 2026).
-LOCATION:Letohradská 367/5\, Praha 7 (společné prostory domu)
+SUMMARY:15. Shromáždění vlastníků SVJ – Podzim 2026
+DTSTART;TZID=Europe/Prague:20261130T183000
+DTEND;TZID=Europe/Prague:20261130T203000
+DTSTAMP:20261027T203659Z
+UID:svj-shromazdeni-20261130@svj-letohradska.cz
+DESCRIPTION:15. shromáždění vlastníků jednotek SVJ Letohradská 367/
+ 5. Hlavní body: hospodaření\, schválení závěrky 2025\, úprava př
+ íspěvků do fondu oprav\, schválení zadání projektové dokumentace n
+ a rekonstrukci jižní (dvorní) fasády (PORSENNA\, 65 tis. Kč bez DPH)
+ \, plán oprav na rok 2027. Pozvánku nutno odeslat min. 15 dní předem (
+ nejpozději do 15. 11. 2026).
+LOCATION:Letohradská 367/5\, Praha 7 (byt č. 367/9 / společné prostory
+ )
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Roční odečet stavu vodoměrů pro vyúčtování služeb
 DTSTART;TZID=Europe/Prague:20270415T170000
 DTEND;TZID=Europe/Prague:20270415T190000
-DTSTAMP:20261018T104227Z
+DTSTAMP:20261027T203659Z
 UID:svj-odecty-voda-20270415@svj-letohradska.cz
 DESCRIPTION:Záznam stavu vodoměrů pro paní účetní Martinu Bursovou 
  (bursova@mybox.cz) za účelem vypracování ročního vyúčtování slu
@@ -42,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:Tříletá odborná revize plynových rozvodů
 DTSTART;TZID=Europe/Prague:20270408T140000
 DTEND;TZID=Europe/Prague:20270408T170000
-DTSTAMP:20261018T104227Z
+DTSTAMP:20261027T203659Z
 UID:svj-revize-plyn-20270408@svj-letohradska.cz
 DESCRIPTION:Zákonná odborná revize plynových rozvodů (vyhl. 85/1978 S
  b.\, perioda 3 roky). Poslední revize proběhla 04. 04. 2024. Technik: Ma
@@ -53,7 +56,7 @@ BEGIN:VEVENT
 SUMMARY:Roční kontrola spalinových cest (kominík)
 DTSTART;TZID=Europe/Prague:20270518T160000
 DTEND;TZID=Europe/Prague:20270518T183000
-DTSTAMP:20261018T104227Z
+DTSTAMP:20261027T203659Z
 UID:svj-revize-kominy-20270518@svj-letohradska.cz
 DESCRIPTION:Zákonná roční kontrola a čištění spalinových cest (po
  slední proběhla 19. 05. 2026). Dodavatel: Kominictví Petr Holeček (kom
@@ -64,7 +67,7 @@ BEGIN:VEVENT
 SUMMARY:Roční kontrola požární ochrany a hasicích přístrojů
 DTSTART;TZID=Europe/Prague:20270520T100000
 DTEND;TZID=Europe/Prague:20270520T120000
-DTSTAMP:20261018T104227Z
+DTSTAMP:20261027T203659Z
 UID:svj-kontrola-po-20270520@svj-letohradska.cz
 DESCRIPTION:Pravidelná roční kontrola PO a revize hasicích přístroj
  ů (poslední proběhla 20. 05. 2026). Dodavatel: BOZP-PO s.r.o. (sekretar
