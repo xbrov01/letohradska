@@ -34,16 +34,15 @@
   - Zákonná lhůta (min. 15 dní předem): **nejpozději do 09. 11. 2026**.
 
 ### 🟡 Priorita 2: Právní a rejstříkové povinnosti SVJ
-- [ ] **Odeslat návrh na zápis výboru do Rejstříku SVJ přes datovou schránku (Městský soud v Praze, sp. zn. S 14107)**:
-  - *Všechny 3 PDF dokumenty jsou hotové k přiložení v datovce:*
-    1. Samotný návrh na zápis: `agenda/zapisy/2026-10-27_navrh_na_zapis_do_rejstriku_svj.pdf`
-    2. Originál podepsaného zápisu ze 14. shromáždění (18. 11. 2025) s prezenční listinou: `agenda/zapisy/2025-11-18_zapis_14_shromazdeni_komplet.pdf`
-    3. Originál podepsaného zápisu ze schůze výboru o rozdělení funkcí: `agenda/zapisy/2025-11-18_zapis_schuze_vyboru_funkce.pdf`
-  - Příjemce v datové schránce: Městský soud v Praze (`snkabbm`), poplatek: 0 Kč.
+- [x] ~~**Odeslat návrh na zápis výboru do Rejstříku SVJ přes datovou schránku (Městský soud v Praze, sp. zn. S 14107)**~~:
+  - *Odesláno dne 27. 10. 2026* přímo z datové schránky SVJ (`g8z5iva`) do datové schránky Městského soudu v Praze (`snkabbm`).
+  - Přiložen oficiální návrh na zápis nového funkčního období od 18. 11. 2025 (`agenda/zapisy/2026-10-27_navrh_na_zapis_do_rejstriku_svj.pdf`) a oba podepsané zápisy z 18. 11. 2025.
+- [ ] **Sledovat doručení usnesení Městského soudu v Praze o zápisu změn do Rejstříku SVJ (sp. zn. S 14107)**:
+  - Průběžně kontrolovat příchozí zprávy v datové schránce SVJ (obvyklá lhůta soudu je 2–4 týdny).
 - [ ] **Založení schválených účetních závěrek do Sbírky listin rejstříkového soudu**:
-  - Účetní závěrka za rok 2024 byla schválena na 14. shromáždění (bod 8 zápisu). Založit do Sbírky listin přes datovou schránku spolu s návrhem na zápis.
+  - Účetní závěrka za rok 2024 byla schválena na 14. shromáždění (bod 8 zápisu). Součástí návrhu bylo i založení zápisu.
 - [ ] **Pravidelná kontrola datové schránky SVJ (`g8z5iva`)**:
-  - Kontrolovat doručené úřední zprávy min. 1× za 10 dní.
+  - Kontrolovat doručené úřední zprávy min. 1× za 10 dní (zajištěno automaticky i přes notifikace v Gmailu).
 
 ### 🟢 Priorita 3: Technická správa a revize domu
 - [ ] **Podzimní servisní prohlídka výtahu OTIS (listopad 2026)**:
