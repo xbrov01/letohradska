@@ -30,11 +30,12 @@ Výbor Společenství vlastníků Letohradská 367, Praha 7 si Vás dovoluje poz
 
 ---
 
-### Upozornění pro vlastníky:
-Pokud se oprávněný vlastník jednotky nemůže shromáždění osobně zúčastnit, má možnost nechat se zastupovat jinou zletilou osobou (např. sousedem, rodinným příslušníkem či nájemcem) na základě **písemné plné moci**. To platí i pro manžele, kteří mají jednotku ve společném jmění manželů (SJM) a shromáždění se účastní pouze jeden z nich. Formulář plné moci je k dispozici u předsedkyně výboru nebo v příloze této pozvánky.
+### Upozornění pro vlastníky a seznámení s podklady:
+1. **Podklady k jednání:** V souladu se stanovami SVJ jsou podklady k jednotlivým bodům (zpráva o hospodaření, návrh rozpočtu, zpráva kontrolní komise a podrobná zpráva se zadáním projektové dokumentace fasády) přiloženy k této pozvánce, případně jsou k nahlédnutí u předsedkyně výboru po předchozí domluvě.
+2. **Zastupování na základě plné moci:** Pokud se oprávněný vlastník jednotky nemůže shromáždění osobně zúčastnit, má možnost nechat se zastupovat jinou zletilou osobou na základě **písemné plné moci**. To platí i pro manžele, kteří mají jednotku ve společném jmění manželů (SJM) a shromáždění se účastní pouze jeden z nich. Formulář plné moci je přiložen.
+3. **Lhůta svolání dle stanov:** Dle čl. VI odst. 3 stanov SVJ musí být písemná pozvánka doručena a současně vyvěšena na domovní vývěsce nejméně **30 dní přede dnem konání shromáždění** (tj. nejpozději do 31. 10. 2026).
 
-V Praze dne ................. 2026  
-*(zákonná lhůta pro doručení pozvánky je nejpozději 15 dní předem, tj. do 15. 11. 2026)*
+V Praze dne 28. 10. 2026  
 
 za svolavatele – SVJ Letohradská 367, Praha 7  
 **Veronika Brožová**  

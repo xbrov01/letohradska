@@ -17,7 +17,7 @@ Termíny vycházejí z reálné historie kontrol a revizí domu Letohradská 367
 - **ID**: `svj-shromazdeni-20261130`
 - **Datum a čas**: `2026-11-30 18:30 - 20:30`
 - **Místo**: Letohradská 367/5, Praha 7 (byt č. 367/9 / společné prostory)
-- **Popis**: 15. shromáždění vlastníků jednotek SVJ Letohradská 367/5. Hlavní body: hospodaření, schválení závěrky 2025, úprava příspěvků do fondu oprav, schválení zadání projektové dokumentace na rekonstrukci jižní (dvorní) fasády (PORSENNA, 65 tis. Kč bez DPH), plán oprav na rok 2027. Pozvánku nutno odeslat min. 15 dní předem (nejpozději do 15. 11. 2026).
+- **Popis**: 15. shromáždění vlastníků jednotek SVJ Letohradská 367/5. Hlavní body: hospodaření, schválení závěrky 2025, úprava příspěvků do fondu oprav, schválení zadání projektové dokumentace na rekonstrukci jižní (dvorní) fasády (PORSENNA, 65 tis. Kč bez DPH), plán oprav na rok 2027. Pozvánku nutno dle stanov doručit a vyvěsit min. 30 dní předem (nejpozději do 31. 10. 2026).
 
 ### Roční odečet stavu vodoměrů pro vyúčtování služeb
 - **ID**: `svj-odecty-voda-20270415`

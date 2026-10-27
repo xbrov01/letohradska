@@ -30,8 +30,9 @@
   - Dodavatel projekce: PORSENNA STAVEBNÍ s.r.o. (Ing. Daniel Machander, 65 000 Kč bez DPH, termín 3 měsíce).
 - [x] ~~**Sestavit pozvánku a program na 15. shromáždění SVJ (30. 11. 2026)**~~:
   - *Pozvánka připravena (27. 10. 2026):* viz `agenda/zapisy/2026-11-30_pozvanka_15_shromazdeni.md`.
-- [ ] **Rozeslat pozvánku a podklady vlastníkům jednotek**:
-  - Zákonná lhůta (min. 15 dní předem před 30. 11. 2026): **nejpozději do neděle 15. 11. 2026**.
+- [ ] **Rozeslat a vyvěsit pozvánku na shromáždění (30. 11. 2026)**:
+  - *Závazná lhůta dle čl. VI stanov SVJ:* doručit a vyvěsit nejméně **30 dní předem**, tj. **nejpozději do soboty 31. 10. 2026**!
+  - Současně vyvěsit na domovní vývěsce v přízemí domu.
 
 ### 🟡 Priorita 2: Právní a rejstříkové povinnosti SVJ
 - [x] ~~**Odeslat návrh na zápis výboru do Rejstříku SVJ přes datovou schránku (Městský soud v Praze, sp. zn. S 14107)**~~:
