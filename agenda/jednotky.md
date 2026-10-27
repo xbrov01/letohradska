@@ -41,4 +41,4 @@ U některých bytů v domě došlo k oddělení vlastnictví bytu v SVJ a ideál
 ## 🏛️ Vedení a orgány SVJ Letohradská 367/5
 - **Předsedkyně výboru SVJ:** Veronika Brožová (byt č. 367/5)
 - **Místopředseda výboru SVJ:** Milan Trefný (byt č. 367/21)
-- **Členka výboru SVJ:** Ing. arch. Lenka Holubová Mikolášová (byt č. 367/6, podána rezignace k datu podzimního shromáždění 2026)
+- **Členka výboru SVJ:** Ing. arch. Lenka Holubová Mikolášová (byt č. 367/6, dne 27. 10. 2026 potvrdila setrvání ve funkci člena výboru)
