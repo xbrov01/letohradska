@@ -34,11 +34,13 @@
   - Zákonná lhůta (min. 15 dní předem): **nejpozději do 09. 11. 2026**.
 
 ### 🟡 Priorita 2: Právní a rejstříkové povinnosti SVJ
-- [ ] **Zápis nového výboru a kontrolní komise do Rejstříku SVJ (Městský soud v Praze, sp. zn. S 14107)**:
-  - V rejstříku jsou historické zápisy z let 2012/2015 a 2018 (mandáty vypršely).
-  - Po shromáždění 24. 11. 2026 podat elektronický návrh přes datovou schránku (`g8z5iva`) s nově zvolenými orgány.
+- [ ] **Podat návrh na zápis členů výboru a kontrolní komise do Rejstříku SVJ (Městský soud v Praze, sp. zn. S 14107)**:
+  - *Podklad máme kompletní:* Volba výboru a kontrolní komise proběhla na 14. shromáždění dne 18. 11. 2025 (bod 11) a originál podepsaného zápisu i s prezenční listinou je k dispozici v `agenda/zapisy/2025-11-18_zapis_14_shromazdeni_komplet.pdf`.
+  - Není nutné čekat na další shromáždění – návrh lze podat elektronicky přes datovou schránku SVJ (`g8z5iva`) s platností funkčního období od 18. 11. 2025 na 5 let.
+  - Zvolení členové výboru: Veronika Brožová, Milan Trefný, Ing. arch. Lenka Holubová Mikolášová.
+  - Zvolení členové kontrolní komise: Ivana Rumlerová, David Večeřa, Ing. Lubor Bukač.
 - [ ] **Založení schválených účetních závěrek do Sbírky listin rejstříkového soudu**:
-  - Odeslat přes datovou schránku po schválení shromážděním.
+  - Účetní závěrka za rok 2024 byla schválena na 14. shromáždění (bod 8 zápisu). Založit do Sbírky listin přes datovou schránku spolu s návrhem na zápis.
 - [ ] **Pravidelná kontrola datové schránky SVJ (`g8z5iva`)**:
   - Kontrolovat doručené úřední zprávy min. 1× za 10 dní.
 
