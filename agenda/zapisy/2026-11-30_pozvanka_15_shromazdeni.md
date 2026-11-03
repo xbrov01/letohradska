@@ -16,21 +16,17 @@ Výbor Společenství vlastníků Letohradská 367, Praha 7 si Vás dovoluje poz
 4. **Zpráva kontrolní komise o činnosti a hospodaření**
 5. **Zpráva výboru o správě a provozu domu za rok 2026**
 6. **Schválení účetní závěrky SVJ za rok 2025 a zprávy o hospodaření**
-7. **Schválení výše příspěvků do fondu oprav a na správu domu na rok 2027**
-8. **Stanovení výše měsíčních záloh na služby na rok 2027**
-9. **Schválení zadání projektové dokumentace na rekonstrukci jižní (dvorní) fasády domu**
-10. **Plán oprav a investic na rok 2027**
-11. **Schválení odměn voleným orgánům SVJ za rok 2025**
-12. **Informace o zápisu v Rejstříku SVJ u Městského soudu v Praze**
-13. **Různé a diskuse**
+7. **Schválení výše příspěvků do fondu oprav, na správu domu a záloh na služby na rok 2027**
+8. **Plán oprav a investic na rok 2027 (včetně schválení zadání projektu rekonstrukce dvorní fasády)**
+9. **Schválení odměn voleným orgánům SVJ za rok 2025**
+10. **Různé a diskuse**
 
 ---
 
-### Upozornění pro vlastníky a seznámení s podklady:
+### Upozornění pro vlastníky – zastupování a hlasování:
 
-1. **Podklady k jednání:** V souladu se stanovami SVJ jsou podklady k jednotlivým bodům (zpráva o hospodaření, návrh rozpočtu, zpráva kontrolní komise a podrobná zpráva se zadáním projektové dokumentace fasády) přiloženy k této pozvánce, případně jsou k nahlédnutí u předsedkyně výboru po předchozí domluvě.
-2. **Zastupování na základě plné moci:** Pokud se oprávněný vlastník jednotky nemůže shromáždění osobně zúčastnit, má možnost nechat se zastupovat jinou zletilou osobou na základě **písemné plné moci**. To platí i pro manžele, kteří mají jednotku ve společném jmění manželů (SJM) a shromáždění se účastní pouze jeden z nich. Formulář plné moci je přiložen.
-3. **Lhůta svolání dle stanov:** Dle čl. VI odst. 3 stanov SVJ musí být písemná pozvánka doručena a současně vyvěšena na domovní vývěsce nejméně **30 dní přede dnem konání shromáždění** (tj. vyvěšeno k 31. 10. 2026).
+* **Zastupování na základě plné moci:** Pokud se vlastník jednotky nemůže shromáždění osobně zúčastnit, může se nechat zastoupit jinou zletilou osobou na základě písemné plné moci (formulář plné moci je přiložen níže).
+* **Jednotky ve společném jmění manželů (SJM) a spoluvlastnictví:** U jednotek ve společném jmění manželů (či v podílovém spoluvlastnictví) může na shromáždění platně hlasovat pouze **jeden z manželů (spoluvlastníků), který je druhým manželem (spoluvlastníkem) písemně zplnomocněn** (§ 1185 odst. 2 občanského zákoníku). Pokud se tedy shromáždění účastní pouze jeden z manželů, je nezbytné, aby měl s sebou podepsanou plnou moc od druhého manžela.
 
 V Praze dne 31. 10. 2026  
 
@@ -42,25 +38,25 @@ za svolavatele – výbor SVJ Letohradská 367, Praha 7
 
 ---
 
-### Příloha č. 1: Plná moc k zastupování na shromáždění
+### Příloha: Plná moc k zastupování na shromáždění
 
 Já, níže podepsaný/á:  
 Jméno a příjmení: ..................................................................................................  
 Bytem: .....................................................................................................................  
-Vlastník / spoluvlastník jednotky č. 367/...... v domě Letohradská 367/5, Praha 7  
+Vlastník / spoluvlastník (manžel/ka v rámci SJM) jednotky č. 367/...... v domě Letohradská 367/5, Praha 7  
 
 tímto **zmocňuji**  
 
-Pana/paní: .............................................................................................................  
+svého manžela / svou manželku / pana / paní: .............................................................................................................  
 Bytem: .....................................................................................................................  
 Datum narození: .....................................................................................................  
 
-aby mě v plném rozsahu zastupoval/a na 15. shromáždění Společenství vlastníků Letohradská 367, Praha 7, konaném dne 30. 11. 2026, zejména aby mým jménem hlasoval/a o všech bodech programu a činil/a veškeré úkony spojené s jednáním tohoto shromáždění.  
+aby mě v plném rozsahu zastupoval/a na 15. shromáždění Společenství vlastníků Letohradská 367, Praha 7, konaném dne 30. 11. 2026, zejména aby mým jménem hlasoval/a o všech bodech programu a vykonával/a veškerá související práva za výše uvedenou jednotku (včetně hlasování za jednotku ve společném jmění manželů či ve spoluvlastnictví).  
 
 V Praze dne .............................. 2026  
 
 ...............................................................  
-*podpis zmocnitele (vlastníka jednotky)*  
+*podpis zmocnitele*  
 
 Zmocnění v plném rozsahu přijímám:  
 
