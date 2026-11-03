@@ -59,11 +59,11 @@ Pravidla pro daňové přiznání k dani z příjmů fyzických osob dle zákona
 
 ---
 
-# ČÁST II: JEDNOTKA Č. 367/9 – STRATEGICKÁ ANALÝZA A ŘEŠENÍ
+# ČÁST II: JEDNOTKA Č. 367/9 – HISTORIE, STAV A KAUZA (2021–2026)
 
 ## 1. Právní pozice k bytu č. 367/9 a ověření počtu spoluvlastníků
 
-### A) Rozsah zastupování:
+### A) Rozsah zastupování a správy:
 * Veronika Brožová **nemá plnou moc na správu bytu č. 367/9 a záměrně si ji nenechala udělit**. V této věci jedná výhradně ze své pozice spoluvlastníka bytu.
 * Od nesouhlasícího menšinového spoluvlastníka **nemá žádnou plnou moc** k žádné jednotce, přesto spravuje pronajímané byty a jeho podíly na výnosech mu řádně vyplácí.
 * Pro řešení bytu č. 367/9 (právní kroky, žaloba) je nezbytné, aby spoluvlastníci vystupovali přímo nebo udělili plnou moc přímo advokátní kanceláři.
@@ -82,155 +82,120 @@ Pravidla pro daňové přiznání k dani z příjmů fyzických osob dle zákona
 
 ---
 
-## 2. Fakta o bytu, technický stav a reálná tržní hodnota
+## 2. Chronologický přehled dosavadních kroků (2021–2026) – Co a jak už se řešilo
 
-### A) Technické parametry a revizní stav:
-* **Výměra a dispozice:** Dle katastru nemovitostí a pasportu domu činí podlahová plocha bytu č. 367/9 přesně **83,83 m²** (podíl 838/22012). Byt má dispozici **2+1 / 3+kk** (velká předsíň, samostatné WC, koupelna, kuchyň, komora a dva velké pokoje).
-* **Technický stav:** V bytě nikdo nebydlí již **přes 5 let**. Byt je vybydlený a zanedbaný. Dle oficiální revizní zprávy elektroinstalace (revizní technik Miroslav Fuchs) je elektrické vedení v hliníku (soustava TN-C) za hranicí životnosti a **není z hlediska bezpečnosti schopno provozu** (hrozí přetížení a požár). Rozvody vody a odpadů jsou v havarijním stavu. Byt vyžaduje kompletní rekonstrukci na holé zdivo.
+Situace bytu č. 367/9 se neřeší poprvé. V průběhu uplynulých 5 let byly podrobně prozkoumány a vyzkoušeny všechny mimosoudní možnosti:
 
-### B) Nezávislá analýza současné tržní ceny (Praha 7 – Letná, stav 2024–2026):
-* **Cenové mapy lokality:** Průměrná cena zrekonstruovaných starších bytů na Letné se pohybuje kolem **160 000 až 165 000 Kč/m²**.
-* **Byty před celkovou rekonstrukcí:** V činžovních domech na Letné (ulice Letohradská a okolí) se nemovitosti v původním či zanedbaném stavu (určené k totální rekonstrukci) obchodují v rozmezí **125 000 až 140 000 Kč/m²** (náklady na kompletní novou rekonstrukci činí cca 15 000 až 25 000 Kč/m²).
-* **Ocenění bytu č. 367/9 (83,83 m²):**
-  1. **Konzervativní znalecký odhad pro soud / dražbu (cca 125 000 Kč/m²):**  
-     Hodnota bytu činí **10 500 000 Kč**. (Na 1 podíl: **cca 328 000 Kč**).
-  2. **Reálná tržní prodejní cena na volném trhu přes RK (cca 131 000 – 137 000 Kč/m²):**  
-     Hodnota bytu činí **11 000 000 až 11 500 000 Kč**. (Na 1 podíl: **cca 345 000 až 360 000 Kč**).
-  3. **Horní hranice trhu při silné poptávce a soutěži zájemců (cca 143 000 Kč/m²):**  
-     Hodnota bytu dosahuje až **12 000 000 Kč**. (Na 1 podíl: **cca 375 000 Kč**).
-* *Závěr pro strategii:* Pro reálné plánování je vhodné počítat s koridorem **10,5 až 11,5 mil. Kč**, což odpovídá znaleckým standardům v Praze 7.
-
-### C) Pasivní ztráta prázdného bytu:
-* Plyn (udržovací poplatek a plynoměr): **300 Kč/měs.** (3 600 Kč/rok).
-* Elektřina (stálý plat za jistič): **cca 150 Kč/měs.** (~1 800 Kč/rok).
-* Příspěvky do SVJ (fond oprav a správa): **cca 1 200 Kč/měs.** (~14 400 Kč/rok).
-* **Celková čistá ztráta:** Prázdný byt odčerpá z výnosů ostatních jednotek **cca 20 000 Kč ročně**. Za 5 let nečinnosti již bylo zbytečně utraceno cca **100 000 Kč**.
-
-### Okamžitý úsporný krok: Odpojení plynu
-* **Právní režim (§ 1128 odst. 1 OZ):** K rozhodnutí o běžné správě společné věci **stačí nadpoloviční většina hlasů**.
-* **Doporučení:** Schválit ukončení smlouvy o dodávce plynu a demontáž plynoměru u Pražské plynárenské Distribuce. **Okamžitá úspora 3 600 Kč ročně.** Elektřinu ponechat na minimálním jističi kvůli kontrole a revizím.
+* **Podzim 2021 (Zahájení řešení a oslovení spoluvlastníků):**  
+  Byt byl vyklizen a zůstal prázdný. Dne 2. 12. 2021 svolala Veronika Brožová shromáždění spoluvlastníků jednotky č. 367/9 a rozeslala podkladový dopis. Upozornila, že případný pronájem vyžaduje splnění přísných norem na bezpečnost (plyn, elektro). Již tehdy zajistila předběžná vyjádření dvou realitních kanceláří a zdůraznila, že spoluvlastnictví tolika lidí v praxi znemožňuje jakoukoliv racionální správu.
+* **Prosinec 2021 (Odborná revize elektroinstalace – revizní technik Miroslav Fuchs):**  
+  Dne 9. 12. 2021 proběhla v bytě č. 9 odborná revize (ev. č. `2021/12/09/02`). Technik zjistil hliníkovou instalaci ze 60. let (soustava TN-C), nebezpečné jištění 16A na poddimenzované vodiče a absenci sazby a jištění pro bojler.  
+  👉 **Oficiální závěr revizní zprávy:** *„Revidovaná elektrická instalace NENÍ z hlediska bezpečnosti schopna provozu.“* Revizní technik výslovně nařídil provedení celkové rekonstrukce elektroinstalace před jakýmkoliv užíváním.
+* **Leden 2022 (Písemné hlasování 32 spoluvlastníků):**  
+  Všichni spoluvlastníci obdrželi anketní lístek s volbou mezi prodejem přes RK a celkovou rekonstrukcí na náklady spoluvlastníků.  
+  👉 **Výsledek hlasování:** **28 osob hlasovalo PRO PRODEJ**, **1 osoba hlasovala PRO REKONSTRUKCI A PRONÁJEM** (menšinový spoluvlastník) a **3 osoby** preferovaly rekonstrukci, ale za určitých podmínek **schválily prodej**.  
+  Realitní kanceláře tehdy potvrdily, že byt v tomto vybydleném stavu a bez platné revize nelze legálně pronajmout a odmítly jej pro pronájem i nacenit.
+* **Březen 2022 (Právní posouzení – JUDr. Vlastimila Kaufmannová):**  
+  Stanovisko advokátky (zn. `12/2022` ze dne 9. 3. 2022) potvrdilo zásadní mantinely: SVJ ze zákona spravuje výhradně společné části domu. Spoluvlastněné jednotky (byty 1, 2, 3, 9 a nebyty 101, 102) do správy SVJ nespadají a shromáždění SVJ ani stanovy nemohou správu bytů nijak řešit ani nikoho zplnomocňovat. Spoluvlastníci si musí vše řešit sami jako fyzické osoby dle občanského zákoníku (§ 1115 a násl. OZ).
+* **Červen 2022 (Vyčíslení pasivních nákladů a způsob úhrad):**  
+  Veronika Brožová v dopise spoluvlastníkům detailně vyčíslila roční pasivní ztrátu bytu (tehdy cca 14 000 Kč/rok) a vysvětlila, proč nelze mít na bytě nahlášeno 0 osob (fixní náklady domu na úklid, odpad, výtah, správu). Ztráta byla hrazena strháváním z ročních podílů na výnosech z ostatních pronajímaných jednotek. Již tehdy se zvažovalo odpojení plynu, zatímco odpojení elektřiny bylo zamítnuto, protože staré hliníkové rozvody by novou výchozí revizi nezískaly.
+* **Říjen 2025 (Písemná předžalobní výzva nesouhlasícímu spoluvlastníkovi):**  
+  Dne 21. 10. 2025 odeslala Veronika Brožová menšinovému spoluvlastníkovi dopis s výzvou k nalezení racionálního řešení s termínem do 4. 11. 2025. Upozornila ho na zásadu § 1140 OZ (*„nikdo nesmí být nucen setrvat ve spoluvlastnictví proti své vůli“*) a avizovala, že pokud nepředloží reálný návrh, bude nutné přistoupit k soudní žalobě na zrušení a vypořádání spoluvlastnictví. Žádná věcná odpověď ani řešení ze strany odpůrce doručeny nebyly.
+* **Listopad 2026 (Současný stav):**  
+  Byt je prázdný již **přes 5 let**. Mimosoudní jednání byla zcela vyčerpána. 30 spoluvlastníků je ve shodě, 1 menšinový spoluvlastník prodej blokuje.
 
 ---
 
-## 3. Podrobný rozbor VŠECH variant řešení
+## 3. Technické parametry, reálná tržní hodnota a běžná ztráta
+
+### A) Technické parametry:
+* Podlahová plocha bytu č. 367/9 činí přesně **83,83 m²** (podíl 838/22012). Dispozice: **2+1 / 3+kk** (velká předsíň, samostatné WC, koupelna, kuchyň, komora a dva velké pokoje).
+* Byt je vybydlený, rozvody vody a odpadů na hranici životnosti, elektroinstalace dle revize nebezpečná a nezpůsobilá provozu.
+
+### B) Nezávislá analýza současné tržní ceny (Praha 7 – Letná, stav 2024–2026):
+* Průměrná cena zrekonstruovaných starších bytů na Letné se pohybuje kolem **160 000 až 165 000 Kč/m²**.
+* Nemovitosti před rekonstrukcí v činžovních domech na Letné (ulice Letohradská a okolí) se obchodují v rozmezí **125 000 až 140 000 Kč/m²** (náklady na kompletní novou rekonstrukci činí cca 15 000 až 25 000 Kč/m²).
+* **Ocenění bytu č. 367/9 (83,83 m²):**
+  1. **Konzervativní znalecký odhad pro soud / dražbu (cca 125 000 Kč/m²):** **10 500 000 Kč** *(výnos na 1 podíl cca 328 000 Kč)*.
+  2. **Reálná tržní prodejní cena na volném trhu přes RK (cca 131 000 – 137 000 Kč/m²):** **11 000 000 až 11 500 000 Kč** *(výnos na 1 podíl cca 345 000 až 360 000 Kč)*.
+  3. **Horní hranice trhu při soutěži zájemců (cca 143 000 Kč/m²):** až **12 000 000 Kč** *(výnos na 1 podíl cca 375 000 Kč)*.
+* *Doporučení pro kalkulaci:* Pro reálné plánování je vhodné pracovat s podloženým koridorem **10,5 až 11,5 mil. Kč**.
+
+### C) Pasivní ztráta prázdného bytu a okamžitá úspora:
+* Plyn (udržovací poplatek a plynoměr): **300 Kč/měs.** (3 600 Kč/rok); elektřina (jistič): cca **150 Kč/měs.** (~1 800 Kč/rok); fond oprav a správa SVJ: cca **1 200 Kč/měs.** (~14 400 Kč/rok).
+* **Celková čistá ztráta:** cca **20 000 Kč ročně**. Za 5 let nečinnosti již bylo z výnosů ostatních jednotek zbytečně vyplaceno cca **100 000 Kč**.
+* **Okamžitý úsporný krok:** Schválit ukončení smlouvy o plynu a demontáž plynoměru dle § 1128 odst. 1 OZ (běžná správa – většina hlasů). Úspora **3 600 Kč ročně ihned**. Elektřinu ponechat na minimálním jističi kvůli kontrole a revizím.
+
+---
+
+## 4. Lidský a generační rozměr: Proč jednat právě teď?
+
+Z čistě ekonomického hlediska Letná na hodnotě neztrácí a cena nemovitosti v čase roste, takže spoluvlastníky netlačí žádná tržní panika. Skutečný důvod pro rozhodnutí je **lidský a generační**:
+
+1. **Reálné peníze za života vs. „virtuální bohatství na papíře“:**  
+   Peníze zamčené v prázdném vybydleném bytě jsou pro starší spoluvlastníky jen číslem na papíře. Pokud člověk v důchodovém věku obdrží **330 000 až 370 000 Kč v čisté hotovosti teď**, může je využít pro zkvalitnění vlastního života (zdravotní péče, lázně, oprava vlastního bytu, přilepšení k penzi) nebo pomoc dětem a vnoučatům. Za dalších 5 či 10 let patu už pro řadu z nich tyto peníze nemusí mít žádný praktický význam.
+2. **Hrozba dědického tříštění majetku (z 31 lidí na 50 až 60):**  
+   Pokud se prodej bude odkládat, začnou nevyhnutelně probíhat dědická řízení. Podíly se začnou drobit mezi děti, vnoučata a vzdálené příbuzné (jak se již stalo u rodiny Procházkových s podíly 4/6, 1/6 a 1/6 či při dědictví po paní Spurné).  
+   Dnes je v domě 31 lidí, kteří se znají a 30 z nich je ve shodě. Za pár let může být na listu vlastnictví 50 až 60 dědiců. Stačí jeden nedořešený dědický spor, exekuce na jednoho z dědiců nebo nezletilý dědic a byt se stane na další dekádu **zcela nezcizitelným a právně zablokovaným**.
+
+---
+
+## 5. Podrobný rozbor VŠECH variant řešení
 
 ---
 
 ### VARIANTA 1: Dobrovolný společný prodej bytu na volném trhu (Ideální varianta)
-
-* **Popis:** Všichni spoluvlastníci se dohodnou, uzavřou zprostředkovatelskou smlouvu s renomovanou realitní kanceláří a byt prodají nejvyšší nabídce na volném trhu.
+* **Popis:** Všichni spoluvlastníci se dohodnou, uzavřou smlouvu s prověřenou realitní kanceláří a byt prodají nejvyšší nabídce na volném trhu.
 * **Právní rámec:** Dle § 1115 a násl. OZ vyžaduje zcizení celé nemovité věci **100% souhlas všech spoluvlastníků** (podpis všech na kupní smlouvě). Dle § 17 odst. 1 písm. a) katastrálního zákona č. 256/2013 Sb. katastrální úřad vklad bez podpisu kteréhokoliv spoluvlastníka zamítne.
-* **Finanční kalkulace:**
-  - Prodejní cena: **11 000 000 až 11 800 000 Kč** (při soutěži zájemců až 12 mil. Kč).
-  - Náklady prodeje (provize RK 3 % + právní úschova): cca 350 000 – 400 000 Kč.
-  - Čistý výtěžek k rozdělení: **cca 10 700 000 až 11 400 000 Kč**.
-  - **Čistý výnos na 1 podíl:** **cca 340 000 až 365 000 Kč v hotovosti na účet**.
-* **Výhody:** Nejvyšší tržní cena, rychlé peníze na účtech do 3–5 měsíců, nulové soudní spory, definitivní konec správy bytu.
-* **Překážka / Proč to dosud neproběhlo:** **Příslušný menšinový spoluvlastník dobrovolný prodej dlouhodobě odmítá a blokuje.** Bez jeho podpisu nelze kupní smlouvu realizovat.
+* **Finanční kalkulace:** Prodejní cena 11,0 až 11,8 mil. Kč. Po odečtení provize RK (3 %) a právní úschovy činí čistý výnos na 1 podíl **cca 340 000 až 365 000 Kč v hotovosti na účet**.
+* **Překážka:** Příslušný menšinový spoluvlastník dobrovolný prodej dlouhodobě odmítá a blokuje. Bez jeho podpisu nelze kupní smlouvu realizovat.
 
 ---
 
-### VARIANTA 2: Soudní zrušení a vypořádání spoluvlastnictví (§ 1140 až § 1147 OZ) prodejem ve veřejné dražbě (JEDINÁ PRÁVNÍ PÁKA)
-
-* **Popis:** Spoluvlastníci (zastoupení advokátem) podají u Obvodního soudu pro Prahu 7 žalobu na zrušení a vypořádání spoluvlastnictví proti nesouhlasícímu menšinovému spoluvlastníkovi.
+### VARIANTA 2: Soudní zrušení a vypořádání spoluvlastnictví (§ 1140 až § 1147 OZ) soudní dražbou (JEDINÁ PRÁVNÍ PÁKA)
+* **Popis:** Spoluvlastníci (zastoupení advokátní kanceláří) podají u Obvodního soudu pro Prahu 7 žalobu na zrušení a vypořádání spoluvlastnictví proti nesouhlasícímu menšinovému spoluvlastníkovi.
 * **Zákonná pravidla a hierarchie soudu:**
-  1. **Základní zásada (§ 1140 odst. 1 OZ):** *„Nikdo nemůže být nucen ve spoluvlastnictví setrvat a nikdo nemůže být nucen bránit jinému ve zrušení spoluvlastnictví.“* Soud žalobě **musí vyhovět**.
-  2. **Vyloučení námitek (§ 1140 odst. 2 OZ):** Zrušení nelze žádat jen v nevhodnou dobu či k újmě (např. vážná nemoc s rizikem ztráty obydlí). Menšinový spoluvlastník v bytě nebydlí, byt je 5 let prázdný a chátrá, námitka je u soudu bez šance.
-  3. **Způsob vypořádání dle zákona (§ 1144 a § 1147 OZ):**
-     - Reálné rozdělení věci (§ 1144 OZ) je u jednoho bytu vyloučeno.
-     - Přikázání jednomu spoluvlastníkovi za náhradu (§ 1147 věta 1 OZ) nepřipadá v úvahu, protože žádný spoluvlastník nechce byt převzít a vyplatit přes 10–11 mil. Kč ostatním.
-     - **Soud proto zákonně nařídí prodej bytu ve veřejné dražbě a rozdělení výtěžku (§ 1147 věta 2 OZ)**.
-  4. **Provedení prodeje (§ 348 OSŘ):** Prodej provede soudní exekutor dražbou nemovitosti.
-* **Finanční kalkulace:**
-  - Soudní poplatek: **2 000 Kč** (položka 4 písm. c) zákona o soudních poplatcích).
-  - Znalecký posudek soudu: cca 15 000 – 25 000 Kč.
-  - Právní zastoupení advokátem: cca 45 000 – 70 000 Kč (při rozpočtení na spoluvlastníky cca **1 500 – 2 300 Kč na podíl**, lze hradit z fondu výnosů).
-  - Výsledná dražební cena: Na Letné se nemovitosti draží na úrovni 10,5 až 11,5 mil. Kč.
-  - Odměna dražebníka/exekutora (vyhláška): cca 3–4 % z ceny.
-  - **Čistý výnos na 1 podíl:** **cca 320 000 až 355 000 Kč zasláno soudem přímo na účet každého spoluvlastníka**.
-* **Délka řízení:** 12 až 24 měsíců.
-* **Výhody:**
-  - **100% právní jistota:** Nesouhlasící spoluvlastník prodeji nemůže zabránit.
-  - **Zásadní vyjednávací efekt:** Po obdržení předžalobní výzvy advokáta s plnými mocemi většiny vlastníků většina obstrukčních spoluvlastníků pochopí, že prodeji nezabrání a dražba pro ně přinese méně peněz a povinnost hradit náklady řízení. V praxi odpůrce většinou ustoupí a přistoupí k dobrovolnému prodeji (Varianta 1).
-* **Nevýhody:** Délka řízení a počáteční soudní výdaje (které se vrátí z výtěžku).
+  1. **Zákonná zásada (§ 1140 odst. 1 OZ):** *„Nikdo nemůže být nucen ve spoluvlastnictví setrvat a nikdo nemůže být nucen bránit jinému ve zrušení spoluvlastnictví.“* Soud žalobě **musí vyhovět**.
+  2. **Forma vypořádání (§ 1144 a § 1147 OZ):** Byt nelze reálně rozdělit a žádný spoluvlastník nechce byt převzít a vyplatit přes 10–11 mil. Kč ostatním. Soud proto zákonně nařídí **prodej bytu ve veřejné dražbě a rozdělení výtěžku (§ 1147 věta 2 OZ)**. Prodej provede soudní exekutor dle § 348 OSŘ.
+* **Kalkulace a výnos:** Soudní poplatek 2 000 Kč, odhadce cca 20 000 Kč, advokát cca 50 000 Kč (rozpočteno cca 1 500 – 2 300 Kč na podíl, lze hradit ze společných výnosů). Čistý výnos z dražby činí **cca 320 000 až 355 000 Kč na 1 podíl přímo na bankovní účet od soudu**.
+* **Výhody a taktika:** 100% právní jistota (soud rozhodne autoritativně) + silná vyjednávací páka (po předžalobní výzvě většina obstrukčních vlastníků přistoupí na dobrovolný prodej přes RK dle Varianty 1). Nevýhoda: délka řízení 12 až 24 měsíců.
 
 ---
 
 ### VARIANTA 3: Odkup menšinového podílu ostatními spoluvlastníky (§ 1105 a § 2079 OZ)
-
-* **Popis:** Ostatní spoluvlastníci by odkoupili podíl od nesouhlasícího menšinového spoluvlastníka a následně by byt jednotně prodali na volném trhu.
-* **Finanční kalkulace:**
-  - Cena podílu (při hodnotě 11 mil. Kč): **cca 340 000 – 350 000 Kč**.
-  - Příspěvek na 1 podíl: **cca 11 000 – 12 000 Kč**.
-  - Následný prodej bytu: Zisk odpovídající tržní ceně.
-* **Výhody:** Rychlé vyřešení bez soudu.
-* **Překážka / SLEPÁ ULIČKA:**
-  - **Příslušný menšinový spoluvlastník byl opakovaně dotazován a svůj podíl KATEGORICKY ODMÍTÁ PRODAT.**
-  - Mimosoudně nelze nikoho k prodeji jeho vlastního majetku donutit.
-  - Organizační problém: vybrat 11–12 tisíc Kč od desítek rodin v hotovosti.
+* **Popis:** Odkup menšinového podílu ostatními spoluvlastníky (cca 340 000 – 350 000 Kč, tj. cca 11 000 – 12 000 Kč na 1 podíl) a následný jednotný prodej celého bytu.
+* **Překážka / Slepá ulička:** Příslušný menšinový spoluvlastník byl opakovaně dotazován a svůj podíl **kategoricky odmítá prodat**. Mimosoudně nelze nikoho k prodeji donutit.
 
 ---
 
 ### VARIANTA 4: Směna menšinového podílu za jiný podíl (§ 2184 OZ)
-
-* **Popis:** Výměna jeho podílu na bytě č. 9 za navýšení jeho podílu na některé z fungujících pronajímaných jednotek (např. v nebytu 101 či bytě 1), aby ostatní získali 100 % na bytě č. 9.
-* **Výhody:** Teoreticky bez nutnosti hotovosti.
-* **Překážka / SLEPÁ ULIČKA:**
-  - **Příslušný spoluvlastník jakoukoliv směnu výslovně a kategoricky vyloučil.**
-  - Extrémní právní složitost: nutnost přepočítat a přepsat podíly všech vlastníků na 6 různých listech vlastnictví v katastru nemovitostí, desítky smluv a poplatků.
+* **Popis:** Výměna jeho podílu na bytě č. 9 za navýšení jeho podílu na některé z fungujících pronajímaných jednotek (např. v nebytu 101 či bytě 1).
+* **Překážka / Slepá ulička:** Příslušný spoluvlastník jakoukoliv směnu výslovně a kategoricky vyloučil. Navíc by šlo o právní noční můru s přepisem desítek smluv na 6 listech vlastnictví.
 
 ---
 
 ### VARIANTA 5: Rekonstrukce bytu na náklady spoluvlastníků a následný pronájem
-
-* **Popis:** Spoluvlastníci se složí na kompletní rekonstrukci (nová elektroinstalace v mědi dle ČSN, koupelna, odpady, voda, topení/kotel, štuky, podlahy) a byt pronajmou na trhu.
-* **Právní rámec:** Jedná se o podstatné zlepšení společné věci dle § 1129 odst. 1 OZ (vyžaduje 2/3 většinu hlasů). Náklady po nesouhlasícím spoluvlastníkovi lze vymáhat dle § 1136 OZ.
-* **Finanční kalkulace:**
-  - Náklady na celkovou rekonstrukci (83,83 m²): **800 000 až 1 200 000 Kč**.
-  - **Příspěvek na 1 podíl:** **25 000 až 38 000 Kč v hotovosti z vlastní kapsy**.
-  - Tržní nájemné po rekonstrukci: cca 22 000 – 25 000 Kč/měs.
-  - Roční hrubý výnos celkem: cca 264 000 – 300 000 Kč.
-  - Roční čistý výnos na 1 podíl: cca 7 000 – 8 500 Kč.
-  - **NÁVRATNOST INVESTICE:** 1 000 000 Kč / 280 000 Kč = **10 až 14 LET** pouhé umořování nákladů na rekonstrukci!
-* **Výhody:** Byt zůstane v majetku budoucích generací.
-* **Nevýhody / Proč je to nereálné:**
-  - Desítky rodin se nikdy neshodnou na vyplacení 30 000 Kč v hotovosti ze své kapsy.
-  - Nesouhlasící spoluvlastník peníze odmítne dát (vymáhat po něm podíl u soudu je na několik let exekucí).
-  - Obrovská administrativní a časová zátěž (řízení stavby, stavební dozor, reklamace).
+* **Popis:** Spoluvlastníci složí peníze na kompletní rekonstrukci (nová elektroinstalace v mědi dle ČSN, koupelna, odpady, voda, topení) a byt pronajmou.
+* **Finanční nesmyslnost:** Rekonstrukce 83,83 m² stojí 800 000 až 1 200 000 Kč. Každý podíl by musel zaplatit **25 000 až 38 000 Kč z vlastní kapsy**. Při čistém výnosu cca 7 000 – 8 500 Kč ročně na podíl je **návratnost investice 10 až 14 LET**! Desítky rodin se nikdy neshodnou na složení hotovosti a nesouhlasící spoluvlastník peníze nedá.
 
 ---
 
-### VARIANTA 6: Pronájem ve stávajícím stavu s rekonstrukcí na náklady nájemce (§ 2259 až § 2263 OZ)
-
-* **Popis:** Byt se pronajme nájemci (např. řemeslníkovi, stavební firmě), který na své náklady byt zrekonstruuje výměnou za nájemní prázdniny (např. 2–3 roky nulový nájem) a garanci dlouhého nájmu (7–10 let).
-* **Právní rámec:** K rozhodnutí o běžném pronájmu stačí nadpoloviční většina hlasů dle § 1128 odst. 1 OZ. Stavební úpravy upravuje § 2259 až § 2263 OZ.
-* **Finanční kalkulace:**
-  - Okamžitý náklad pro spoluvlastníky: 0 Kč.
-  - Výnos: První 3–4 roky nulový výnos, poté cca 15 000 – 20 000 Kč/měs.
-* **Výhody:** Spoluvlastníci nemusí skládat hotovost na rekonstrukci.
-* **ZÁSADNÍ RIZIKA A SKRYTÉ PASTI (PROČ JDE O NEBEZPEČNÝ EXPERIMENT):**
-  1. **Právní past dlouhodobé smlouvy:** Žádný nájemce neinvestuje 800 tisíc Kč bez garance nájmu na **7 až 10 let bez možnosti běžné výpovědi**. Pokud nájemce přestane hradit služby, začne devastovat dům nebo obtěžovat sousedy, občanský zákoník (§ 2235 a násl. OZ) nájemce silně chrání a soudní vystěhování v ČR trvá 2 až 4 roky.
-  2. **Technicko-stavební riziko v majetku za 11 mil. Kč:** Bylo by nutné provádět bezplatný stavební a technický dozor nad cizími dělníky v majetku spoluvlastníků (kontrola statiky, zásahů do komínů, stupaček, hydroizolací). Pokud nájemce provede neodbornou elektroinstalaci a dojde k požáru, **odpovědnost za škodu vůči celému domu nesou spoluvlastníci jednotky**!
-  3. **Finanční past vypořádání zhodnocení (§ 2263 OZ):** Po skončení nájmu hrozí vleklý spor o to, o kolik přesně se byt zhodnotil a jaké částky mu spoluvlastníci musí doplatit.
-  4. **Neřeší to podstatu problému:** Po 10 letech bude byt opět opotřebovaný a na listu vlastnictví bude stále spousta spoluvlastníků a zablokovaný stav.
+### VARIANTA 6: Pronájem ve stávajícím stavu s rekonstrukcí na náklady nájemce (§ 2259–2263 OZ)
+* **Popis:** Pronájem nájemci, který na své náklady byt zrekonstruuje výměnou za nájemní prázdniny a garanci dlouhého nájmu (7–10 let).
+* **Zásadní rizika a skryté pasti:**
+  1. *Právní past:* Garance na 7–10 let. Vystěhování problémového nájemce trvá v ČR 2–4 roky.
+  2. *Technické riziko:* Bylo by nutné dělat bezplatný stavební dozor v 11milionovém majetku; za případný požár z neodborné elektroinstalace odpovídají spoluvlastníci celému domu!
+  3. *Past zhodnocení dle § 2263 OZ* a neodstranění patu 31 spoluvlastníků.
 
 ---
 
 ### VARIANTA 7: Individuální prodej podílů externím výkupním společnostem (§ 1124 a § 1125 OZ)
-
-* **Popis:** Jednotliví spoluvlastníci by své menšinové podíly prodali přímo komerčním společnostem vykupujícím podíly na nemovitostech.
-* **Právní stav:** Od 1. 7. 2020 bylo novelou občanského zákoníku (zákon č. 163/2020 Sb.) **zrušeno zákonné předkupní právo spoluvlastníků**. Každý může svůj podíl prodat třetí osobě bez souhlasu ostatních.
-* **Finanční kalkulace:**
-  - Výkupní společnosti nabízejí za problémové menšinové podíly pouze **30 až 50 % reálné tržní hodnoty**.
-  - **Výnos na 1 podíl:** Místo cca 350 000 Kč by spoluvlastník obdržel jen **cca 110 000 až 160 000 Kč**!
-* **Výhody:** Okamžité peníze pro jednotlivce bez čekání na ostatní.
-* **Nevýhody:**
-  - **Masivní finanční ztráta (připravení se o cca 180 000 až 200 000 Kč na podíl)**.
-  - Vstup agresivního profesionálního investora do domu, který následně podá žalobu na zrušení spoluvlastnictví a soudní dražbou připraví o peníze i ostatní.
+* **Popis:** Jednotliví spoluvlastníci by své podíly prodali společnostem vykupujícím podíly na nemovitostech (předkupní právo zrušeno od roku 2020).
+* **Finanční ztráta:** Výkupní společnosti nabízejí pouze 30 až 50 % tržní ceny (výnos jen **cca 110 000 až 160 000 Kč** na podíl – čistá ztráta cca 200 000 Kč na každém podílu!). Vstup dravého investora do domu.
 
 ---
 
-## 4. Srovnávací matice všech variant
+## 6. Srovnávací matice všech variant
 
 | Varianta | Očekávaný čistý výnos na 1 podíl | Potřebná většina | Časový horizont | Rizika a realizovatelnost | Celkové hodnocení |
 | :--- | :---: | :---: | :---: | :--- | :---: |
@@ -244,7 +209,7 @@ Pravidla pro daňové přiznání k dani z příjmů fyzických osob dle zákona
 
 ---
 
-## 5. Doporučený konkrétní akční plán a návrh usnesení pro jednání 30. 11. 2026
+## 7. Doporučený konkrétní akční plán a návrh usnesení pro jednání 30. 11. 2026
 
 Spoluvlastnictví desítek lidí na jediném obytném bytě je historický relikt a **jeho nesmyslnost v běžném životě je do očí bijící**. Jeden obstrukční člověk dokáže zablokovat majetek v hodnotě přes 11 milionů korun všem ostatním rodinám.
 
