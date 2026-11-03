@@ -38,6 +38,24 @@ U některých bytů v domě došlo k oddělení vlastnictví bytu v SVJ a ideál
 
 ---
 
+### 🔄 Změny vlastnictví jednotek a převody podílů (2026)
+
+#### Byt č. 367/13 – převod bytu i spoluvlastnických podílů (listopad 2026)
+* **Původní vlastníci:** SJM Ing. Zbyněk Šole a Monika Šoleová (email: `monika.soleova@unicreditgroup.cz`)
+* **Noví vlastníci (předáno k 03. 11. 2026):**
+  * **Petr Horáček** – tel.: `+420 739 840 847`, email: `petrhoracek02@gmail.com`
+  * **Mgr. Kristína Schmidtová** – tel.: `+420 608 454 437`, email: `kristina.schmidtova@gmail.com`
+* **Rozsah převodu:**
+  1. **Vlastnictví bytu č. 367/13** v budově Letohradská 367/5 v rámci SVJ (členství v SVJ, hlasovací práva, předpis plateb do fondu oprav a záloh na služby).
+  2. **Ideální spoluvlastnické podíly na společných jednotkách** (byty č. 367/1, 2, 3, 9 a nebyty č. 367/101, 102 – podíly byly převedeny na nové majitele společně s bytem).
+* **Související úkoly pro předsedkyni:**
+  - [ ] Vystavit a zaslat nový **Evidenční list** pro byt č. 13 (zjištění počtu bydlících osob pro rozúčtování služeb, kontakty, bankovní spojení).
+  - [ ] Předat kontakty a podklady paní účetní Martině Bursové pro aktualizaci předpisu záloh a plateb.
+  - [ ] Zaevidovat bankovní spojení nových vlastníků pro budoucí výplaty podílů na výnosech z pronájmu společných jednotek (správa na plnou moc).
+  - [x] ~~Zahrnout nové vlastníky do rozesílky pozvánky na 15. shromáždění SVJ (30. 11. 2026)~~.
+
+---
+
 ## 🏛️ Vedení a orgány SVJ Letohradská 367/5
 - **Předsedkyně výboru SVJ:** Veronika Brožová (byt č. 367/5)
 - **Místopředseda výboru SVJ:** Milan Trefný (byt č. 367/21)

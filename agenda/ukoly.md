@@ -42,6 +42,13 @@
 - [ ] **Rozeslat a vyvěsit pozvánku na shromáždění (30. 11. 2026)**:
   - *Závazná lhůta dle čl. VI stanov SVJ:* doručit a vyvěsit nejméně **30 dní předem**, tj. **nejpozději do soboty 31. 10. 2026**!
   - Současně vyvěsit na domovní vývěsce v přízemí domu.
+  - Koncept emailu připraven v Gmailu (včetně nových vlastníků bytu č. 13).
+
+- [ ] **Zaevidovat nové vlastníky bytu č. 367/13 (Petr Horáček a Mgr. Kristína Schmidtová)**:
+  - Původní vlastníci Šoleovi předali byt i spoluvlastnické podíly na společných jednotkách k 03. 11. 2026.
+  - Kontakty: Petr Horáček (`petrhoracek02@gmail.com`, 739 840 847), Mgr. Kristína Schmidtová (`kristina.schmidtova@gmail.com`, 608 454 437).
+  - Vystavit a zaslat nový evidenční list bytu č. 13 (počet osob, bankovní spojení pro vyúčtování i pro výplatu výnosů).
+  - Předat podklady paní účetní Martině Bursové pro aktualizaci předpisu záloh a plateb.
 
 ### 🟡 Priorita 2: Právní a rejstříkové povinnosti SVJ
 - [x] ~~**Odeslat návrh na zápis výboru do Rejstříku SVJ přes datovou schránku (Městský soud v Praze, sp. zn. S 14107)**~~:

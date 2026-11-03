@@ -4,8 +4,10 @@ import sys
 import ssl
 import time
 import imaplib
+import email
 from email.message import EmailMessage
 from email.utils import make_msgid, formatdate
+from email.header import decode_header
 
 sys.path.insert(0, os.path.abspath('.'))
 from scripts.create_draft import load_env, get_drafts_folder
@@ -25,17 +27,37 @@ def main():
     try:
         drafts_folder = get_drafts_folder(mail)
         print(f"Složka konceptů: {drafts_folder}")
+        mail.select(drafts_folder)
 
+        # 1. Delete previous version of this draft if present
+        s, data = mail.search(None, 'ALL')
+        if s == 'OK' and data[0]:
+            for mid in data[0].split():
+                st, mdata = mail.fetch(mid, '(RFC822.HEADER)')
+                if st == 'OK':
+                    hdr = email.message_from_bytes(mdata[0][1])
+                    subj = ""
+                    for p, enc in decode_header(hdr.get('Subject', '')):
+                        if isinstance(p, bytes):
+                            subj += p.decode(enc or 'utf-8', errors='replace')
+                        else:
+                            subj += str(p)
+                    if "pozvánka na 15. shromáždění sv letohradská" in subj.lower():
+                        print(f"Odstraňuji předchozí koncept: {subj}")
+                        mail.store(mid, '+FLAGS', '\\Deleted')
+            mail.expunge()
+
+        # 2. Prepare new draft
         msg = EmailMessage()
         msg['From'] = f"Veronika Brožová <{user}>"
         msg['To'] = f"Veronika Brožová <{user}>"
         
-        # Bcc skupina SV (27 adres vlastníků SVJ Letohradská)
+        # Bcc skupina SV (aktualizováno: Šoleovi nahrazeni novými vlastníky bytu 13)
         bcc_list = [
             "jaou@centrum.cz", "jholub@email.cz", "LenkaHM@seznam.cz", 
             "iva.mesickova@gmail.com", "ivamachacova@seznam.cz", 
-            "monika.soleova@unicreditgroup.cz", "porizkovah@seznam.cz", 
-            "vladimir.bukac@seznam.cz", "ekitzlerova@centrum.cz", 
+            "petrhoracek02@gmail.com", "kristina.schmidtova@gmail.com",  # Noví majitelé bytu č. 13 (Horáček, Schmidtová)
+            "porizkovah@seznam.cz", "vladimir.bukac@seznam.cz", "ekitzlerova@centrum.cz", 
             "Roman.Prochazka@hochtief.cz", "rumleriva@seznam.cz", 
             "bonobak@seznam.cz", "bertuzzig@gmail.com", "milan.trefny@seznam.cz", 
             "soppejana5@gmail.com", "ivosebera@seznam.cz", "barandel@seznam.cz", 
@@ -81,7 +103,7 @@ def main():
         raw_bytes = msg.as_bytes()
         status, response = mail.append(drafts_folder, '\\Draft', imaplib.Time2Internaldate(time.time()), raw_bytes)
         if status == 'OK':
-            print("✅ Koncept úspěšně vytvořen v Gmailu!")
+            print("✅ Aktualizovaný koncept úspěšně vytvořen v Gmailu!")
             return True
         else:
             print(f"❌ Chyba při vytváření konceptu: {status} {response}")
