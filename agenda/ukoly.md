@@ -10,16 +10,15 @@
 ## 🏛️ ČÁST I: Agenda předsedy a výboru SVJ (společné části domu)
 
 ### 🔴 Priorita 1: Urgentní úkoly a soudní rejstřík SVJ
-- [ ] **Odeslat opravené oficiální podání na Městský soud v Praze z datové schránky SVJ (`g8z5iva`)**:
-  - *Reakce na sdělení soudu ze dne 03. 11. 2026 (sp. zn. S 14107/RD47/MSPH, Fj 426395/2026/MSPH)*: Soud požadoval podání na oficiálním inteligentním formuláři justice.cz (§ 17 odst. 1 nařízení vlády č. 351/2013 Sb.).
-  - *Stav:* **Kompletně vyplněno a vygenerováno bez chyb!**
-  - *Návratový kód formuláře:* `G719-274-5AG1W` (trvale uloženo na justice.cz).
-  - *Vygenerovaný PDF návrh:* [`agenda/zapisy/2026-11-03_navrh_rejstrik_justice_podani.pdf`](file:///c:/Users/nikan/data/svj/agenda/zapisy/2026-11-03_navrh_rejstrik_justice_podani.pdf).
-  - *Přílohy k odeslání:*
-    1. [`agenda/zapisy/2025-11-18_zapis_14_shromazdeni_komplet.pdf`](file:///c:/Users/nikan/data/svj/agenda/zapisy/2025-11-18_zapis_14_shromazdeni_komplet.pdf)
-    2. [`agenda/zapisy/2025-11-18_zapis_schuze_vyboru_funkce.pdf`](file:///c:/Users/nikan/data/svj/agenda/zapisy/2025-11-18_zapis_schuze_vyboru_funkce.pdf)
-  - *Cílová datová schránka:* **Městský soud v Praze** (`snkabbm`).
-  - *Soudní poplatek:* SVJ je ze zákona **osvobozeno od soudního poplatku** podle § 11 odst. 2 písm. n) zákona č. 549/1991 Sb. (zápis změn údajů v rejstříku společenství vlastníků jednotek je od poplatku osvobozen).
+- [x] ~~**Odeslat opravené oficiální podání na Městský soud v Praze z datové schránky SVJ (`g8z5iva`)**~~:
+  - *Odesláno dne 03. 11. 2026* přímo z datové schránky SVJ (`g8z5iva`) do datové schránky Městského soudu v Praze (`snkabbm`).
+  - *Reakce na sdělení soudu ze dne 03. 11. 2026:* sp. zn. `S 14107/RD47/MSPH`, `Fj 426395/2026/MSPH`.
+  - *Návratový kód formuláře:* `G719-274-5AG1W` (oficiální inteligentní formulář justice.cz dle § 17 odst. 1 nařízení vlády č. 351/2013 Sb.).
+  - *Odeslané dokumenty:*
+    1. [`agenda/zapisy/2026-11-03_navrh_rejstrik_justice_podani.pdf`](file:///c:/Users/nikan/data/svj/agenda/zapisy/2026-11-03_navrh_rejstrik_justice_podani.pdf) (oficiální formulář podání)
+    2. [`agenda/zapisy/2025-11-18_zapis_14_shromazdeni_komplet.pdf`](file:///c:/Users/nikan/data/svj/agenda/zapisy/2025-11-18_zapis_14_shromazdeni_komplet.pdf) (zápis ze 14. shromáždění SVJ s volbou výboru)
+    3. [`agenda/zapisy/2025-11-18_zapis_schuze_vyboru_funkce.pdf`](file:///c:/Users/nikan/data/svj/agenda/zapisy/2025-11-18_zapis_schuze_vyboru_funkce.pdf) (zápis z ustavující schůze výboru s rozdělením funkcí)
+  - *Soudní poplatek:* SVJ je ze zákona osvobozeno od soudního poplatku dle § 11 odst. 2 písm. n) zákona č. 549/1991 Sb.
 - [ ] **Stáhnout a vyřídit novou datovou zprávu v datovce SVJ (`g8z5iva`) ze dne 15. 10. 2026**:
   - *Odesílatel:* **Pražské služby, a.s.** (schránka `eb5ry32`).
   - *Předmět:* **Oznámení o změně obchodních podmínek a cen za poskytování nadstandardních služeb** (číslo zprávy: 1781872900).
@@ -48,8 +47,9 @@
 - [x] ~~**Odeslat návrh na zápis výboru do Rejstříku SVJ přes datovou schránku (Městský soud v Praze, sp. zn. S 14107)**~~:
   - *Odesláno dne 27. 10. 2026* přímo z datové schránky SVJ (`g8z5iva`) do datové schránky Městského soudu v Praze (`snkabbm`).
   - Přiložen oficiální návrh na zápis nového funkčního období od 18. 11. 2025 (`agenda/zapisy/2026-10-27_navrh_na_zapis_do_rejstriku_svj.pdf`) a oba podepsané zápisy z 18. 11. 2025.
-- [ ] **Sledovat doručení usnesení Městského soudu v Praze o zápisu změn do Rejstříku SVJ (sp. zn. S 14107)**:
-  - Průběžně kontrolovat příchozí zprávy v datové schránce SVJ (obvyklá lhůta soudu je 2–4 týdny).
+- [ ] **Sledovat doručení usnesení Městského soudu v Praze o zápisu změn do Rejstříku SVJ (sp. zn. S 14107, Fj 426395/2026)**:
+  - Řádný inteligentní formulář s přílohami podán dne 03. 11. 2026 (návratový kód `G719-274-5AG1W`).
+  - Průběžně kontrolovat příchozí zprávy v datové schránce SVJ (obvyklá lhůta soudu pro provedení zápisu je 2–4 týdny).
 - [ ] **Založení schválených účetních závěrek do Sbírky listin rejstříkového soudu**:
   - Účetní závěrka za rok 2024 byla schválena na 14. shromáždění (bod 8 zápisu). Součástí návrhu bylo i založení zápisu.
 - [ ] **Pravidelná kontrola datové schránky SVJ (`g8z5iva`)**:
