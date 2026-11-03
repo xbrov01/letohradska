@@ -10,10 +10,15 @@
 ## 🏛️ ČÁST I: Agenda předsedy a výboru SVJ (společné části domu)
 
 ### 🔴 Priorita 1: Urgentní úkoly a příprava podzimního shromáždění SVJ
+- [ ] **Stáhnout a vyřídit novou datovou zprávu od Městského soudu v Praze v datovce SVJ (`g8z5iva`) ze dne 03. 11. 2026**:
+  - *Odesílatel:* **Městský soud v Praze** (schránka `snkabbm`).
+  - *Předmět:* **sdělení** (číslo zprávy: `1790763460`, zpráva do vlastních rukou).
+  - *Lhůta fikce doručení:* Doručeno 03. 11. 2026 16:42, lhůta 10 kalendářních dnů vyprší v pátek **13. 11. 2026 16:42**.
+  - *Kontext:* Odpověď rejstříkového soudu na podaný návrh na zápis funkčního období výboru (sp. zn. S 14107).
 - [ ] **Stáhnout a vyřídit novou datovou zprávu v datovce SVJ (`g8z5iva`) ze dne 15. 10. 2026**:
   - *Odesílatel:* **Pražské služby, a.s.** (schránka `eb5ry32`).
   - *Předmět:* **Oznámení o změně obchodních podmínek a cen za poskytování nadstandardních služeb** (číslo zprávy: 1781872900).
-  - *Lhůta fikce doručení:* Doručeno 15. 10. 2026 12:30, lhůta 10 dní vyprší v neděli **25. 10. 2026**.
+  - *Lhůta fikce doručení:* Doručeno 15. 10. 2026 12:30, lhůta 10 dní vypršela v neděli **25. 10. 2026**.
 - [x] ~~**Volba 3. člena výboru**~~:
   - *Vyřešeno (27. 10. 2026)*: Ing. arch. Lenka Holubová Mikolášová potvrdila, že si rezignaci rozmyslela a ve výboru pokračuje. Volba nového člena odpadá.
 - [ ] **Naplánovat schůzku výboru SVJ (Veronika, Milan, Lenka)**:
