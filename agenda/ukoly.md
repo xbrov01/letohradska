@@ -9,12 +9,17 @@
 
 ## 🏛️ ČÁST I: Agenda předsedy a výboru SVJ (společné části domu)
 
-### 🔴 Priorita 1: Urgentní úkoly a příprava podzimního shromáždění SVJ
-- [ ] **Stáhnout a vyřídit novou datovou zprávu od Městského soudu v Praze v datovce SVJ (`g8z5iva`) ze dne 03. 11. 2026**:
-  - *Odesílatel:* **Městský soud v Praze** (schránka `snkabbm`).
-  - *Předmět:* **sdělení** (číslo zprávy: `1790763460`, zpráva do vlastních rukou).
-  - *Lhůta fikce doručení:* Doručeno 03. 11. 2026 16:42, lhůta 10 kalendářních dnů vyprší v pátek **13. 11. 2026 16:42**.
-  - *Kontext:* Odpověď rejstříkového soudu na podaný návrh na zápis funkčního období výboru (sp. zn. S 14107).
+### 🔴 Priorita 1: Urgentní úkoly a soudní rejstřík SVJ
+- [ ] **Odeslat opravené oficiální podání na Městský soud v Praze z datové schránky SVJ (`g8z5iva`)**:
+  - *Reakce na sdělení soudu ze dne 03. 11. 2026 (sp. zn. S 14107/RD47/MSPH, Fj 426395/2026/MSPH)*: Soud požadoval podání na oficiálním inteligentním formuláři justice.cz (§ 17 odst. 1 nařízení vlády č. 351/2013 Sb.).
+  - *Stav:* **Kompletně vyplněno a vygenerováno bez chyb!**
+  - *Návratový kód formuláře:* `G719-274-5AG1W` (trvale uloženo na justice.cz).
+  - *Vygenerovaný PDF návrh:* [`agenda/zapisy/2026-11-03_navrh_rejstrik_justice_podani.pdf`](file:///c:/Users/nikan/data/svj/agenda/zapisy/2026-11-03_navrh_rejstrik_justice_podani.pdf).
+  - *Přílohy k odeslání:*
+    1. [`agenda/zapisy/2025-11-18_zapis_14_shromazdeni_komplet.pdf`](file:///c:/Users/nikan/data/svj/agenda/zapisy/2025-11-18_zapis_14_shromazdeni_komplet.pdf)
+    2. [`agenda/zapisy/2025-11-18_zapis_schuze_vyboru_funkce.pdf`](file:///c:/Users/nikan/data/svj/agenda/zapisy/2025-11-18_zapis_schuze_vyboru_funkce.pdf)
+  - *Cílová datová schránka:* **Městský soud v Praze** (`snkabbm`).
+  - *Soudní poplatek:* SVJ je ze zákona **osvobozeno od soudního poplatku** podle § 11 odst. 2 písm. n) zákona č. 549/1991 Sb. (zápis změn údajů v rejstříku společenství vlastníků jednotek je od poplatku osvobozen).
 - [ ] **Stáhnout a vyřídit novou datovou zprávu v datovce SVJ (`g8z5iva`) ze dne 15. 10. 2026**:
   - *Odesílatel:* **Pražské služby, a.s.** (schránka `eb5ry32`).
   - *Předmět:* **Oznámení o změně obchodních podmínek a cen za poskytování nadstandardních služeb** (číslo zprávy: 1781872900).
