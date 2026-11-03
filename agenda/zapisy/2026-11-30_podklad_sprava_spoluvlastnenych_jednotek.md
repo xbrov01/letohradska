@@ -1,12 +1,13 @@
 # Podklady a strategický souhrn pro zasedání podílových spoluvlastníků jednotek
 
 **Místo a termín:** Letohradská 367/5, pondělí 30. 11. 2026 (v návaznosti na 15. shromáždění SVJ)  
-**Zpracovala:** Veronika Brožová, správce na základě plné moci udělené spoluvlastníky  
+**Zpracovala:** Veronika Brožová, spoluvlastník a správce na základě plné moci pro pronajímané jednotky  
 
 > [!IMPORTANT]
-> **Právní rámec jednání (Striktní oddělení od agendy SVJ):**  
-> Tato agenda se **v žádném ohledu netýká Společenství vlastníků jednotek (SVJ Letohradská 367/5)** ani správy společných částí budovy.  
-> Správu jednotek v podílovém spoluvlastnictví (byty č. 367/1, 367/2, 367/3, 367/9 a nebytové prostory č. 367/101, 367/102) vykonává Veronika Brožová **výhradně na základě plné moci udělené jednotlivými podílovými spoluvlastníky** (bývalými družstevníky). Tyto jednotky nevlastní SVJ jako právnická osoba a jejich správa se řídí obecnými ustanoveními občanského zákoníku o spoluvlastnictví (§ 1115 až § 1157 zákona č. 89/2012 Sb., OZ).
+> **Právní rámec jednání (Striktní oddělení od agendy SVJ a rozsah plných mocí):**  
+> 1. **SVJ nic nevlastní:** Společenství vlastníků jednotek (SVJ Letohradská 367/5) ze zákona (§ 1194 OZ) nikdy nevlastní a ani nemůže vlastnit žádné byty ani nebyty v domě. SVJ je výhradně právnickou osobou sdružující všechny vlastníky jednotek za účelem správy společných částí budovy a pozemku. Všechny jednotky v budově jsou v soukromém vlastnictví – buď jednotlivých vlastníků (byty v SVJ), nebo ve spoluvlastnictví skupiny fyzických osob (bývalých družstevníků).  
+> 2. **Správa pronajímaných jednotek (byty 1, 2, 3 a nebyty 101, 102):** Správu těchto 5 pronajímaných jednotek vykonává Veronika Brožová na základě plných mocí udělených jednotlivými spoluvlastníky. Od nesouhlasícího menšinového spoluvlastníka **žádnou plnou moc ke správě nemá**, přesto se o tyto jednotky stará, spravuje nájemní vztahy a jeho podíl na čistých výnosech mu řádně každoročně vyčísluje a vyplácí na účet.  
+> 3. **Byt č. 367/9 – ŽÁDNÁ PLNÁ MOC:** Na správu bytu č. 367/9 Veronika Brožová **ŽÁDNOU PLNOU MOC NEMÁ a záměrně si ji nenechala vystavit**. V této záležitosti nevystupuje jako zmocněný správce, ale **výhradně jako jeden ze spoluvlastníků bytu č. 367/9**, který má zájem na ochraně společného majetku a vyřešení dlouholetého patu.
 
 ---
 
@@ -58,17 +59,20 @@ Pravidla pro daňové přiznání k dani z příjmů fyzických osob dle zákona
 
 ---
 
-# ČÁST II: JEDNOTKA Č. 367/9 – STRATEGICKÁ ANALÝZA A VŠECHNA REÁLNÁ ŘEŠENÍ
+# ČÁST II: JEDNOTKA Č. 367/9 – STRATEGICKÁ ANALÝZA A ŘEŠENÍ
 
-## 1. Evidence vlastníků – ověření počtu spoluvlastníků
+## 1. Právní pozice k bytu č. 367/9 a ověření počtu spoluvlastníků
 
-Na základě podrobné prověrky listu vlastnictví č. **11224** (pro jednotku č. 367/9) v katastru nemovitostí a výpočtových listů domu byl přesně verifikován vlastnický stav:
+### A) Rozsah zastupování:
+* Veronika Brožová **nemá plnou moc na správu bytu č. 367/9 a záměrně si ji nenechala udělit**. V této věci jedná výhradně ze své pozice spoluvlastníka bytu.
+* Od nesouhlasícího menšinového spoluvlastníka **nemá žádnou plnou moc** k žádné jednotce, přesto spravuje pronajímané byty a jeho podíly na výnosech mu řádně vyplácí.
+* Pro řešení bytu č. 367/9 (právní kroky, žaloba) je nezbytné, aby spoluvlastníci vystupovali přímo nebo udělili plnou moc přímo advokátní kanceláři.
 
-* **Počet zápisů na listu vlastnictví (LV 11224):** V katastru nemovitostí je zapsáno celkem **26 položek vlastnických podílů** (které vznikly z původních 24 privatizovaných kmenových jednotek v domě).
-* **Skutečný počet fyzických osob:**  
-  Těchto 26 vlastnických podílů náleží dohromady **31 fyzickým osobám**:
+### B) Přesný počet spoluvlastníků (verifikace dle katastru nemovitostí, LV 11224):
+* **Počet zápisů na listu vlastnictví (LV 11224):** V katastru nemovitostí je zapsáno celkem **26 položek vlastnických podílů** (odpovídajících 24 původním privatizovaným kmenovým jednotkám v domě).
+* **Skutečný počet fyzických osob:** Těchto 26 vlastnických podílů náleží dohromady **31 fyzickým osobám**:
   - 5 podílů je ve společném jmění manželů (SJM Brožovi, Bukačovi, Pořízkovi, Rumlerovi, Trefní = 10 osob).
-  - 1 podíl je v podílovém spoluvlastnictví (rodina Procházkova = 3 osoby: Libuše, Karel a Roman Procházkovi).
+  - 1 podíl v podílovém spoluvlastnictví (Procházkovi = 3 osoby: Libuše, Karel a Roman Procházkovi).
   - 1 podíl (byt č. 13) nově převeden v 11/2026 na 2 nové vlastníky (Petr Horáček a Kristína Schmidtová).
   - 1 podíl po zemřelé Boženy Spurné přešel v dědictví na Radka Horáka (1 osoba).
   - Zbývající podíly vlastní jednotlivé fyzické osoby (Andělová, Bertuzzi, Hábová, Jalový, Kaifosz, Kitzlerová, Kopecká, Nývltová/Mandelíková, Měsíčková, Ouředníček, Pavlíčková, Sebera, Soldát, Soppé, Zímová, a příslušný menšinový spoluvlastník).
@@ -192,7 +196,7 @@ Na základě podrobné prověrky listu vlastnictví č. **11224** (pro jednotku 
 * **Nevýhody / Proč je to nereálné:**
   - Desítky rodin se nikdy neshodnou na vyplacení 30 000 Kč v hotovosti ze své kapsy.
   - Nesouhlasící spoluvlastník peníze odmítne dát (vymáhat po něm podíl u soudu je na několik let exekucí).
-  - Obrovská administrativní a časová zátěž pro správkyni (řízení stavby, stavební dozor, reklamace).
+  - Obrovská administrativní a časová zátěž (řízení stavby, stavební dozor, reklamace).
 
 ---
 
@@ -206,7 +210,7 @@ Na základě podrobné prověrky listu vlastnictví č. **11224** (pro jednotku 
 * **Výhody:** Spoluvlastníci nemusí skládat hotovost na rekonstrukci.
 * **ZÁSADNÍ RIZIKA A SKRYTÉ PASTI (PROČ JDE O NEBEZPEČNÝ EXPERIMENT):**
   1. **Právní past dlouhodobé smlouvy:** Žádný nájemce neinvestuje 800 tisíc Kč bez garance nájmu na **7 až 10 let bez možnosti běžné výpovědi**. Pokud nájemce přestane hradit služby, začne devastovat dům nebo obtěžovat sousedy, občanský zákoník (§ 2235 a násl. OZ) nájemce silně chrání a soudní vystěhování v ČR trvá 2 až 4 roky.
-  2. **Technicko-stavební riziko v majetku za 11 mil. Kč:** Správkyně by musela dělat bezplatný stavební a technický dozor nad cizími dělníky v majetku spoluvlastníků (kontrola statiky, zásahů do komínů, stupaček, hydroizolací). Pokud nájemce provede neodbornou elektroinstalaci a dojde k požáru, **odpovědnost za škodu vůči celému domu nesou spoluvlastníci jednotky**!
+  2. **Technicko-stavební riziko v majetku za 11 mil. Kč:** Bylo by nutné provádět bezplatný stavební a technický dozor nad cizími dělníky v majetku spoluvlastníků (kontrola statiky, zásahů do komínů, stupaček, hydroizolací). Pokud nájemce provede neodbornou elektroinstalaci a dojde k požáru, **odpovědnost za škodu vůči celému domu nesou spoluvlastníci jednotky**!
   3. **Finanční past vypořádání zhodnocení (§ 2263 OZ):** Po skončení nájmu hrozí vleklý spor o to, o kolik přesně se byt zhodnotil a jaké částky mu spoluvlastníci musí doplatit.
   4. **Neřeší to podstatu problému:** Po 10 letech bude byt opět opotřebovaný a na listu vlastnictví bude stále spousta spoluvlastníků a zablokovaný stav.
 
@@ -244,21 +248,21 @@ Na základě podrobné prověrky listu vlastnictví č. **11224** (pro jednotku 
 
 Spoluvlastnictví desítek lidí na jediném obytném bytě je historický relikt a **jeho nesmyslnost v běžném životě je do očí bijící**. Jeden obstrukční člověk dokáže zablokovat majetek v hodnotě přes 11 milionů korun všem ostatním rodinám.
 
-Správkyně doporučuje spoluvlastníkům schválit následující 3 konkrétní kroky:
+S ohledem na to, že Veronika Brožová **nemá plnou moc k bytu č. 367/9**, je doporučeno schválit následující 3 konkrétní kroky a udělit plné moci přímo advokátní kanceláři:
 
 ### Krok 1: Hlasování o odpojení plynu (Okamžitá úspora 3 600 Kč/rok)
-* **Právní základ:** Běžná správa věci dle § 1128 odst. 1 OZ (stačí nadpoloviční většina přítomných hlasů).
-* **Návrh usnesení:**  
-  *„Spoluvlastníci jednotky č. 367/9 schvalují ukončení smlouvy o dodávce plynu pro jednotku č. 367/9 a demontáž plynoměru za účelem úspory stálých měsíčních plateb. Pověřují správkyni Veroniku Brožovou provedením tohoto úkonu.“*
+* **Právní základ:** Běžná správa věci dle § 1128 odst. 1 OZ (stačí nadpoloviční většina přítomných hlasů spoluvlastníků).
+* **Návrh usnesení 1:**  
+  *„Spoluvlastníci jednotky č. 367/9 schvalují ukončení smlouvy o dodávce plynu pro jednotku č. 367/9 a demontáž plynoměru za účelem úspory stálých měsíčních plateb. Pověřují spoluvlastnici Veroniku Brožovou provedením tohoto faktického úkonu u dodavatele.“*
 
 ### Krok 2: Potvrzení vůle ukončit spoluvlastnictví a byt prodat
-* **Návrh usnesení:**  
+* **Návrh usnesení 2:**  
   *„Spoluvlastníci jednotky č. 367/9 konstatují, že s ohledem na technický stav bytu, nutnost nákladné celkové rekonstrukce a neúčelnost držení bytu je společným cílem spoluvlastníků ukončit spoluvlastnictví prodejem bytu č. 367/9 za tržní cenu (s očekávaným výtěžkem v rozmezí 10,5 až 11,8 mil. Kč) a rozdělení výtěžku mezi spoluvlastníky.“*
 
-### Krok 3: Pověření k zaslání předžalobní výzvy a následnému podání žaloby
+### Krok 3: Pověření k zajištění právního zastoupení advokátní kanceláří a podání žaloby
 * **Právní postup:**  
-  1. Správkyně ve spolupráci s advokátní kanceláří připraví plné moci pro spoluvlastníky k právnímu zastoupení.
-  2. Nesouhlasícímu menšinovému spoluvlastníkovi bude zaslána **formální předžalobní výzva s lhůtou do 31. 1. 2027**, aby přistoupil k podpisu dohody o dobrovolném prodeji bytu na volném trhu přes prověřenou RK.
+  1. Spoluvlastníci vystaví plné moci přímo vybrané advokátní kanceláři k právnímu zastoupení ve věci zrušení a vypořádání spoluvlastnictví.
+  2. Nesouhlasícímu menšinovému spoluvlastníkovi bude zaslána **formální předžalobní výzva advokáta s lhůtou do 31. 1. 2027**, aby přistoupil k podpisu dohody o dobrovolném prodeji bytu na volném trhu přes prověřenou RK.
   3. Pokud příslušný spoluvlastník v dané lhůtě dohodu nepodepíše, advokát obratem podá k soudu **žalobu na zrušení a vypořádání spoluvlastnictví nařízením soudního prodeje ve veřejné dražbě dle § 1140 a § 1147 OZ**. Náklady na poplatek a advokáta budou dočasně hrazeny z fondu výnosů ze společných jednotek a následně vypořádány z výtěžku prodeje.
-* **Návrh usnesení:**  
-  *„Spoluvlastníci pověřují správkyni Veroniku Brožovou a vybranou advokátní kancelář k vyhotovení a zaslání předžalobní výzvy nesouhlasícímu menšinovému spoluvlastníku k uzavření dohody o prodeji bytu č. 367/9 s termínem do 31. 1. 2027. Pro případ marného uplynutí této lhůty schvalují podání žaloby na soudní zrušení a vypořádání spoluvlastnictví bytu č. 367/9 a úhradu nezbytných nákladů řízení ze společného účtu výnosů z pronájmu.“*
+* **Návrh usnesení 3:**  
+  *„Spoluvlastníci jednotky č. 367/9 schvalují zajištění právního zastoupení advokátní kanceláří k vypracování a odeslání předžalobní výzvy nesouhlasícímu menšinovému spoluvlastníkovi s termínem do 31. 1. 2027 a pro případ neuzavření dohody k podání žaloby na soudní zrušení a vypořádání spoluvlastnictví bytu č. 367/9 soudním prodejem. Za tímto účelem podepíší plné moci pro advokátní kancelář a pověřují Veroniku Brožovou koordinací postupu a úhradou nezbytných nákladů řízení ze společného účtu výnosů z pronájmu.“*
