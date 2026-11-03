@@ -67,44 +67,47 @@ V průběhu roku 2026 byl nájemci ateliéru č. 101 **jednorázově odpuštěn 
 
 ### C) Přehled všech možných řešení bytu č. 9:
 
-#### 1. PRODEJ JAKO CELKU VE STÁVAJÍCÍM STAVU (Ideální varianta)
-* **Hodnota / Výnos:** Prodejní cena min. **12 000 000 Kč**. Po odečtení nákladů prodeje získá každý spoluvlastník **cca 360 000 až 380 000 Kč v čistém v hotovosti na ruku**.
-* **Podmínka dobrovolného prodeje:** Vyžaduje **100% souhlas všech 32 spoluvlastníků** (podpis všech na kupní smlouvě).
-* **Překážka:** David Večeřa dohodu dlouhodobě odmítá a blokuje.
+### C) Proč jsou ostatní „teoretické“ nápady slepou uličkou?
 
-#### 2. SOUDNÍ ŽALOBA NA ZRUŠENÍ A VYPOŘÁDÁNÍ SPOLUVLASTNICTVÍ (§ 1140 a násl. OZ) – Právní páka
-* **Princip:** Pokud 1 spoluvlastník blokuje ostatních 31, podají spoluvlastníci zastoupení advokátem žalobu k soudu.
-* **Zákonné pravidlo (§ 1140 odst. 1 OZ):** *„Nikdo nemůže být nucen ve spoluvlastnictví setrvat.“*
-* **Postup soudu (§ 1147 OZ):** Byt nelze reálně rozdělit a žádný ze spoluvlastníků nechce ostatní vyplatit částkou 12 mil. Kč. Soud proto **nařídí prodej bytu ve veřejné dražbě** a výtěžek rozdělí spoluvlastníkům podle jejich podílů.
-* **Finanční výsledek:** Každý spoluvlastník obdrží svůj podíl z dražební ceny (odhadem **cca 340 000 až 390 000 Kč**).
-* **Náklady a délka:** Soudní poplatek činí 2 000 Kč, náklady advokáta cca 40–80 tis. Kč (rozpočteno mezi spoluvlastníky cca 1 500 – 2 500 Kč na podíl, případně lze hradit ze společného účtu). Délka řízení 1 až 2 roky.
-* **Taktický efekt:** Podání žaloby často přinutí Davida Večeřu podepsat dobrovolný prodej, protože si uvědomí, že prodeji nezabrání a dražba je pro všechny finančně méně flexibilní.
+Spoluvlastníci na schůzkách často navrhují zdánlivě jednoduchá řešení, která jsou však v praxi nerealizovatelná nebo představují obrovskou past:
 
-#### 3. ODKUP VEČEŘOVA PODÍLU OSTATNÍMI SPOLUVLASTNÍKY
-* **Princip:** Spoluvlastníci nabídnou Davidu Večeřovi odkup jeho 1/32 podílu za tržní cenu (cca **375 000 Kč**).
-* **Financování:** Kdyby se složilo zbývajících 31 spoluvlastníků, činí to cca **12 000 Kč na jednoho**. Následně by 31 spoluvlastníků mělo 100% shodu a byt by prodali za 12 mil. Kč (každý by dostal zpět svých 12 tis. Kč + 375 tis. Kč z prodeje).
-* **Podmínka:** Ochota pana Večeři podíl prodat. Pokud odmítne, tato varianta padá.
-
-#### 4. REKONSTRUKCE BYTU A NÁSLEDNÝ PRONÁJEM
-* **Investice:** Celková rekonstrukce (nová elektroinstalace v mědi, koupelna, odpady, topení, podlahy) by stála **min. 800 000 až 1 200 000 Kč**.
-* **Problém:** Na účtu tyto peníze nejsou. Každý spoluvlastník by musel složit **cca 25 000 až 38 000 Kč v hotovosti**. Na tom se 32 lidí nikdy neshodne a pan Večeřa peníze nedá.
-* **Návratnost:** I při nájmu 25 000 Kč/měs. by byla návratnost investice **10 až 12 let**.
-* **Závěr:** **Nevýhodná a nerealizovatelná varianta.**
-
-#### 5. PRONÁJEM VE STÁVAJÍCÍM STAVU S REKONSTRUKCÍ NA NÁKLADY NÁJEMCE
-* **Princip:** Dlouhodobý pronájem nájemci, který byt na své náklady zrekonstruuje výměnou za nájemní prázdniny.
-* **Výhoda v hlasování (§ 1128 OZ):** K rozhodnutí o běžné správě (pronájmu) **stačí nadpoloviční většina hlasů spoluvlastníků**! Večeřa tento krok **nemůže zablokovat**.
-* **Riziko:** Bezpečnost elektroinstalace. Ve smlouvě by musela být striktní podmínka, že nájemce provede rekonstrukci elektro a dodá revizní zprávu dříve, než začne byt obývat.
+1. **„Odkupme od Večeři jeho podíl, nebo mu ho vyměňme za jiný podíl“ ❌ SLEPÁ ULIČKA:**
+   - Pan David Večeřa byl opakovaně dotazován: svůj podíl **kategoricky odmítá prodat, převést i vyměnit za podíl v jiném bytě**. Tuto možnost sám definitivně vyloučil.
+2. **„Pronajměme to někomu ve stávajícím stavu, ať si to sám zrekonstruuje“ ❌ NEBEZPEČNÁ PAST:**
+   - **Právní past:** Aby se nájemci vyplatilo investovat cca 800 tis. až 1 mil. Kč ze svého, bude požadovat garantovanou smlouvu na **7 až 10 let** bez možnosti výpovědi. Pokud by se nájemce ukázal jako problémový, neplatil služby nebo obtěžoval dům, občanský zákoník chrání nájemce a zbavit se ho by bylo téměř nemožné.
+   - **Technická a stavební past:** Správkyně by musela v našem 12milionovém majetku dělat bezplatný technický a stavební dozor nad cizími dělníky (kontrola zásahů do nosných konstrukcí, stupaček, elektroinstalace).
+   - **Neřeší to podstatu:** Po 10 letech bychom byli v úplně stejném bodě – 32 spoluvlastníků, zablokovaný majetek a pan Večeřa.
+3. **„Složme se na rekonstrukci sami a pronajměme to na trhu“ ❌ NEREÁLNÉ:**
+   - Vyžadovalo by to, aby 32 lidí dalo v hotovosti cca **25 000 až 38 000 Kč z vlastní kapsy**. Na tom se nikdy neshodneme a pan Večeřa peníze nedá. Návratnost by byla přes 10 let.
 
 ---
 
-### D) Doporučený konkrétní plán kroků pro zasedání:
+### D) Skutečná podstata problému a JEDINÉ funkční řešení:
 
-1. **Hlasování 1 (Většinové – okamžitá úspora):**  
-   Schválit odhlášení plynu a demontáž plynoměru u bytu č. 9 (úspora 3 600 Kč/rok).
-2. **Hlasování 2 (Většinové – strategický směr):**  
-   Potvrdit vůli spoluvlastníků byt č. 9 **prodat za tržní cenu (min. 12 mil. Kč)** namísto nákladné rekonstrukce.
-3. **Hlasování 3 (Mandát pro správkyni k řešení s p. Večeřou):**  
-   Pověřit správkyni zaslat Davidu Večeřovi formální výzvu s termínem do 31. 1. 2027:
-   - Buď přistoupí k dobrovolnému prodeji bytu / odkupu podílu,
-   - nebo spoluvlastníci podají **žalobu na zrušení a vypořádání spoluvlastnictví soudním prodejem**.
+Spoluvlastnictví 32 lidí na jediném obytném bytě je historický relikt a **jeho nesmyslnost v běžném životě je do očí bijící**. Jeden obstrukční člověk dokáže zablokovat majetek v hodnotě 12 milionů korun ostatním 31 rodinám.
+
+Zákonodárce přesně pro tyto neřešitelné situace vložil do občanského zákoníku institut **soudního zrušení a vypořádání spoluvlastnictví (§ 1140 a násl. OZ)**:
+
+1. **Zákonná zásada (§ 1140 odst. 1 OZ):**  
+   *„Nikdo nemůže být nucen ve spoluvlastnictví setrvat a nikdo nemůže být nucen bránit jinému ve zrušení spoluvlastnictví.“*  
+   Soud tedy žalobě **musí vyhovět** – pan Večeřa tomu nemůže nijak zabránit.
+2. **Forma vypořádání (§ 1147 OZ):**  
+   Protože byt nelze fyzicky rozdělit na 32 částí a nikdo z nás nechce ostatní vyplatit částkou 12 mil. Kč v hotovosti, soud nařídí **prodej bytu ve veřejné dražbě**.
+3. **Výsledek pro každého spoluvlastníka:**  
+   Výtěžek z dražby soud rozdělí přímo na bankovní účty jednotlivých spoluvlastníků podle jejich podílů.  
+   👉 **Každý spoluvlastník konečně reálně obdrží cca 350 000 až 380 000 Kč v čistém v penězích, definitivně skončí pětiletá agónie a placení poplatků za prázdný byt.**
+4. **Předžalobní výzva a psychologický efekt:**  
+   Před podáním žaloby zašle advokát panu Večeřovi poslední výzvu s doložením, že jej žaluje většina spoluvlastníků. V této fázi většina obstrukčních spoluvlastníků pochopí, že prodeji nezabrání a že dobrovolný prodej přes realitní kancelář je pro všechny výhodnější než soudní dražba. Pokud nepodepíše, podá se žaloba.
+
+---
+
+### E) Doporučený konkrétní plán kroků pro zasedání:
+
+1. **Hlasování 1 (Většina – okamžitá úspora):**  
+   Schválit **odhlášení plynu a demontáž plynoměru** u bytu č. 9 (úspora **3 600 Kč/rok** ihned na zbytečných udržovacích poplatcích). K tomu stačí běžná většina.
+2. **Hlasování 2 (Většina – strategický cíl):**  
+   Potvrdit vůli spoluvlastníků **ukončit spoluvlastnictví bytu č. 9 prodejem** (při hodnotě min. 12 mil. Kč to znamená cca 375 000 Kč pro každý podíl).
+3. **Hlasování 3 (Mandát k řešení a žalobě):**  
+   Schválit pověření správkyně a advokáta:
+   - Zaslat Davidu Večeřovi předžalobní výzvu s lhůtou do **31. 1. 2027** k podpisu dohody o dobrovolném prodeji.
+   - V případě marného uplynutí lhůty podat **žalobu na zrušení a vypořádání spoluvlastnictví soudním prodejem**.
