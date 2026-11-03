@@ -3,9 +3,10 @@
 Katastrální území: Holešovice [730122], LV č. budovy: 367, Číslo popisné: 367, Číslo orientační: 5.
 
 > [!IMPORTANT]
-> **Právní vymezení jednotek a správy:**
-> 1. **Jednotky ve výlučném vlastnictví jednotlivých vlastníků:** Tvoří Společenství vlastníků jednotek (SVJ Letohradská 367, IČ: 24239178). Předseda výboru spravuje společné části domu.
-> 2. **Jednotky v podílovém spoluvlastnictví (cca 32 spoluvlastníků):** Byty č. 367/1, 2, 3, 9 a nebytové prostory č. 367/101, 102. Tyto jednotky **nevlastní SVJ**. Jejich správu vykonává Veronika Brožová **výhradně na základě plné moci od jednotlivých spoluvlastníků**.
+> **Právní vymezení jednotek, povahy SVJ a správy:**
+> 1. **SVJ nikdy nic nevlastní:** Společenství vlastníků jednotek (SVJ Letohradská 367, IČ: 24239178) ze zákona (§ 1194 OZ) nikdy žádné jednotky nevlastní a ani vlastnit nemůže; je právnickou osobou sdružující vlastníky jednotek výhradně za účelem správy společných částí budovy a pozemku. Všechny jednotky jsou v soukromém vlastnictví – buď jednotlivých vlastníků (byty v SVJ), nebo v podílovém spoluvlastnictví skupiny fyzických osob (bývalých družstevníků).
+> 2. **Pronajímané jednotky ve spoluvlastnictví (byty č. 367/1, 2, 3 a nebyty č. 367/101, 102):** Správu těchto 5 jednotek vykonává Veronika Brožová na základě plných mocí od jednotlivých spoluvlastníků. Od Davida Večeři **žádnou plnou moc ke správě nemá**, přesto se o pronájmy stará a jeho podíly na výnosech mu řádně každoročně vyplácí na účet.
+> 3. **Byt č. 367/9 (ŽÁDNÁ PLNÁ MOC):** Na správu bytu č. 367/9 Veronika Brožová **žádnou plnou moc nemá (záměrně si ji nenechala napsat)** a v této záležitosti vystupuje výhradně jako jeden ze spoluvlastníků. Pro právní řešení a soudní žalobu musí spoluvlastníci zmocnit přímo advokátní kancelář.
 
 ---
 
