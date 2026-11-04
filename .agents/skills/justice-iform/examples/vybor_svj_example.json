@@ -1,0 +1,64 @@
+{
+  "ico": "24239178",
+  "return_code": null,
+  "signing_method": "DATOVA_SCHRANKA",
+  "court": "Městský soud v Praze (IDDS: snkabbm)",
+  "deletions": [
+    {
+      "date": "18.11.2025"
+    }
+  ],
+  "additions": [
+    {
+      "search_name": "VERONIKA",
+      "rodne_cislo": "765924/0270",
+      "obcanstvi": "Stat[293]",
+      "rodne_prijmeni": "Šedivá",
+      "stat_narozeni": "cz",
+      "okres_narozeni": "Praha",
+      "misto_narozeni": "Praha",
+      "funkce": "předseda výboru",
+      "funkce_od": "18.11.2025",
+      "clenstvi_od": "18.11.2025"
+    },
+    {
+      "search_name": "MILAN",
+      "rodne_cislo": "730303/0149",
+      "obcanstvi": "Stat[293]",
+      "rodne_prijmeni": "Trefný",
+      "stat_narozeni": "cz",
+      "okres_narozeni": "Praha",
+      "misto_narozeni": "Praha",
+      "funkce": "místopředseda výboru",
+      "funkce_od": "18.11.2025",
+      "clenstvi_od": "18.11.2025"
+    },
+    {
+      "search_name": "LENKA",
+      "rodne_cislo": "765330/0391",
+      "obcanstvi": "Stat[293]",
+      "rodne_prijmeni": "Mikolášová",
+      "stat_narozeni": "cz",
+      "okres_narozeni": "Praha",
+      "misto_narozeni": "Praha",
+      "funkce": "člen výboru",
+      "funkce_od": null,
+      "clenstvi_od": "18.11.2025"
+    }
+  ],
+  "signatory": {
+    "search_name": "VERONIKA",
+    "validate_ruian": true,
+    "ruian_filter": "Letohradská"
+  },
+  "attachments": [
+    {
+      "name": "Zápis ze 14. shromáždění SVJ konaného dne 18. 11. 2025",
+      "count": 1
+    },
+    {
+      "name": "Zápis ze schůze výboru SVJ ze dne 18. 11. 2025",
+      "count": 1
+    }
+  ]
+}
