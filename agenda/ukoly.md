@@ -18,7 +18,7 @@
     1. [`agenda/zapisy/2026-11-03_navrh_rejstrik_justice_podani.pdf`](file:///c:/Users/nikan/data/svj/agenda/zapisy/2026-11-03_navrh_rejstrik_justice_podani.pdf) (oficiální formulář podání)
     2. [`agenda/zapisy/2025-11-18_zapis_14_shromazdeni_komplet.pdf`](file:///c:/Users/nikan/data/svj/agenda/zapisy/2025-11-18_zapis_14_shromazdeni_komplet.pdf) (zápis ze 14. shromáždění SVJ s volbou výboru)
     3. [`agenda/zapisy/2025-11-18_zapis_schuze_vyboru_funkce.pdf`](file:///c:/Users/nikan/data/svj/agenda/zapisy/2025-11-18_zapis_schuze_vyboru_funkce.pdf) (zápis z ustavující schůze výboru s rozdělením funkcí)
-  - *Soudní poplatek:* SVJ je ze zákona osvobozeno od soudního poplatku dle § 11 odst. 2 písm. n) zákona č. 549/1991 Sb.
+  - *Soudní poplatek:* **2 000 Kč** dle zákona č. 549/1991 Sb., Sazebník poplatků, Položka 11 bod 1 písm. c) (SVJ není od poplatku osvobozeno; platební údaje jsou na 1. straně formuláře: účet Městského soudu v Praze 3703-2928021/0710, VS: 24239178, SS: 101, poznámka: G719-274-5AG1W).
 - [ ] **Stáhnout a vyřídit novou datovou zprávu v datovce SVJ (`g8z5iva`) ze dne 15. 10. 2026**:
   - *Odesílatel:* **Pražské služby, a.s.** (schránka `eb5ry32`).
   - *Předmět:* **Oznámení o změně obchodních podmínek a cen za poskytování nadstandardních služeb** (číslo zprávy: 1781872900).

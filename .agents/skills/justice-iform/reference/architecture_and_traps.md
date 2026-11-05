@@ -91,9 +91,11 @@ Při volbě nového statutárního orgánu (či znovuzvolení stávajících čl
 
 ## 3. Právní náležitosti a podání na soud
 
-### 3.1 Osvobození SVJ od soudního poplatku
-- Podle **§ 11 odst. 2 písm. v) zákona č. 549/1991 Sb., o soudních poplatcích**, jsou řízení ve věcech veřejného rejstříku, jde-li o zápis společenství vlastníků jednotek nebo zápis změny údajů o společenství vlastníků jednotek, **zcela osvobozena od soudního poplatku** (poplatek činí **0 Kč**).
-- V návrhu není potřeba dokládat úhradu poplatku ani vylepovat kolek.
+### 3.1 Soudní poplatek za změnu v rejstříku (2 000 Kč)
+- Podle **Položky 11 bod 1 písm. c) Sazebníku soudních poplatků** (příloha k zákonu č. 549/1991 Sb., o soudních poplatcích) činí soudní poplatek za návrh na zahájení řízení ve věcech veřejného rejstříku za změny nebo doplnění zápisu **2 000 Kč**.
+- Podle bodu 3 téže položky se poplatek vybere za návrh pouze jednou bez ohledu na počet měněných nebo doplňovaných skutečností (např. při současném výmazu a zápisu několika členů výboru).
+- **SVJ není od soudního poplatku osvobozeno.** Osvobození dle § 11 odst. 1 písm. j) zákona č. 549/1991 Sb. se vztahuje pouze na spolky, nadace, nadační fondy, ústavy a obecně prospěšné společnosti; společenství vlastníků jednotek v tomto výčtu nefiguruje.
+- **Platební instrukce:** Systém justice.cz po vygenerování návrhu uvede na 1. straně PDF platební údaje včetně QR kódu, bankovního účtu soudu (pro Městský soud v Praze: `3703-2928021/0710`), variabilního symbolu (IČO navrhovatele) a specifického symbolu (`101`). Poplatek lze uhradit bankovním převodem předem (a potvrzení přiložit) nebo na základě výzvy soudu po doručení návrhu.
 
 ### 3.2 Doručení přes Datovou schránku (bez uznávaného el. podpisu)
 - Podle **§ 22 zákona č. 304/2013 Sb.** (o veřejných rejstřících) a **§ 18 odst. 2 zákona č. 300/2008 Sb.** (o elektronických úkonech):

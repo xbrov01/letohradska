@@ -132,9 +132,9 @@ flowchart TD
 
 ## 5. Právní náležitosti a podání
 
-### 5.1 Osvobození SVJ od soudního poplatku
-Podle **§ 11 odst. 2 písm. v) zákona č. 549/1991 Sb., o soudních poplatcích**, jsou řízení ve věcech veřejného rejstříku týkající se společenství vlastníků jednotek (SVJ) **zcela osvobozena od soudního poplatku**.
-Poplatek za podání činí **0 Kč**.
+### 5.1 Soudní poplatek za zápis změny (2 000 Kč)
+Podle **Položky 11 bod 1 písm. c) Sazebníku soudních poplatků** (příloha k zákonu č. 549/1991 Sb., o soudních poplatcích) činí soudní poplatek za návrh na zápis změny ve veřejném rejstříku **2 000 Kč**.
+SVJ na rozdíl od spolků či nadací (§ 11 odst. 1 písm. j)) **není od soudního poplatku osvobozeno**. Poplatek se dle bodu 3 Položky 11 vybírá za návrh pouze jednou bez ohledu na počet zapisovaných nebo vymazávaných osob. Platební údaje a platební QR kód pro úhradu bankovním převodem na účet příslušného soudu systém vygeneruje přímo na 1. straně oficiálního PDF návrhu.
 
 ### 5.2 Podání přes datovou schránku
 - Podle **§ 22 zákona č. 304/2013 Sb.** a **§ 18 odst. 2 zákona č. 300/2008 Sb.** není u podání zasílaného z datové schránky navrhovatele (SVJ) vyžadován uznávaný elektronický podpis. Identita odesílatele je zaručena autentizací v datové schránce.

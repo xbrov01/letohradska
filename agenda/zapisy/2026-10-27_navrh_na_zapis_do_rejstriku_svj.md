@@ -5,7 +5,7 @@
 - **Spisová značka:** S 14107
 - **Datum vyhotovení:** 27. 10. 2026
 - **Způsob podání:** Elektronicky z datové schránky SVJ
-- **Poplatek:** 0 Kč (osvobozeno dle zákona č. 549/1991 Sb., Položka 11)
+- **Poplatek:** 2 000 Kč dle zákona č. 549/1991 Sb., Sazebník poplatků, Položka 11 bod 1 písm. c) (SVJ není osvobozeno; hradí se na účet soudu)
 - **Generované PDF podání:** [`agenda/zapisy/2026-10-27_navrh_na_zapis_do_rejstriku_svj.pdf`](file:///c:/Users/nikan/data/svj/agenda/zapisy/2026-10-27_navrh_na_zapis_do_rejstriku_svj.pdf)
 
 ---
