@@ -101,3 +101,11 @@ Tento projekt slouží jako inteligentní asistent pro správu agendy předsedy 
 - Bankovní výpisy účtu domu u České spořitelny za rok 2026 jsou uloženy v Excelových tabulkách ve složce `C:\Users\nikan\Documents\Společenství\Výpisy\` (zejména souhrnný soubor `Vypisy_2026_Komplet.xlsx` a jednotlivé měsíční výpisy `vypis01.xlsx` až `vypis09.xlsx`).
 - Tyto Excelové tabulky slouží jako **primární a autoritativní zdroj pro veškeré finanční analýzy**, sledování plateb záloh vlastníků, kontrolu dlužníků, inkaso nájemného a výplaty podílů na výnosech podílovým spoluvlastníkům.
 - Není nutné zpracovávat původní naskenované PDF soubory výpisů.
+
+---
+
+## 11. Povinné ověřování právních tvrzení přes e-Sbírku (`esbirka`)
+- **Striktní pravidlo ověřování zákonných ustanovení**: V případě, že odpověď asistenta obsahuje jakékoliv právní tvrzení, citaci paragrafu, lhůtu, poplatek, právo nebo povinnost, kterou lze ověřit v platné legislativě ČR, asistent **VŽDY před odesláním odpovědi ověří toto tvrzení pomocí skillu `esbirka`** (skript `python .agents/skills/esbirka/scripts/esbirka.py ...` přímo proti oficiálnímu API e-Sbírky Ministerstva vnitra).
+- **Zákaz neověřených domněnek**: Asistent se nikdy nespoléhá na obecnou domněnku či neověřenou znalost právních předpisů (zejména u občanského zákoníku č. 89/2012 Sb., zákona o soudních poplatcích č. 549/1991 Sb., zákona o veřejných rejstřících č. 304/2013 Sb., zákona o službách č. 67/2013 Sb. apod.).
+- **Uvádění přesných zdrojů**: Ve výstupu vždy uvádět přesnou a ověřenou citaci (číslo zákona, paragraf, odstavec, písmeno, případně položku sazebníku) platného a účinného znění.
+
