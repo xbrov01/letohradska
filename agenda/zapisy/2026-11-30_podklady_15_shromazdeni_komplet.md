@@ -168,13 +168,13 @@ Program dle pozvánky ze dne 2. 11. 2026:
 
 ### 7.2 Příspěvek na správu domu a zálohy na služby na rok 2027
 
-- **Příspěvek na správu domu (provozní fond):** Výbor navrhuje zvýšit ze stávajících **285 Kč / jednotka / měsíc** na **400 Kč / jednotka / měsíc** *(+115 Kč/měs.)*.
+- **Příspěvek na správu domu (provozní fond):** Výbor navrhuje zvýšit ze stávajících **285 Kč / jednotka / měsíc** na **350 Kč / jednotka / měsíc** *(+65 Kč/měs.)*.
   - **Zdůvodnění:** Běžné roční náklady na správu domu v roce 2025 činily **96 423 Kč** *(účetnictví 43 500 Kč, odměny orgánů vč. odvodů 50 645 Kč, zpracování mezd 1 500 Kč, režie 778 Kč)* a k tomu bankovní poplatky **4 016 Kč** (celkem přes **100 400 Kč/rok**). Stávající záloha **285 Kč/jednotka/měs.** přitom vynese jen **99 192 Kč/rok** (za 29 jednotek vč. podílů), takže nejenže nepokryje ani běžný rok s bankovními poplatky, ale kumulovaný nedoplatek na správě domu dále roste (k 31. 12. 2024 činil −38 190 Kč, k 31. 12. 2025 již **−40 011 Kč**).
-  - **Efekt navrhované sazby 400 Kč/jednotka/měs.:** Roční výběr vzroste na **139 200 Kč/rok** (+40 008 Kč/rok), což pokryje běžné náklady správy i bankovní poplatky a **během jediného roku prakticky celý dosavadní 40tisícový nedoplatek vymaže** *(alternativa: při sazbě **350 Kč/jednotka/měs.** = 121 800 Kč/rok by se nedoplatek srovnal zhruba za 2 roky)*.
+  - **Efekt navrhované sazby 350 Kč/jednotka/měs.:** Roční výběr vzroste na **121 800 Kč/rok** (+22 608 Kč/rok), což bezpečně pokryje běžné náklady správy i bankovní poplatky a **umožní postupně srovnat stávající 40tisícový nedoplatek zhruba během 2 let** bez velkého skoku v měsíčních platbách.
 - **Zálohy na služby (voda, odpady, společná elektřina):** Plošné zvyšování není nutné. Výbor navrhuje **ponechat stávající výši záloh** s tím, že účetní provede individuální úpravu pouze u jednotek s výraznějším nedoplatkem při ročním vyúčtování.
 
 > **Návrh usnesení k bodu 7:**  
-> *„Shromáždění SVJ schvaluje od 1. 1. 2027 výši příspěvku do fondu oprav (dlouhodobé zálohy na opravy a údržbu) ve výši **40 Kč / m²** podlahové plochy měsíčně a příspěvek na správu domu ve výši **400 Kč** za jednotku měsíčně. Měsíční zálohy na služby zůstávají ve stávající výši s pověřením výboru a účetní provést případné individuální úpravy u jednotek s vykázaným nedoplatkem.“*
+> *„Shromáždění SVJ schvaluje od 1. 1. 2027 výši příspěvku do fondu oprav (dlouhodobé zálohy na opravy a údržbu) ve výši **40 Kč / m²** podlahové plochy měsíčně a příspěvek na správu domu ve výši **350 Kč** za jednotku měsíčně. Měsíční zálohy na služby zůstávají ve stávající výši s pověřením výboru a účetní provést případné individuální úpravy u jednotek s vykázaným nedoplatkem.“*
 
 ---
 
