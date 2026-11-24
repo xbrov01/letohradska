@@ -137,7 +137,9 @@ Program dle pozvánky ze dne 2. 11. 2026:
 - **Návrh výboru od 1. 1. 2027:** zvýšení příspěvku do fondu oprav *(doporučený návrh na **35 Kč / m² / měsíc**, případně dle diskuse vlastníků po jednotlivých korunách výše)*.
 
 **Zdůvodnění zvýšení fondu oprav:**
-1. **Stávající příspěvek je dlouhodobě velmi nízký:** Sazba **31 Kč / m² / měsíc** je nastavena již velmi dlouhou dobu a neodpovídá současným cenám stavebních prací ani velikosti plánovaných investic domu.
+1. **Stávající příspěvek 31 Kč/m² platí již od roku 2013 (téměř 14 let!) a jeho reálná hodnota klesla o více než třetinu:** Dle archivních výpočtových listů (platných od **1. 2. 2013**) se sazba **31 Kč / m² / měsíc** nezměnila od roku 2013 (v roce 2022 došlo pouze k oddělení položky správy domu 285 Kč/jednotka). Dle oficiálních dat ČSÚ činila kumulativní inflace od roku 2013 do roku 2025 **+56,3 %** (včetně roku 2026 již cca **+59,7 %**):
+   - Tehdejších 31 Kč/m² má dnes reálnou kupní sílu jen cca **19,40 Kč/m²** (pokles o **37,4 %**).
+   - Pouhé dorovnání inflace z roku 2013 by odpovídalo sazbě **49,50 Kč/m²** *(i kdybychom počítali jen od roku 2022, kde byla kumulativní inflace +33,7 %, šlo by o 41,50 Kč/m²)*. Navrhovaných **35–36 Kč/m²** je tedy stále hluboko pod inflačním dorovnáním.
 2. **Tímto tempem budeme na všechno šetřit příliš dlouho:** Při stávající sazbě 31 Kč/m² vybereme ročně **816 636 Kč**, ale běžný provoz fondu oprav (pojištění domu, povinné revize komínů/PO/plynu, servis výtahu, drobné opravy a havárie) spotřebuje zhruba **140–350 tis. Kč ročně** *(v roce 2025 to bylo 142 519 Kč, v roce 2026 kvůli havárii stoupačky přes 350 tis. Kč)*. Reálný čistý přírůstek úspor je tak jen cca **460–670 tis. Kč ročně**, takže na jakoukoliv větší akci (zejména rekonstrukci jižní dvorní fasády s odhadem 2,5–3 mil. Kč i případné následné opravy uliční fasády) bychom šetřili neúměrně dlouho, zatímco ceny ve stavebnictví dál rostou.
 3. **Vyhnutí se úvěru a mimořádným platbám:** Průběžné navýšení fondu oprav o několik korun za m² umožní financovat plánované opravy i nečekané havárie z vlastních rezerv bez nutnosti brát si drahý úvěr nebo vybírat jednorázové mimořádné příspěvky.
 
