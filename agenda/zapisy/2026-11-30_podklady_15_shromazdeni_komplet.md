@@ -133,22 +133,36 @@ Program dle pozvánky ze dne 2. 11. 2026:
 
 ### 7.1 Návrh na zvýšení příspěvku do fondu oprav
 
-- **Stávající stav (2025–2026):** **31 Kč / m² / měsíc** *(cca 68 053 Kč/měs., tj. 816 636 Kč/rok pro celý dům)*.
-- **Návrh výboru od 1. 1. 2027:** zvýšení o **4 až 5 Kč / m² / měsíc**, tj. na **35 Kč / m² / měsíc** *(doporučená varianta)* nebo **36 Kč / m² / měsíc**.
+- **Stávající stav (2025–2026):** **31 Kč / m² / měsíc** *(68 053 Kč/měs., tj. 816 636 Kč/rok pro celý dům; započítaná podlahová plocha domu činí cca 2 195,26 m²)*.
+- **Návrh výboru od 1. 1. 2027:** zvýšení příspěvku do fondu oprav *(doporučený návrh na **35 Kč / m² / měsíc**, případně dle diskuse vlastníků po jednotlivých korunách výše)*.
 
 **Zdůvodnění zvýšení fondu oprav:**
-1. **Nutnost došetření na rekonstrukci jižní (dvorní) fasády:** Aktuální stav fondu oprav je cca **2,34 mil. Kč**, zatímco odhadované náklady na samotnou realizaci opravy/zateplení dvorní fasády činí v dnešních cenách **2,5 až 3 mil. Kč** (případně i více dle rozsahu prací). Bez navýšení fondu oprav by muselo SVJ v době realizace vybírat jednorázové mimořádné příspěvky nebo si brát drahý úvěr.
-2. **Rezerva na nečekané havárie:** Letošní havárie odpadní stoupačky ukázala, že i mimo plánované investice může nastat jednorázový výdaj přes **220 tis. Kč**. Fond oprav musí dlouhodobě pokrývat nejen spoření na fasádu, ale i průběžné havárie, revize a pojištění domu (cca 150–250 tis. Kč ročně).
-3. **Inflace ve stavebnictví a úpravy dvora:** Sazba 31 Kč/m² platí již několik let, přičemž ceny stavebních prací v Praze vzrostly o 10–15 %. V roce 2027 bude navíc potřeba zkulturnit dvůr po odstranění břečťanu.
+1. **Stávající příspěvek je dlouhodobě velmi nízký:** Sazba **31 Kč / m² / měsíc** je nastavena již velmi dlouhou dobu a neodpovídá současným cenám stavebních prací ani velikosti plánovaných investic domu.
+2. **Tímto tempem budeme na všechno šetřit příliš dlouho:** Při stávající sazbě 31 Kč/m² vybereme ročně **816 636 Kč**, ale běžný provoz fondu oprav (pojištění domu, povinné revize komínů/PO/plynu, servis výtahu, drobné opravy a havárie) spotřebuje zhruba **140–350 tis. Kč ročně** *(v roce 2025 to bylo 142 519 Kč, v roce 2026 kvůli havárii stoupačky přes 350 tis. Kč)*. Reálný čistý přírůstek úspor je tak jen cca **460–670 tis. Kč ročně**, takže na jakoukoliv větší akci (zejména rekonstrukci jižní dvorní fasády s odhadem 2,5–3 mil. Kč i případné následné opravy uliční fasády) bychom šetřili neúměrně dlouho, zatímco ceny ve stavebnictví dál rostou.
+3. **Vyhnutí se úvěru a mimořádným platbám:** Průběžné navýšení fondu oprav o několik korun za m² umožní financovat plánované opravy i nečekané havárie z vlastních rezerv bez nutnosti brát si drahý úvěr nebo vybírat jednorázové mimořádné příspěvky.
 
-**Dopad na měsíční platby vlastníků (orientačně):**
+**Výpočet dopadu navýšení o každou +1 Kč / m² / měsíc:**
+> *Při celkové zpoplatněné ploše domu **cca 2 195,26 m²** znamená **každá 1 Kč / m² měsíčně navíc**:*
+> - **+2 195 Kč / měsíc** pro celý dům,
+> - **+26 343 Kč / rok** do fondu oprav navíc *(2 195,26 m² × 12 měsíců)*.
 
-| Podlahová plocha bytu | Stávající (31 Kč/m²) | Návrh 35 Kč/m² (+4 Kč) | Varianta 36 Kč/m² (+5 Kč) | Měsíční nárůst |
+| Sazba FO (Kč/m²/měs.) | Navýšení | Měsíční výběr domu | Roční výběr domu | Roční navýšení oproti 31 Kč/m² |
 | :--- | :---: | :---: | :---: | :---: |
-| **Menší byt (cca 35 m²)** | 1 085 Kč | 1 225 Kč | 1 260 Kč | +140 až +175 Kč |
-| **Střední byt (cca 55 m²)** | 1 705 Kč | 1 925 Kč | 1 980 Kč | +220 až +275 Kč |
-| **Větší byt (cca 75 m²)** | 2 325 Kč | 2 625 Kč | 2 700 Kč | +300 až +375 Kč |
-| **Dům celkem (cca 2 195 m²)** | **68 053 Kč/měs.** | **~76 834 Kč/měs.** | **~79 029 Kč/měs.** | **+105 až +132 tis. Kč/rok** |
+| **31 Kč/m²** *(stávající)* | — | 68 053 Kč/měs. | **816 636 Kč/rok** | — |
+| **32 Kč/m²** | +1 Kč | ~70 248 Kč/měs. | **~842 979 Kč/rok** | **+26 343 Kč/rok** |
+| **33 Kč/m²** | +2 Kč | ~72 444 Kč/měs. | **~869 322 Kč/rok** | **+52 686 Kč/rok** |
+| **34 Kč/m²** | +3 Kč | ~74 639 Kč/měs. | **~895 665 Kč/rok** | **+79 029 Kč/rok** |
+| **35 Kč/m²** *(návrh výboru)* | **+4 Kč** | ~76 834 Kč/měs. | **~922 008 Kč/rok** | **+105 372 Kč/rok** |
+| **36 Kč/m²** | +5 Kč | ~79 029 Kč/měs. | **~948 351 Kč/rok** | **+131 715 Kč/rok** |
+| **40 Kč/m²** | +9 Kč | ~87 810 Kč/měs. | **~1 053 724 Kč/rok** | **+237 088 Kč/rok** |
+
+**Orientační dopad na měsíční platbu podle velikosti bytu:**
+
+| Podlahová plocha bytu | Stávající (31 Kč/m²) | +1 Kč/m² (32 Kč) | +4 Kč/m² (35 Kč) | +5 Kč/m² (36 Kč) |
+| :--- | :---: | :---: | :---: | :---: |
+| **Menší byt (cca 35 m²)** | 1 085 Kč | +35 Kč *(1 120 Kč)* | +140 Kč *(1 225 Kč)* | +175 Kč *(1 260 Kč)* |
+| **Střední byt (cca 55 m²)** | 1 705 Kč | +55 Kč *(1 760 Kč)* | +220 Kč *(1 925 Kč)* | +275 Kč *(1 980 Kč)* |
+| **Větší byt (cca 75 m²)** | 2 325 Kč | +75 Kč *(2 400 Kč)* | +300 Kč *(2 625 Kč)* | +375 Kč *(2 700 Kč)* |
 
 ### 7.2 Příspěvek na správu domu a zálohy na služby na rok 2027
 
