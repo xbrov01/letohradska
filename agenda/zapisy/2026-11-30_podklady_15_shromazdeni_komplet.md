@@ -22,13 +22,12 @@
 
 ## Bod 2: Volba předsedajícího, skrutátorů, zapisovatele a ověřovatelů zápisu
 
-- **Návrh obsazení funkcí** *(obdobně jako na 14. shromáždění)*:
-  - **Předsedající:** Veronika Brožová
-  - **Zapisovatelka:** Veronika Brožová
+- **Jedno společné hlasování pro všechny funkce najednou** *(nemáme návrhovou komisi; funkce jsou obdobné jako na 14. shromáždění)*:
+  - **Předsedající a zapisovatelka:** Veronika Brožová
   - **Skrutátoři:** *(navrhnout z přítomných, minule Adam Altmann, Iva Kopecká)*
   - **Ověřovatelé zápisu:** *(navrhnout z přítomných, minule Ivana Rumlerová, Milan Trefný)*
 
-> **Návrh usnesení k bodu 2:**  
+> **Hlasování k bodu 2 (všichni najednou):**  
 > *„Shromáždění SVJ volí předsedající a zapisovatelkou Veroniku Brožovou, skrutátory [jméno, jméno] a ověřovateli zápisu [jméno, jméno].“*
 
 ---
@@ -65,22 +64,18 @@ Program dle pozvánky ze dne 2. 11. 2026:
 
 1. **Havárie a výměna odpadní stoupačky (srpen–říjen 2026):**
    - V srpnu 2026 došlo k ucpání a havárii odpadní stoupačky (zasaženy byty ve svislé linii – Zímová, Bukačovi ve 3. patře, Rumlerovi).
-   - **1. krok – havarijní čištění kanalizace:** Dne 12. 8. 2026 provedla firma **HERČÍK a KŘÍŽ, spol. s r.o.** strojní čištění kanalizace a odpadů (fa č. 2026003514, uhrazeno **10 158,40 Kč**).
-   - **2. krok – výměna stoupačky (3 podlaží):** V září 2026 provedla firma **Petr Novotný – Inkaservis** vybourání, demontáž, montáž nové odpadní stoupačky, napojení bytů, zednické a obkladačské práce a strojní čištění odpadů ve 3 podlažích (fa č. 20260441, uhrazeno 22. 9. 2026 ve výši **127 825,60 Kč**).
-   - **3. krok – dokončení výměny stoupačky (2 podlaží):** V říjnu 2026 proběhlo dokončení výměny stoupačky ve zbývajících 2 podlažích včetně zednických a obkladačských prací a dvířek k čisticímu otvoru (fa č. 20260474 z 8. 10. 2026 na **81 984,00 Kč**).
-   - **Celkové náklady na havárii a výměnu stoupačky:** **219 968,00 Kč**.
+   - Nejprve proběhlo havarijní strojní čištění kanalizace (firma HERČÍK a KŘÍŽ) a následně ve dvou etapách kompletní výměna odpadní stoupačky ve všech 5 dotčených podlažích včetně vybourání, napojení bytů, zednických a obkladačských prací a dvířek k čisticímu otvoru (firma Petr Novotný – Inkaservis).
+   - **Celkové náklady na havárii a výměnu stoupačky:** **cca 220 000 Kč** *(přesně 219 968 Kč)*.
 2. **Nová pojistná smlouva domu (Allianz):**
-   - S účinností od **26. 3. 2026** byla uzavřena nová pojistná smlouva majetku a odpovědnosti domu u **Allianz pojišťovny, a.s.** (č. C555042142) s ročním pojistným **42 311,00 Kč** (uhrazeno 27. 3. 2026); původní smlouva byla ukončena s žádostí o vrácení nespotřebovaného pojistného.
-3. **Pravidelný servis a zákonné revize v roce 2026:**
-   - **Spalinové cesty (komíny):** roční kontrola provedena 19. 5. 2026 (Kominictví Petr Holeček, fa 2026.094 – **13 600 Kč**).
-   - **Požární ochrana a hasicí přístroje:** roční kontrola provedena 20. 5. 2026 (BOZP-PO s.r.o., fa 20260744 – **2 565 Kč**).
-   - **Výtah OTIS (zařízení H4456):** pravidelné čtvrtletní servisní prohlídky a drobná údržba (kontroly březen, květen, 10. 8. 2026, září – celkem k září 2026 uhrazeno **22 626,51 Kč**; v listopadu 2026 probíhá podzimní prohlídka).
-   - **Projektová příprava fasády:** v únoru 2026 uhrazena faktura **Atelier Poledne s.r.o.** za předchozí propočet a studie variant opravy fasád (**50 820 Kč**).
+   - S účinností od **26. 3. 2026** byla uzavřena nová pojistná smlouva majetku a odpovědnosti domu u **Allianz pojišťovny, a.s.** s ročním pojistným **42 311 Kč**; původní smlouva byla ukončena s žádostí o vrácení nespotřebovaného pojistného.
+3. **Projektová studie fasád, servis výtahu a zákonné revize:**
+   - V únoru 2026 byla uhrazena dříve objednaná studie a propočet variant oprav fasád od **Atelier Poledne s.r.o.** (**50 820 Kč**).
+   - Pravidelný čtvrtletní servis výtahu OTIS i roční zákonné kontroly spalinových cest (komínů) a požární ochrany proběhly řádně dle harmonogramu.
 
 ### 5.2 Likvidace břečťanu na fasádě sousedního domu
 
 - V červnu 2026 musel být na důraznou a oprávněnou žádost vlastníka sousedního domu kompletně odstraněn břečťan, který rostl na jeho fasádě směrem do našeho dvora (vlastník sousedního domu si nepřál, aby břečťan na jeho fasádě byl, a případné pěstování podmínil pořízením vlastní konstrukce mimo jeho zeď).
-- Práce na sundání a likvidaci břečťanu proběhly v červnu 2026 (výpomoc na DPP 800 Kč).
+- Práce na sundání a likvidaci břečťanu proběhly v červnu 2026.
 - **Následné kroky:** V roce 2027 bude potřeba upravit a zkulturnit společný dvůr po likvidaci břečťanu (případně zvážit vlastní konstrukci či jinou zeleň).
 
 ### 5.3 Biopopelnice (svoz bioodpadu)
@@ -107,11 +102,11 @@ Program dle pozvánky ze dne 2. 11. 2026:
 - **Fond oprav (dlouhodobé zálohy na opravy, údržbu a pojištění) v roce 2025:**
   - Počáteční zůstatek k 31. 12. 2024: **1 272 233,15 Kč**
   - Zálohy vlastníků v roce 2025: **+816 636,00 Kč** *(68 053 Kč/měs.)*
-  - Čerpání v roce 2025 (opravy, údržba, revize, pojištění): **-142 519,41 Kč** *(mj. úprava vodoměrné sestavy PVK 51 010 Kč, odstranění graffiti 37 293,41 Kč, pojištění 17 661 Kč, komíny 12 750 Kč, čištění žlabů 7 840 Kč, elektro sklep 5 611 Kč, BOZP 2 565 Kč, deratizace 2 178 Kč, výtah 2 072 Kč, stoupačka 1 700 Kč)*
+  - Čerpání v roce 2025 (opravy, údržba, revize, pojištění): **-142 519,41 Kč** *(hlavní položky: úprava vodoměrné sestavy PVK 51 tis. Kč, odstranění graffiti 37 tis. Kč, pojištění domu 18 tis. Kč, revize komínů, čištění žlabů a běžná údržba)*.
   - **Konečný zůstatek fondu oprav k 31. 12. 2025:** **1 946 349,74 Kč**
 - **Správa domu (provozní fond) v roce 2025:**
   - Zálohy vlastníků celkem: **99 192,00 Kč** *(byty 78 660 Kč + podíly 20 532 Kč)*
-  - Náklady na správu v roce 2025: **-96 423,00 Kč** *(odměny výboru vč. odvodů 50 645 Kč, účetnictví M. Bursová 43 500 Kč, zpracování mezd 1 500 Kč, režie 778 Kč)* + nedoplatek správy z r. 2024 (**-38 189,66 Kč**) + úhrada ztráty 2024 (**-4 590,00 Kč**).
+  - Náklady na správu v roce 2025: **-96 423,00 Kč** *(odměny výboru vč. odvodů 50 645 Kč, účetnictví M. Bursová 43 500 Kč, zpracování mezd a drobná administrativa)* + nedoplatek správy z r. 2024 (**-38 189,66 Kč**) + úhrada ztráty 2024 (**-4 590,00 Kč**).
   - **Zůstatek záloh na správu k 31. 12. 2025:** **-40 010,66 Kč** *(nedoplatek)*
 - **Hospodářský výsledek roku 2025:** ztráta **4 015,62 Kč** *(náklady na vedení bankovního účtu)*.
 
@@ -121,10 +116,10 @@ Program dle pozvánky ze dne 2. 11. 2026:
 - **Orientační aktuální stav fondu oprav k listopadu 2026:**
   - Zůstatek fondu oprav k 31. 12. 2025: **1 946 349,74 Kč**
   - Předpis příspěvků do fondu oprav za 01–11/2026 (11 měsíců × 68 053 Kč): **cca +748 583 Kč**
-  - Doložené hlavní výdaje z fondu oprav v roce 2026 (stoupačka a čištění odpadů 219 968 Kč, projektová studie Atelier Poledne 50 820 Kč, pojištění Allianz 42 311 Kč, servis výtahu OTIS 22 627 Kč, komíny 13 600 Kč, BOZP 2 565 Kč): **cca -351 891 Kč**
+  - Hlavní výdaje z fondu oprav v roce 2026 (havárie a výměna stoupačky ~220 tis. Kč, projektová studie fasády ~51 tis. Kč, pojištění Allianz ~42 tis. Kč, servis výtahu a revize ~39 tis. Kč): **cca -352 000 Kč**
   - **Odhadovaný zůstatek fondu oprav k listopadu 2026:** **cca 2,34 mil. Kč** *(přesná účetní uzávěrka bude provedena účetní po konci roku 2026)*.
 
-> **Návrh usnesení k bodu 6:**  
+> **Hlasování k bodu 6:**  
 > *„Shromáždění SVJ schvaluje účetní závěrku SVJ za rok 2025 a zprávu o hospodaření za rok 2025.“*
 
 ---
@@ -179,7 +174,7 @@ Program dle pozvánky ze dne 2. 11. 2026:
      - *Společná elektřina (PRE):* ceny jsou stabilizované (jde pouze o chodby a výtah).
   3. **Individuální korekce stačí:** Účetní provede individuální úpravu záloh pouze u konkrétních jednotek s vykázaným nedoplatkem při ročním vyúčtování nebo při změně počtu osob v bytě (např. byt č. 13).
 
-> **Návrh usnesení k bodu 7:**  
+> **Hlasování k bodu 7 (vše najednou – fond oprav, správa i služby):**  
 > *„Shromáždění SVJ schvaluje od 1. 1. 2027 výši příspěvku do fondu oprav (dlouhodobé zálohy na opravy a údržbu) ve výši **40 Kč / m²** podlahové plochy měsíčně a příspěvek na správu domu ve výši **350 Kč** za jednotku měsíčně. Měsíční zálohy na služby zůstávají ve stávající výši s pověřením výboru a účetní provést případné individuální úpravy u jednotek s vykázaným nedoplatkem.“*
 
 ---
@@ -212,7 +207,7 @@ Program dle pozvánky ze dne 2. 11. 2026:
   - **04/2027:** Roční odečet vodoměrů pro vyúčtování služeb za rok 2026.
   - **05/2027:** Roční kontrola spalinových cest / komínů (Kominictví Petr Holeček) a roční kontrola PO a hasicích přístrojů (BOZP-PO s.r.o.).
 
-> **Návrh usnesení k bodu 8:**  
+> **Hlasování k bodu 8 (plán na 2027 + projektant najednou):**  
 > *„Shromáždění SVJ schvaluje plán oprav a revizí na rok 2027 a schvaluje zadání zpracování projektové dokumentace na rekonstrukci jižní (dvorní) fasády domu Letohradská 367/5 společnosti **PORSENNA STAVEBNÍ s.r.o.** (odpovědný projektant Ing. Daniel Machander) za cenu **65 000 Kč bez DPH** s termínem zhotovení do 3 měsíců. Shromáždění pověřuje výbor SVJ podpisem smlouvy o dílo.“*
 
 ---
@@ -232,7 +227,7 @@ Program dle pozvánky ze dne 2. 11. 2026:
 
 *(Pozn.: K vyplaceným odměnám se připočítávají zákonné odvody/daně zpracované mzdovou účetní; v roce 2025 činily celkové náklady na odměny vč. odvodů 50 645 Kč a byly hrazeny z fondu správy domu).*
 
-> **Návrh usnesení k bodu 9:**  
+> **Hlasování k bodu 9 (všechny odměny najednou):**  
 > *„Shromáždění SVJ schvaluje odměny voleným orgánům SVJ za rok 2025 takto: Veronika Brožová 24 000 Kč, Milan Trefný 11 000 Kč, Ivana Rumlerová 2 500 Kč, Ing. arch. Lenka Holubová Mikolášová 1 000 Kč.“*
 
 ---
