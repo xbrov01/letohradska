@@ -77,11 +77,11 @@ Program dle pozvánky ze dne 2. 11. 2026:
    - **Výtah OTIS (zařízení H4456):** pravidelné čtvrtletní servisní prohlídky a drobná údržba (kontroly březen, květen, 10. 8. 2026, září – celkem k září 2026 uhrazeno **22 626,51 Kč**; v listopadu 2026 probíhá podzimní prohlídka).
    - **Projektová příprava fasády:** v únoru 2026 uhrazena faktura **Atelier Poledne s.r.o.** za předchozí propočet a studie variant opravy fasád (**50 820 Kč**).
 
-### 5.2 Likvidace břečťanu na dvoře
+### 5.2 Likvidace břečťanu na fasádě sousedního domu
 
-- V červnu 2026 musel být na důraznou a právně oprávněnou žádost majitele sousedního domu kompletně odstraněn břečťan, který prorůstal na jeho fasádu ze společného dvora (sousední vlastník podmínil případné pěstování pořízením vlastní konstrukce mimo jeho zeď).
+- V červnu 2026 musel být na důraznou a oprávněnou žádost vlastníka sousedního domu kompletně odstraněn břečťan, který rostl na jeho fasádě směrem do našeho dvora (vlastník sousedního domu si nepřál, aby břečťan na jeho fasádě byl, a případné pěstování podmínil pořízením vlastní konstrukce mimo jeho zeď).
 - Práce na sundání a likvidaci břečťanu proběhly v červnu 2026 (výpomoc na DPP 800 Kč).
-- **Pozitivní přínos:** Dvorní část a fasáda jsou nyní plně odkryté, což umožňuje přesné zaměření a přípravu projektové dokumentace pro rekonstrukci jižní fasády a plánování úprav dvora v roce 2027.
+- **Následné kroky:** V roce 2027 bude potřeba upravit a zkulturnit společný dvůr po likvidaci břečťanu (případně zvážit vlastní konstrukci či jinou zeleň).
 
 ### 5.3 Biopopelnice (svoz bioodpadu)
 

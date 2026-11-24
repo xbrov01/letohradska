@@ -7,7 +7,7 @@
 ### 1. Důvody a dosavadní vývoj
 Na předchozím 14. shromáždění vlastníků (dne 18. 11. 2025) bylo v bodu 7 a 10 schváleno, že samotná realizace generální opravy fasády se prozatím odkládá z důvodu vysoké finanční náročnosti stavebních prací (odhad rozpočtu se v dnešních cenách pohybuje okolo 2,5 až 3 mil. Kč, na což fond oprav v danou chvíli neměl dostatek prostředků). 
 
-V uplynulém období došlo k nezbytnému odstranění břečťanu, který dlouhodobě narušoval omítky a ohrožoval římsy a střechu domu. Nyní je stav dvorní fasády plně odkrytý.
+V uplynulém období došlo zároveň k odstranění břečťanu na fasádě sousedního domu ve dvoře (na žádost sousedního vlastníka), takže je dvorní prostor připraven i na navazující úpravy a přípravu rekonstrukce naší jižní fasády.
 
 Abychom se posunuli k samotné realizaci a rekonstrukci dvorní části domu, je **zcela nezbytným prvním krokem vypracování odborné projektové dokumentace**:
 1. **Bez projektu nelze stavbu projednat s úřady:** Zajištění závazných stanovisek (zejména požární bezpečnost stavby – PBŘS a památková péče) a ohlášení/povolení na stavebním úřadě Prahy 7.
