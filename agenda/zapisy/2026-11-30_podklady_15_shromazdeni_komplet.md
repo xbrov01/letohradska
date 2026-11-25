@@ -75,7 +75,7 @@ Program dle pozvánky ze dne 2. 11. 2026:
 ### 5.2 Likvidace břečťanu na fasádě sousedního domu
 
 - V červnu 2026 musel být na důraznou a oprávněnou žádost vlastníka sousedního domu kompletně odstraněn břečťan, který rostl na jeho fasádě směrem do našeho dvora (vlastník sousedního domu si nepřál, aby břečťan na jeho fasádě byl, a případné pěstování podmínil pořízením vlastní konstrukce mimo jeho zeď).
-- Práce na sundání a likvidaci břečťanu proběhly v červnu 2026.
+- Práce na sundání a likvidaci břečťanu proběhly v červnu 2026 za celkem **21 505 Kč** *(15 600 Kč výškové práce horolezců + 5 905 Kč velkoobjemový kontejner na odvoz)*.
 - **Následné kroky:** V roce 2027 bude potřeba upravit a zkulturnit společný dvůr po likvidaci břečťanu (případně zvážit vlastní konstrukci či jinou zeleň).
 
 ### 5.3 Biopopelnice (svoz bioodpadu)
@@ -116,8 +116,8 @@ Program dle pozvánky ze dne 2. 11. 2026:
 - **Orientační aktuální stav fondu oprav k listopadu 2026:**
   - Zůstatek fondu oprav k 31. 12. 2025: **1 946 349,74 Kč**
   - Předpis příspěvků do fondu oprav za 01–11/2026 (11 měsíců × 68 053 Kč): **cca +748 583 Kč**
-  - Hlavní výdaje z fondu oprav v roce 2026 (havárie a výměna stoupačky ~220 tis. Kč, projektová studie fasády ~51 tis. Kč, pojištění Allianz ~42 tis. Kč, servis výtahu a revize ~39 tis. Kč): **cca -352 000 Kč**
-  - **Odhadovaný zůstatek fondu oprav k listopadu 2026:** **cca 2,34 mil. Kč** *(přesná účetní uzávěrka bude provedena účetní po konci roku 2026)*.
+  - Hlavní výdaje z fondu oprav v roce 2026 (havárie a výměna stoupačky ~220 tis. Kč, projektová studie fasády ~51 tis. Kč, pojištění Allianz ~42 tis. Kč, servis výtahu a revize ~39 tis. Kč, likvidace břečťanu ~22 tis. Kč): **cca -373 000 Kč**
+  - **Odhadovaný zůstatek fondu oprav k listopadu 2026:** **cca 2,32 mil. Kč** *(přesná účetní uzávěrka bude provedena účetní po konci roku 2026)*.
 
 > **Hlasování k bodu 6:**  
 > *„Shromáždění SVJ schvaluje účetní závěrku SVJ za rok 2025 a zprávu o hospodaření za rok 2025.“*

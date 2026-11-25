@@ -13,7 +13,7 @@ posílám stručný přehled **klíčových věcných bodů** na nadcházející
 - **Havárie a opravy 2026:**
   - **Odpadní stoupačka (srpen–říjen):** Po srpnové havárii proběhlo čištění kanalizace a kompletní výměna stoupačky v 5 podlažích (vč. zednických a obkladačských prací) za celkem **cca 220 tis. Kč**.
   - **Pojištění domu:** Nová pojistná smlouva u Allianz (od 26. 3. 2026) za **42 311 Kč/rok**.
-  - **Břečťan na dvoře:** Na žádost vlastníka sousedního domu (nepřál si břečťan na své zdi) proběhla v červnu jeho kompletní likvidace ze sousední fasády. V roce 2027 bude potřeba dvůr zkulturnit.
+  - **Břečťan na dvoře:** Na žádost vlastníka sousedního domu (nepřál si břečťan na své zdi) proběhla v červnu jeho kompletní likvidace ze sousední fasády za **21 505 Kč** (15 600 Kč výškoví horolezci + 5 905 Kč kontejner). V roce 2027 bude potřeba dvůr zkulturnit.
   - **Biopopelnice:** Celoroční bezplatný svoz od Pražských služeb pokračuje bez přerušení i v zimě.
 
 ---

@@ -11,18 +11,18 @@
 
 Ahoj Lenko,
 
-díky moc za rychlou reakci a připomínky!
+díky moc za reakci a připomínky!
 
 1. **Cena za likvidaci břečťanu:**  
-   SVJ to nestálo nic (**0 Kč**) – tu drobnou výpomoc jsem nakonec uhradila ze svého, takže se to v nákladech domu vůbec neobjevilo. Do podkladů to takhle doplním, ať je to v přehledu úplně jasné.
+   Likvidace stála celkem **21 505 Kč** – z toho **15 600 Kč** práce výškových horolezců a **5 905 Kč** velkoobjemový kontejner na odvoz. Do podkladů tuhle částku doplním, ať je to u všech položek jednotné.
 
 2. **Údržba dvora a odměna Milana (11 000 Kč):**  
-   Odměna 11 000 Kč ročně (necelých 920 Kč měsíčně) je odměnou za funkci místopředsedy výboru – tedy za účast na jednáních, řešení technických věcí, kontrolu oprav, havárií a komunikaci v domě. Péči o dvůr dělal Milan dlouhodobě spíš ze své dobré vůle nad rámec funkce. Když už se o dvůr starat nemůže, souhlasím s tebou, že pro rok 2027 bude nejlepší buď domluvit někoho z vlastníků, nebo poptat placenou údržbu podobně jako u úklidu – probereme to na shromáždění.
+   Ne, v té odměně to nebylo – Milan se o dvůr staral ve svém volném čase. Proplácel se mu jen drobný materiál, a když byla nějaká větší práce, dostal to zaplaceno dohodou. Letos jsem dvůr pohrabala a vytrhala plevel já (zadarmo). Na shromáždění jsem chtěla navrhnout, že kdo tam chce trávit čas, může se o prostor starat a domluvit se s těmi, kdo dvůr sdílejí. Zařadím to ale do bodu **Různé**, aby se k tomu vyjádřili všichni a dali nějaké návrhy, jak to do budoucna nastavit.
 
-3. **Využívání společných částí domu (dvora) nájemci nebytových prostor:**  
-   To je určitě dobrý podnět. Protože pozvánka s programem už byla rozeslána předem (dle § 1207 odst. 3 občanského zákoníku se nové body pořadu navrhují před rozesláním pozvánky), formální hlasovací bod už přidávat nebudeme, ale zařadíme to rovnou k projednání v bodě **Různé a diskuse**. Z pohledu SVJ jde o požární bezpečnost a užívání společných částí domu, takže vyklizení a zákaz skladování na dvoře může výbor SVJ řešit přímo. *(Případná ustanovení v samotných nájemních smlouvách nebytů pak případně ošetříme v rámci správy spoluvlastněných jednotek na plnou moc.)*
+3. **Zákaz rozšiřování nebytových prostor na společné části (dvůr):**  
+   Jestli tím míříš na Iva, tak tam nám bohužel bod na shromáždění SVJ nepomůže (a navíc už ani nejde do pozvánky formálně zařadit). Ale můžu to explicitně přidat přímo do nových nájemních smluv, které teď chystáme od nového roku. Taky mě to štve a často mu říkám, ať to nedělá.
 
-Díky moc a těším se v pondělí!
+Díky a těším se v pondělí!
 
 Veronika
 
