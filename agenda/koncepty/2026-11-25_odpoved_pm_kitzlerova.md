@@ -18,7 +18,7 @@ Než mi ji vhodíte do schránky, chci Vás pro jistotu předem férově upozorn
 - navrhuji úpravu **příspěvku na správu domu z 285 Kč na 350 Kč/jednotka měsíčně**, aby se srovnal dosavadní nedoplatek na správě (zálohy na služby zůstávají beze změny),
 - a schválení zadání **projektu rekonstrukce dvorní fasády** (65 tis. Kč bez DPH).
 
-Pokud byste s tímto zvýšením záloh měla jakýkoliv problém, raději mi plnou moc nedávejte (případně mi napište, jak přesně chcete hlasovat) :-)
+Pokud byste s tímto zvýšením záloh měla jakýkoliv problém, tak mi plnou moc raději vůbec nedávejte :-)
 
 Přeji klidný den a děkuji,
 

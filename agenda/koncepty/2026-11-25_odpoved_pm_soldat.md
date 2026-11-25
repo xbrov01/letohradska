@@ -18,7 +18,7 @@ Pro jistotu Vás chci předem férově upozornit na hlavní body pondělního sh
 - úpravu **příspěvku na správu domu z 285 Kč na 350 Kč/jednotka měsíčně**, aby se srovnal stávající nedoplatek na správě (zálohy na služby zůstávají beze změny),
 - a schválení zadání **projektu rekonstrukce dvorní fasády** (65 tis. Kč bez DPH).
 
-Pokud byste s tímto zvýšením záloh měl problém, klidně mi napište, ať Vaši plnou moc nepoužívám (nebo mi dejte vědět, jak přesně chcete hlasovat) :-)
+Pokud byste s tímto zvýšením záloh měl problém, dejte mi prosím vědět, ať Vaši plnou moc na shromáždění nepoužívám :-)
 
 Přeji pěkný den a děkuji,
 
