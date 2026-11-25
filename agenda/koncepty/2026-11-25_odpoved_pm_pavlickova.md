@@ -17,6 +17,4 @@ Jen pro upřesnění – protože už v domě nevlastníte byt v SVJ, na samotn�
 
 Mějte se moc hezky,
 
-Veronika Brožová  
-Předsedkyně výboru SVJ Letohradská 367/5, Praha 7  
-Tel.: +420 603 527 274
+Veronika

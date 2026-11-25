@@ -22,6 +22,4 @@ Pokud byste s tímto zvýšením záloh měl problém, dejte mi prosím vědět,
 
 Přeji pěkný den a děkuji,
 
-Veronika Brožová  
-Předsedkyně výboru SVJ Letohradská 367/5, Praha 7  
-Tel.: +420 603 527 274
+Veronika Brožová
