@@ -2,7 +2,7 @@
 
 - **Příjemce:** Eva Kitzlerová <ekitzlerova@centrum.cz>
 - **Předmět:** Re: pozvánka na 15. shromáždění SV Letohradská
-- **Stav:** 🟡 Připraveno ke kontrole a odeslání v Gmailu (NEODESÍLAT AUTOMATICKY)
+- **Stav:** ✅ Odesláno (26. 11. 2026)
 - **Datum vytvoření:** 25. 11. 2026
 
 ---

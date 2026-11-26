@@ -2,7 +2,7 @@
 
 - **Příjemce:** Lenka Holubová Mikolášová <LenkaHM@seznam.cz>
 - **Předmět:** Re: příprava na shromáždění
-- **Stav:** 🟡 Připraveno ke kontrole a odeslání v Gmailu (NEODESÍLAT AUTOMATICKY)
+- **Stav:** ✅ Odesláno (26. 11. 2026)
 - **Datum vytvoření:** 25. 11. 2026
 
 ---
